@@ -1,0 +1,7 @@
+# Dependencias para web scraping Portal Inmobiliario
+# Versiones compatibles con Python 3.13 y Windows (con wheels precompilados)
+
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pandas>=2.2.0
+lxml>=5.0.0
