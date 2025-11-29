@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from throttle_utils import build_session, Throttler, fetch
 
 def scrape_portal_inmobiliario():
-    base_url = "https://www.portalinmobiliario.com/venta/departamento/propiedades-usadas/metropolitana/_Desde_{}_NoIndex_True"
+    base_url = "https://www.portalinmobiliario.com/arriendo/departamento/propiedades-usadas/metropolitana/_Desde_{}_NoIndex_True"
     all_properties = []
 
     # Session + Throttler configurados para bajar el ritmo
@@ -21,7 +21,7 @@ def scrape_portal_inmobiliario():
         item_offset = (page_num - 1) * 48 + 1
 
         if page_num == 1:
-            url = "https://www.portalinmobiliario.com/venta/departamento/propiedades-usadas/metropolitana/_NoIndex_True"
+            url = "https://www.portalinmobiliario.com/arriendo/departamento/propiedades-usadas/metropolitana/_NoIndex_True"
         else:
             url = base_url.format(item_offset)
 
