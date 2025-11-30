@@ -1,4 +1,4 @@
-/env
+/.venv
 /__pycache__
-/andy/DataScience/venv
-/andy/DataScience/__pycache__
+.venv
+__pycache__
