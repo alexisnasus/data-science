@@ -10,5 +10,7 @@ ENV/
 # Jupyter Notebook
 .ipynb_checkpoints/
 
+mapa_precios_santiago.html
+
 # CSV data files (opcional - descomenta si no quieres subir los datos)
 # *.csv
