@@ -1,4 +1,14 @@
-/.venv
 /__pycache__
-.venv
 __pycache__
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# CSV data files (opcional - descomenta si no quieres subir los datos)
+# *.csv

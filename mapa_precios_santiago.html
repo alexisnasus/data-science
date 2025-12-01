@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_1785d610bbd3023d65150716fdcefce5 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdn.jsdelivr.net/gh/python-visualization/folium@main/folium/templates/leaflet_heat.min.js"></script>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_1785d610bbd3023d65150716fdcefce5" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_1785d610bbd3023d65150716fdcefce5 = L.map(
+                "map_1785d610bbd3023d65150716fdcefce5",
+                {
+                    center: [-33.4489, -70.6693],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 11,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_3e36d347cebd820fa9ef972c23877ea9 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_3e36d347cebd820fa9ef972c23877ea9.addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+            var circle_marker_4ec30a82c3fddd4246e73276740c80ee = L.circleMarker(
+                [-33.3833, -70.5833],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_f5674cb24ef88e3c7d9e8832e9c2a2e5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4b4a0a91db5fcae258132a26a2d73adb = $(`<div id="html_4b4a0a91db5fcae258132a26a2d73adb" style="width: 100.0%; height: 100.0%;">Vitacura<br>Precio promedio: $2,097,244</div>`)[0];
+                popup_f5674cb24ef88e3c7d9e8832e9c2a2e5.setContent(html_4b4a0a91db5fcae258132a26a2d73adb);
+            
+        
+
+        circle_marker_4ec30a82c3fddd4246e73276740c80ee.bindPopup(popup_f5674cb24ef88e3c7d9e8832e9c2a2e5)
+        ;
+
+        
+    
+    
+            var circle_marker_7b071a944792f13473bc320c5b5f4257 = L.circleMarker(
+                [-33.4166, -70.5833],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_c9c171dc7e627c45f4ad5e4ed41fcb90 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e065e138a03ff7d2e03b888a202d93d0 = $(`<div id="html_e065e138a03ff7d2e03b888a202d93d0" style="width: 100.0%; height: 100.0%;">Las Condes<br>Precio promedio: $1,575,676</div>`)[0];
+                popup_c9c171dc7e627c45f4ad5e4ed41fcb90.setContent(html_e065e138a03ff7d2e03b888a202d93d0);
+            
+        
+
+        circle_marker_7b071a944792f13473bc320c5b5f4257.bindPopup(popup_c9c171dc7e627c45f4ad5e4ed41fcb90)
+        ;
+
+        
+    
+    
+            var circle_marker_6568750ee4856bdcac451398d19cd8ae = L.circleMarker(
+                [-33.45, -70.5333],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_8ab523310bc5ae67e2c86a151b08987c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_edede7409788e3eab384a71199c349f8 = $(`<div id="html_edede7409788e3eab384a71199c349f8" style="width: 100.0%; height: 100.0%;">La Reina<br>Precio promedio: $1,050,000</div>`)[0];
+                popup_8ab523310bc5ae67e2c86a151b08987c.setContent(html_edede7409788e3eab384a71199c349f8);
+            
+        
+
+        circle_marker_6568750ee4856bdcac451398d19cd8ae.bindPopup(popup_8ab523310bc5ae67e2c86a151b08987c)
+        ;
+
+        
+    
+    
+            var circle_marker_9dce948132148b4fff4181857a225301 = L.circleMarker(
+                [-33.4372, -70.6106],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_5c84f1f7fc3f3d5bf76b7060395d6e0c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_da2cdf0d8c55aa27c42a5b2d4afa48ed = $(`<div id="html_da2cdf0d8c55aa27c42a5b2d4afa48ed" style="width: 100.0%; height: 100.0%;">Providencia<br>Precio promedio: $952,763</div>`)[0];
+                popup_5c84f1f7fc3f3d5bf76b7060395d6e0c.setContent(html_da2cdf0d8c55aa27c42a5b2d4afa48ed);
+            
+        
+
+        circle_marker_9dce948132148b4fff4181857a225301.bindPopup(popup_5c84f1f7fc3f3d5bf76b7060395d6e0c)
+        ;
+
+        
+    
+    
+            var circle_marker_56f7509e3a2bd964fa8cb621e53d2166 = L.circleMarker(
+                [-33.4969, -70.5167],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_5086156f492ac708c59c8c950aca5e02 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0a443906847c22b5df49fc1044433ea1 = $(`<div id="html_0a443906847c22b5df49fc1044433ea1" style="width: 100.0%; height: 100.0%;">Peñalolén<br>Precio promedio: $880,000</div>`)[0];
+                popup_5086156f492ac708c59c8c950aca5e02.setContent(html_0a443906847c22b5df49fc1044433ea1);
+            
+        
+
+        circle_marker_56f7509e3a2bd964fa8cb621e53d2166.bindPopup(popup_5086156f492ac708c59c8c950aca5e02)
+        ;
+
+        
+    
+    
+            var circle_marker_1d8f92b952c017f048a154e463d2589b = L.circleMarker(
+                [-33.3667, -70.6333],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_83c53b3bdb7375fe89d2c5eac97af3c2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a5a80822d8a78af34ac7ad8e362c8894 = $(`<div id="html_a5a80822d8a78af34ac7ad8e362c8894" style="width: 100.0%; height: 100.0%;">Huechuraba<br>Precio promedio: $710,000</div>`)[0];
+                popup_83c53b3bdb7375fe89d2c5eac97af3c2.setContent(html_a5a80822d8a78af34ac7ad8e362c8894);
+            
+        
+
+        circle_marker_1d8f92b952c017f048a154e463d2589b.bindPopup(popup_83c53b3bdb7375fe89d2c5eac97af3c2)
+        ;
+
+        
+    
+    
+            var circle_marker_74a5ba8da3baaa9ec72ebbf10cc524b4 = L.circleMarker(
+                [-33.4569, -70.5978],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_3ee107be2ef357b3d2b55152feece9e7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_25d52c007c400cbac5d4e937cf292673 = $(`<div id="html_25d52c007c400cbac5d4e937cf292673" style="width: 100.0%; height: 100.0%;">Ñuñoa<br>Precio promedio: $614,861</div>`)[0];
+                popup_3ee107be2ef357b3d2b55152feece9e7.setContent(html_25d52c007c400cbac5d4e937cf292673);
+            
+        
+
+        circle_marker_74a5ba8da3baaa9ec72ebbf10cc524b4.bindPopup(popup_3ee107be2ef357b3d2b55152feece9e7)
+        ;
+
+        
+    
+    
+            var circle_marker_492826d323c4bde93b0d3e86c32ef5ea = L.circleMarker(
+                [-33.4969, -70.6322],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_4d851fa28c9718ea222a03b104795b03 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_66b16b6047b19009621e196fb6b18915 = $(`<div id="html_66b16b6047b19009621e196fb6b18915" style="width: 100.0%; height: 100.0%;">San Joaquín<br>Precio promedio: $540,586</div>`)[0];
+                popup_4d851fa28c9718ea222a03b104795b03.setContent(html_66b16b6047b19009621e196fb6b18915);
+            
+        
+
+        circle_marker_492826d323c4bde93b0d3e86c32ef5ea.bindPopup(popup_4d851fa28c9718ea222a03b104795b03)
+        ;
+
+        
+    
+    
+            var circle_marker_93f454073c0955ee5b8d65c25f1b7f14 = L.circleMarker(
+                [-33.4914, -70.5978],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_a42fd6eb3a410420f9547460182d2fee = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e2b091f858b70bf0bae8a6f530021c78 = $(`<div id="html_e2b091f858b70bf0bae8a6f530021c78" style="width: 100.0%; height: 100.0%;">Macul<br>Precio promedio: $446,457</div>`)[0];
+                popup_a42fd6eb3a410420f9547460182d2fee.setContent(html_e2b091f858b70bf0bae8a6f530021c78);
+            
+        
+
+        circle_marker_93f454073c0955ee5b8d65c25f1b7f14.bindPopup(popup_a42fd6eb3a410420f9547460182d2fee)
+        ;
+
+        
+    
+    
+            var circle_marker_6210ca91fa4d3898ce64c458442b48a7 = L.circleMarker(
+                [-33.5242, -70.5989],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_24c1386abd29525e7784e0d8e3daea17 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_927c52e990b17b3305e487874c0eee86 = $(`<div id="html_927c52e990b17b3305e487874c0eee86" style="width: 100.0%; height: 100.0%;">La Florida<br>Precio promedio: $420,552</div>`)[0];
+                popup_24c1386abd29525e7784e0d8e3daea17.setContent(html_927c52e990b17b3305e487874c0eee86);
+            
+        
+
+        circle_marker_6210ca91fa4d3898ce64c458442b48a7.bindPopup(popup_24c1386abd29525e7784e0d8e3daea17)
+        ;
+
+        
+    
+    
+            var circle_marker_45afe9fe503345bc14935dd600c82b35 = L.circleMarker(
+                [-33.5108, -70.7578],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_b9b56ffcf8c2f8c4202fd74b10642012 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c779dedd31207a71e7aa9ed6481bf7dc = $(`<div id="html_c779dedd31207a71e7aa9ed6481bf7dc" style="width: 100.0%; height: 100.0%;">Maipú<br>Precio promedio: $412,500</div>`)[0];
+                popup_b9b56ffcf8c2f8c4202fd74b10642012.setContent(html_c779dedd31207a71e7aa9ed6481bf7dc);
+            
+        
+
+        circle_marker_45afe9fe503345bc14935dd600c82b35.bindPopup(popup_b9b56ffcf8c2f8c4202fd74b10642012)
+        ;
+
+        
+    
+    
+            var circle_marker_6c663a754f02ebad0d48e03eb34b00b8 = L.circleMarker(
+                [-33.4372, -70.6506],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_22a8bd73303ac9e32f4d088b987306e3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8c10384a45fe6b2ff8706e3fdfef72df = $(`<div id="html_8c10384a45fe6b2ff8706e3fdfef72df" style="width: 100.0%; height: 100.0%;">Santiago<br>Precio promedio: $407,682</div>`)[0];
+                popup_22a8bd73303ac9e32f4d088b987306e3.setContent(html_8c10384a45fe6b2ff8706e3fdfef72df);
+            
+        
+
+        circle_marker_6c663a754f02ebad0d48e03eb34b00b8.bindPopup(popup_22a8bd73303ac9e32f4d088b987306e3)
+        ;
+
+        
+    
+    
+            var circle_marker_27ffc656bf2ade020f77366241450175 = L.circleMarker(
+                [-33.4972, -70.7167],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_9c471e61e67a5bfdf377e7c728f7034a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9ff2ec1882fa333fbf4deff66c1ced85 = $(`<div id="html_9ff2ec1882fa333fbf4deff66c1ced85" style="width: 100.0%; height: 100.0%;">Cerrillos<br>Precio promedio: $399,627</div>`)[0];
+                popup_9c471e61e67a5bfdf377e7c728f7034a.setContent(html_9ff2ec1882fa333fbf4deff66c1ced85);
+            
+        
+
+        circle_marker_27ffc656bf2ade020f77366241450175.bindPopup(popup_9c471e61e67a5bfdf377e7c728f7034a)
+        ;
+
+        
+    
+    
+            var circle_marker_f5595a86405e003437a47aece9c8b5c6 = L.circleMarker(
+                [-33.4969, -70.6533],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_2c873f652044f9e264837cdaa25a82e6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_59a9c1b04579457f483ed6c0b870d809 = $(`<div id="html_59a9c1b04579457f483ed6c0b870d809" style="width: 100.0%; height: 100.0%;">San Miguel<br>Precio promedio: $388,391</div>`)[0];
+                popup_2c873f652044f9e264837cdaa25a82e6.setContent(html_59a9c1b04579457f483ed6c0b870d809);
+            
+        
+
+        circle_marker_f5595a86405e003437a47aece9c8b5c6.bindPopup(popup_2c873f652044f9e264837cdaa25a82e6)
+        ;
+
+        
+    
+    
+            var circle_marker_3eb750042014fd4765acf190d753c678 = L.circleMarker(
+                [-33.4167, -70.6333],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_6ad78741121ee746bede3959f1590359 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_637b9c6063a0c5ee1071948776635f16 = $(`<div id="html_637b9c6063a0c5ee1071948776635f16" style="width: 100.0%; height: 100.0%;">Recoleta<br>Precio promedio: $386,968</div>`)[0];
+                popup_6ad78741121ee746bede3959f1590359.setContent(html_637b9c6063a0c5ee1071948776635f16);
+            
+        
+
+        circle_marker_3eb750042014fd4765acf190d753c678.bindPopup(popup_6ad78741121ee746bede3959f1590359)
+        ;
+
+        
+    
+    
+            var circle_marker_b5dc4db485032d8f09e6f3feffdc1c29 = L.circleMarker(
+                [-33.4167, -70.6667],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_c41acccf5d8a7475760a6b3f8d917ff0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a8902c0ea37ce539a837f5f46f22ab22 = $(`<div id="html_a8902c0ea37ce539a837f5f46f22ab22" style="width: 100.0%; height: 100.0%;">Independencia<br>Precio promedio: $309,488</div>`)[0];
+                popup_c41acccf5d8a7475760a6b3f8d917ff0.setContent(html_a8902c0ea37ce539a837f5f46f22ab22);
+            
+        
+
+        circle_marker_b5dc4db485032d8f09e6f3feffdc1c29.bindPopup(popup_c41acccf5d8a7475760a6b3f8d917ff0)
+        ;
+
+        
+    
+    
+            var circle_marker_018aa8688222f84186fc444222c970b0 = L.circleMarker(
+                [-33.4333, -70.7],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_bd54a566342a432f38d773c00fa3e724 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_eab4857ac469c6fd320e36587f39c677 = $(`<div id="html_eab4857ac469c6fd320e36587f39c677" style="width: 100.0%; height: 100.0%;">Quinta Normal<br>Precio promedio: $298,775</div>`)[0];
+                popup_bd54a566342a432f38d773c00fa3e724.setContent(html_eab4857ac469c6fd320e36587f39c677);
+            
+        
+
+        circle_marker_018aa8688222f84186fc444222c970b0.bindPopup(popup_bd54a566342a432f38d773c00fa3e724)
+        ;
+
+        
+    
+    
+            var circle_marker_385c242134d1ae562b19c38dac668ff6 = L.circleMarker(
+                [-33.5333, -70.6667],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_610dfb4f845e81d600d0b407b90fc840 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_dc66aaaa5cf4de6098e02ba9e31fea3f = $(`<div id="html_dc66aaaa5cf4de6098e02ba9e31fea3f" style="width: 100.0%; height: 100.0%;">La Cisterna<br>Precio promedio: $287,717</div>`)[0];
+                popup_610dfb4f845e81d600d0b407b90fc840.setContent(html_dc66aaaa5cf4de6098e02ba9e31fea3f);
+            
+        
+
+        circle_marker_385c242134d1ae562b19c38dac668ff6.bindPopup(popup_610dfb4f845e81d600d0b407b90fc840)
+        ;
+
+        
+    
+    
+            var circle_marker_c5aede2f613f50b3609dbec3ccab0b27 = L.circleMarker(
+                [-33.4667, -70.6833],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8, "stroke": true, "weight": 3}
+            ).addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+    
+        var popup_0e863fb191951df0698b10b4f0897c72 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8e78f947d04c8f15acd523111d9537a3 = $(`<div id="html_8e78f947d04c8f15acd523111d9537a3" style="width: 100.0%; height: 100.0%;">Estación Central<br>Precio promedio: $280,793</div>`)[0];
+                popup_0e863fb191951df0698b10b4f0897c72.setContent(html_8e78f947d04c8f15acd523111d9537a3);
+            
+        
+
+        circle_marker_c5aede2f613f50b3609dbec3ccab0b27.bindPopup(popup_0e863fb191951df0698b10b4f0897c72)
+        ;
+
+        
+    
+    
+            var heat_map_cbf8f0cc8c6494d77b635dd4f8464486 = L.heatLayer(
+                [[-33.3833, -70.5833, 1.0], [-33.4166, -70.5833, 0.7513077715732813], [-33.45, -70.5333, 0.5006569466813596], [-33.4372, -70.6106, 0.4542927757056879], [-33.4969, -70.5167, 0.419598202932949], [-33.3667, -70.6333, 0.3385394591845384], [-33.4569, -70.5978, 0.29317569261959253], [-33.4969, -70.6322, 0.2577603681020598], [-33.4914, -70.5978, 0.21287783516390366], [-33.5242, -70.5989, 0.20052603416122744], [-33.5108, -70.7578, 0.19668665762481988], [-33.4372, -70.6506, 0.19438957576512714], [-33.4972, -70.7167, 0.1905484127320505], [-33.4969, -70.6533, 0.1851912562515894], [-33.4167, -70.6333, 0.18451234953801812], [-33.4167, -70.6667, 0.1475688734424006], [-33.4333, -70.7, 0.14246074213783164], [-33.5333, -70.6667, 0.137188188734424], [-33.4667, -70.6833, 0.13388644358735272]],
+                {
+  "minOpacity": 0.5,
+  "maxZoom": 18,
+  "radius": 25,
+  "blur": 35,
+  "gradient": {
+  0.4: "blue",
+  0.65: "lime",
+  0.8: "orange",
+  1.0: "red",
+},
+}
+            );
+        
+    
+            heat_map_cbf8f0cc8c6494d77b635dd4f8464486.addTo(map_1785d610bbd3023d65150716fdcefce5);
+        
+</script>
+</html>
