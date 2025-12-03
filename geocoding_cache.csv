@@ -1,0 +1,3441 @@
+index,lat,lon,comuna_geo,query_used
+0,-33.3922423,-70.5833146,Vitacura,"espoz, Santiago, Chile"
+1,-33.4400431,-70.6778428,Vitacura,Barrio: santa teresita
+2,-33.3811415,-70.5221011,Las Condes,Barrio: san damián
+3,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+4,,,No Especificada,Failed
+5,-33.4358375,-70.6592247,Santiago,"mario kreutzberger, Santiago, Chile"
+6,-33.4465045,-70.660975,Santiago,"aeropuerto, Santiago, Chile"
+7,-33.4393407,-70.6583691,Santiago,"zañartu, Santiago, Chile"
+10,,,No Especificada,Failed
+11,-33.4288232,-70.5584058,Las Condes,"vichato, Santiago, Chile"
+12,-33.5638417,-70.5727364,Puente Alto,"abtao, Santiago, Chile"
+13,-33.4369675,-70.660413,Santiago,"av. manuel rodriguez norte, Santiago, Chile"
+14,-33.4647952,-70.6425048,Santiago,"avenida santa rosa, Santiago, Chile"
+15,-33.4534319,-70.6629722,Santiago,"josé miguel carrera, Santiago, Chile"
+16,-33.4667307,-70.6324885,San Joaquín,"sargento aldea, Santiago, Chile"
+17,-33.5116462,-70.6608493,San Miguel,"novena avenida, Santiago, Chile"
+18,-33.4424384,-70.6430735,Santiago,"diagonal paraguay, Santiago, Chile"
+19,-33.4556894,-70.6877099,Estación Central,"coronel souper, Santiago, Chile"
+20,-33.4410343,-70.6555576,Santiago,"compañía, Santiago, Chile"
+21,-33.5015429,-70.7012717,Cerrillos,"dirigente zúñiga, Santiago, Chile"
+22,-33.4344456,-70.6561634,Santiago,"san pablo / teatinos, Santiago, Chile"
+23,-33.4144246,-70.6763088,Independencia,"avenida domingo santa maría, Santiago, Chile"
+24,-33.5197638,-70.5962095,La Florida,"vicuña mackenna, Santiago, Chile"
+26,-33.4647952,-70.6425048,Santiago,"avenida santa rosa, Santiago, Chile"
+27,-33.4124062,-70.6587264,Independencia,"avenida inglaterra, Santiago, Chile"
+28,-33.4349176,-70.6663154,Santiago,"general baquedano, Santiago, Chile"
+29,-33.5158561,-70.6622086,La Cisterna,"carvajal, Santiago, Chile"
+30,,,No Especificada,Failed
+31,-33.4912817,-70.6160481,Macul,"avenida escuela agrícola, Santiago, Chile"
+32,-33.4425608,-70.643569,Santiago,"carmen, Santiago, Chile"
+33,-33.4775505,-70.6283477,San Joaquín,"diagonal santa elena, Santiago, Chile"
+34,-33.5058267,-70.6618977,San Miguel,"cuarta avenida, Santiago, Chile"
+35,-33.4205673,-70.6558062,Independencia,"gamero, Santiago, Chile"
+36,-33.5152221,-70.6040641,La Florida,"avenida vicuña mackenna oriente, Santiago, Chile"
+37,-33.5105207,-70.5924317,La Florida,"lago pirihueico 6502, Santiago, Chile"
+38,-33.4751379,-70.7577112,Maipú,"avenida américo vespucio, Santiago, Chile"
+40,-33.4510099,-70.6820429,Estación Central,"avenida ecuador, Santiago, Chile"
+41,-33.4415617,-70.6691928,Santiago,"huérfanos, Santiago, Chile"
+42,-33.4393407,-70.6583691,Santiago,"zañartu, Santiago, Chile"
+43,-33.4860502,-70.6504596,San Miguel,"alcalde pedro alarcón, Santiago, Chile"
+44,-33.4434608,-70.6796765,Quinta Normal,"matucana, Santiago, Chile"
+45,-33.5153459,-70.6616709,La Cisterna,"briones luco, Santiago, Chile"
+46,-33.4671076,-70.6469026,Santiago,"arturo prat, Santiago, Chile"
+47,-33.7016281,-71.2186971,Melipilla,"placilla, Santiago, Chile"
+48,-33.4348173,-70.6074381,Providencia,"los estanques, Santiago, Chile"
+49,-33.4685828,-70.6547302,San Miguel,"san ignacio de loyola, Santiago, Chile"
+50,-33.4303351,-70.668607,Independencia,"san nicolás, Santiago, Chile"
+51,-33.4420014,-70.57242,La Reina,"avenida ossa, Santiago, Chile"
+52,-33.4314139,-70.6857818,Quinta Normal,"juan de barros, Santiago, Chile"
+53,-33.4671076,-70.6469026,Santiago,"arturo prat, Santiago, Chile"
+54,-33.4551228,-70.6300098,Providencia,"avenida vicuña mackenna, Santiago, Chile"
+55,-33.4600701,-70.6355209,Santiago,"lira, Santiago, Chile"
+56,-33.4604081,-70.6490617,Santiago,"san diego, Santiago, Chile"
+57,-33.4216661,-70.6478065,Recoleta,"santos dumont, Santiago, Chile"
+58,,,No Especificada,Failed
+59,-33.5478816,-70.767135,Maipú,"constantino, Santiago, Chile"
+60,-33.4734625,-70.6489749,San Miguel,"santa rosa, Santiago, Chile"
+61,-33.5638417,-70.5727364,Puente Alto,"abtao, Santiago, Chile"
+62,-33.5204777,-70.6525452,La Cisterna,"avenida maría, Santiago, Chile"
+63,-33.4124062,-70.6587264,Independencia,"avenida inglaterra, Santiago, Chile"
+64,-33.4766603,-70.6494774,San Miguel,"franklin, Santiago, Chile"
+65,-33.4604081,-70.6490617,Santiago,"san diego, Santiago, Chile"
+66,-33.5197638,-70.5962095,La Florida,"vicuña mackenna, Santiago, Chile"
+67,-33.5150119,-70.6471846,San Miguel,"san petersburgo, Santiago, Chile"
+68,-33.4420638,-70.6456647,Santiago,"avenida alameda libertador bernardo o'higgins, Santiago, Chile"
+69,-33.5197638,-70.5962095,La Florida,"vicuña mackenna, Santiago, Chile"
+70,-33.4234607,-70.6418473,Recoleta,"maestra lidia torres, Santiago, Chile"
+71,-33.4584266,-70.6921074,Estación Central,"coronel godoy, Santiago, Chile"
+72,-33.4537646,-70.6327494,Santiago,"fray camilo henríquez, Santiago, Chile"
+73,-33.4543416,-70.7058604,Estación Central,"avenida maría rozas velásquez, Santiago, Chile"
+74,-33.4604081,-70.6490617,Santiago,"san diego, Santiago, Chile"
+75,-33.4503743,-70.654608,Santiago,"lord cochrane, Santiago, Chile"
+76,-33.4343466,-70.6545109,Santiago,"san pablo, Santiago, Chile"
+77,-33.4250427,-70.6392104,Recoleta,"la virgen, Santiago, Chile"
+78,-33.5070432,-70.6849853,Lo Espejo,"lazo, Santiago, Chile"
+79,-33.5638417,-70.5727364,Puente Alto,"abtao, Santiago, Chile"
+80,-33.4303351,-70.668607,Independencia,"san nicolás, Santiago, Chile"
+81,-33.4124062,-70.6587264,Independencia,"avenida inglaterra, Santiago, Chile"
+82,-33.4249032,-70.6414276,Recoleta,"humorista carlos helo, Santiago, Chile"
+83,-33.4909902,-70.6460403,San Miguel,"álvarez de toledo, Santiago, Chile"
+84,-33.5126493,-70.6612056,San Miguel,"décima avenida, Santiago, Chile"
+85,-33.4477791,-70.6435718,Santiago,"marín, Santiago, Chile"
+86,-33.5389858,-70.682341,La Cisterna,"trinidad ramírez, Santiago, Chile"
+87,-33.4701571,-70.6392365,San Joaquín,"general gana, Santiago, Chile"
+89,-33.5006793,-70.7856215,Maipú,"santa petronila, Santiago, Chile"
+90,-33.4401216,-70.6777242,Santiago,"catedral, Santiago, Chile"
+91,-33.4401216,-70.6777242,Santiago,"catedral, Santiago, Chile"
+92,-33.4488853,-70.6426919,Santiago,"santa victoria, Santiago, Chile"
+93,-33.5189838,-70.6521566,La Cisterna,"josé ureta, Santiago, Chile"
+94,-33.4543416,-70.7058604,Estación Central,"avenida maría rozas velásquez, Santiago, Chile"
+95,-33.5361069,-70.5926966,La Florida,"rojas magallanes, Santiago, Chile"
+96,-33.4551228,-70.6300098,Providencia,"avenida vicuña mackenna, Santiago, Chile"
+97,-33.4647952,-70.6425048,Santiago,"avenida santa rosa, Santiago, Chile"
+98,-33.4345675,-70.6464205,Santiago,"ismael valdés vergara, Santiago, Chile"
+99,-33.4441181,-70.6849799,Estación Central,"avenida portales, Santiago, Chile"
+100,-33.4384638,-70.6902824,Quinta Normal,"san gumercindo, Santiago, Chile"
+101,-33.4205673,-70.6558062,Independencia,"gamero, Santiago, Chile"
+102,-33.4479201,-70.6487298,Santiago,"serrano, Santiago, Chile"
+103,-33.5090453,-70.6481602,San Miguel,"vargas buston, Santiago, Chile"
+104,-33.4395568,-70.6448669,Santiago,"máximo humbser, Santiago, Chile"
+105,-33.5068179,-70.6622648,San Miguel,"quinta avenida, Santiago, Chile"
+106,,,No Especificada,Failed
+108,,,No Especificada,Failed
+109,,,No Especificada,Failed
+110,,,No Especificada,Failed
+111,,,No Especificada,Failed
+112,,,No Especificada,Failed
+114,,,No Especificada,Failed
+115,,,No Especificada,Failed
+116,,,No Especificada,Failed
+118,-33.4547511,-70.699381,Estación Central,"conde del maule, Santiago, Chile"
+119,-33.4671076,-70.6469026,Santiago,"arturo prat, Santiago, Chile"
+120,,,No Especificada,Failed
+121,,,No Especificada,Failed
+122,-33.4404291,-70.6114625,Providencia,"parque ines de suarez, Santiago, Chile"
+123,-33.4503743,-70.654608,Santiago,"lord cochrane, Santiago, Chile"
+124,-33.7347547,-70.6821979,Alto Jahuel,"calle el molino, Santiago, Chile"
+125,-33.4543416,-70.7058604,Estación Central,"avenida maría rozas velásquez, Santiago, Chile"
+126,-33.5610262,-70.5841616,La Florida,"calle 2, Santiago, Chile"
+127,,,No Especificada,Failed
+130,,,No Especificada,Failed
+131,-33.4498901,-70.6368428,Santiago,"argomedo, Santiago, Chile"
+133,-33.4560959,-70.6459709,Santiago,"san francisco, Santiago, Chile"
+134,-33.3693584,-70.5582131,Vitacura,Barrio: lo curro
+135,-33.5197638,-70.5962095,La Florida,"vicuña mackenna, Santiago, Chile"
+137,-33.4802582,-70.7435781,Maipú,"avenida los pajaritos, Santiago, Chile"
+138,-33.4206765,-70.6405984,Recoleta,"avenida perú, Santiago, Chile"
+139,-33.4216661,-70.6478065,Recoleta,"santos dumont, Santiago, Chile"
+140,-33.4376338,-70.5474519,La Reina,"carlos silva vildósola, Santiago, Chile"
+141,-33.5610262,-70.5841616,La Florida,"calle 2, Santiago, Chile"
+143,-33.4533067,-70.6581276,Santiago,"avenida manuel rodríguez sur, Santiago, Chile"
+144,-33.4442728,-70.6364754,Santiago,"california, Santiago, Chile"
+145,-33.4547511,-70.699381,Estación Central,"conde del maule, Santiago, Chile"
+146,-33.4293231,-70.6604938,Independencia,"avenida fermín vivaceta, Santiago, Chile"
+147,-33.4552101,-70.7013694,Estación Central,"radal del obispo francisco anabalón duarte, Santiago, Chile"
+148,-33.498019,-70.6449256,San Miguel,"frankfort, Santiago, Chile"
+149,-33.4191859,-70.6620574,Independencia,"carrión, Santiago, Chile"
+150,-33.4250427,-70.6392104,Recoleta,"la virgen, Santiago, Chile"
+151,-33.4428748,-70.6518488,Santiago,"bandera, Santiago, Chile"
+152,-33.4551228,-70.6300098,Providencia,"avenida vicuña mackenna, Santiago, Chile"
+153,-33.4909902,-70.6460403,San Miguel,"álvarez de toledo, Santiago, Chile"
+154,,,No Especificada,Failed
+155,-33.5136383,-70.6086672,La Florida,"avenida vicuña mackenna poniente, Santiago, Chile"
+156,-33.4537646,-70.6327494,Santiago,"fray camilo henríquez, Santiago, Chile"
+157,,,No Especificada,Failed
+158,-33.4547511,-70.699381,Estación Central,"conde del maule, Santiago, Chile"
+159,-33.4479201,-70.6487298,Santiago,"serrano, Santiago, Chile"
+160,-33.4423495,-70.6532902,Santiago,"morandé, Santiago, Chile"
+161,-33.4584266,-70.6921074,Estación Central,"coronel godoy, Santiago, Chile"
+162,-33.4547511,-70.699381,Estación Central,"conde del maule, Santiago, Chile"
+163,-33.4075185,-70.5607405,Las Condes,"avenida apoquindo, Santiago, Chile"
+164,-33.5090453,-70.6481602,San Miguel,"vargas buston, Santiago, Chile"
+165,-33.5006793,-70.7856215,Maipú,"santa petronila, Santiago, Chile"
+166,-33.4124062,-70.6587264,Independencia,"avenida inglaterra, Santiago, Chile"
+168,-33.4404813,-70.6473545,Santiago,"agustinas, Santiago, Chile"
+169,-33.4719151,-70.6452844,San Miguel,"chiloé, Santiago, Chile"
+170,-33.4234607,-70.6418473,Recoleta,"maestra lidia torres, Santiago, Chile"
+171,-33.5136383,-70.6086672,La Florida,"avenida vicuña mackenna poniente, Santiago, Chile"
+172,-33.4366274,-70.6446819,Santiago,"monjitas, Santiago, Chile"
+173,-33.4191859,-70.6620574,Independencia,"carrión, Santiago, Chile"
+174,-33.4124062,-70.6587264,Independencia,"avenida inglaterra, Santiago, Chile"
+175,-33.4543416,-70.7058604,Estación Central,"avenida maría rozas velásquez, Santiago, Chile"
+176,-33.5204777,-70.6525452,La Cisterna,"avenida maría, Santiago, Chile"
+177,-33.4704003,-70.6270227,Santiago,"santa elena, Santiago, Chile"
+178,-33.4350794,-70.6572754,Santiago,"amunátegui, Santiago, Chile"
+179,-33.449671,-70.6622162,Santiago,"barcelona, Santiago, Chile"
+180,-33.4510099,-70.6820429,Estación Central,"avenida víctor jara, Santiago, Chile"
+181,-33.4519112,-70.6457137,Santiago,"eyzaguirre, Santiago, Chile"
+182,-33.4551228,-70.6300098,Providencia,"avenida vicuña mackenna, Santiago, Chile"
+183,-33.4508543,-70.7057134,Estación Central,"buzo sobenes, Santiago, Chile"
+184,-33.4482132,-70.6975554,Estación Central,"blanco garcés, Santiago, Chile"
+185,-33.4482812,-70.6513624,Santiago,Barrio: santa isabel
+186,-33.5153459,-70.6616709,La Cisterna,"briones luco, Santiago, Chile"
+187,-33.5886386,-70.5501064,Puente Alto,"avenida paseo pie andino, Santiago, Chile"
+188,-33.4668389,-70.6003934,Ñuñoa,"exequiel fernández, Santiago, Chile"
+190,-33.4547511,-70.699381,Estación Central,"conde del maule, Santiago, Chile"
+191,-33.4840866,-70.6004889,Macul,"los clarines, Santiago, Chile"
+192,-33.4322001,-70.6707816,Independencia,"avenida mapocho, Santiago, Chile"
+193,-33.4144246,-70.6763088,Independencia,"avenida domingo santa maría, Santiago, Chile"
+194,,,No Especificada,Failed
+195,-33.4431114,-70.6747037,Santiago,"portales, Santiago, Chile"
+196,-33.4425608,-70.643569,Santiago,"carmen, Santiago, Chile"
+197,-33.4358375,-70.6592247,Santiago,"mario kreutzberger, Santiago, Chile"
+199,,,No Especificada,Failed
+200,-33.4226662,-70.6404477,Recoleta,"santos dumont 191 av peru, Santiago, Chile"
+201,-33.4012621,-70.5172896,Las Condes,Barrio: san carlos de apoquindo
+202,,,No Especificada,Failed
+203,,,No Especificada,Failed
+206,,,No Especificada,Failed
+207,,,No Especificada,Failed
+208,,,No Especificada,Failed
+209,,,No Especificada,Failed
+210,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+212,,,No Especificada,Failed
+213,,,No Especificada,Failed
+214,,,No Especificada,Failed
+216,,,No Especificada,Failed
+218,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+220,,,No Especificada,Failed
+222,,,No Especificada,Failed
+225,,,No Especificada,Failed
+226,-33.4513929,-70.6505616,Santiago,Barrio: parque almagro
+227,-33.4534937,-70.570823,Ñuñoa,Barrio: plaza egaña
+228,-33.4251146,-70.5859461,Las Condes,"cristobal colon/alcantara, Santiago, Chile"
+229,,,No Especificada,Failed
+230,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+231,,,No Especificada,Failed
+232,,,No Especificada,Failed
+233,,,No Especificada,Failed
+234,,,No Especificada,Failed
+235,-33.4550535,-70.6283154,Ñuñoa,"irarrázaval, Santiago, Chile"
+236,-33.357916,-70.7464656,Quilicura,"y vista norte (120161), Santiago, Chile"
+238,,,No Especificada,Failed
+239,,,No Especificada,Failed
+240,,,No Especificada,Failed
+241,,,No Especificada,Failed
+243,,,No Especificada,Failed
+244,,,No Especificada,Failed
+246,,,No Especificada,Failed
+247,,,No Especificada,Failed
+250,,,No Especificada,Failed
+255,,,No Especificada,Failed
+256,,,No Especificada,Failed
+257,,,No Especificada,Failed
+258,,,No Especificada,Failed
+259,,,No Especificada,Failed
+263,,,No Especificada,Failed
+264,,,No Especificada,Failed
+268,,,No Especificada,Failed
+269,,,No Especificada,Failed
+270,,,No Especificada,Failed
+271,,,No Especificada,Failed
+272,,,No Especificada,Failed
+273,,,No Especificada,Failed
+274,,,No Especificada,Failed
+275,,,No Especificada,Failed
+276,,,No Especificada,Failed
+277,,,No Especificada,Failed
+278,-33.4325903,-70.6806822,Quinta Normal,"matucana/mapocho, Santiago, Chile"
+283,,,No Especificada,Failed
+284,,,No Especificada,Failed
+286,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+290,,,No Especificada,Failed
+291,,,No Especificada,Failed
+292,,,No Especificada,Failed
+295,,,No Especificada,Failed
+296,,,No Especificada,Failed
+303,,,No Especificada,Failed
+305,,,No Especificada,Failed
+306,,,No Especificada,Failed
+307,-33.4373682,-70.6501011,Providencia,Barrio: pedro de valdivia
+308,-33.4094637,-70.5697326,Las Condes,Barrio: manquehue
+309,,,No Especificada,Failed
+310,,,No Especificada,Failed
+312,,,No Especificada,Failed
+315,,,No Especificada,Failed
+316,,,No Especificada,Failed
+317,,,No Especificada,Failed
+319,,,No Especificada,Failed
+323,,,No Especificada,Failed
+324,,,No Especificada,Failed
+325,,,No Especificada,Failed
+326,,,No Especificada,Failed
+327,,,No Especificada,Failed
+330,,,No Especificada,Failed
+331,-33.4094637,-70.5697326,Las Condes,Barrio: manquehue
+332,,,No Especificada,Failed
+333,,,No Especificada,Failed
+334,,,No Especificada,Failed
+336,,,No Especificada,Failed
+339,,,No Especificada,Failed
+340,,,No Especificada,Failed
+341,,,No Especificada,Failed
+342,,,No Especificada,Failed
+344,,,No Especificada,Failed
+346,,,No Especificada,Failed
+347,-33.6081467,-70.5592173,Puente Alto,": 1d 1b bodega, Santiago, Chile"
+348,,,No Especificada,Failed
+350,,,No Especificada,Failed
+353,,,No Especificada,Failed
+355,,,No Especificada,Failed
+356,,,No Especificada,Failed
+357,,,No Especificada,Failed
+359,,,No Especificada,Failed
+360,,,No Especificada,Failed
+361,,,No Especificada,Failed
+362,,,No Especificada,Failed
+364,,,No Especificada,Failed
+365,,,No Especificada,Failed
+369,,,No Especificada,Failed
+370,,,No Especificada,Failed
+371,,,No Especificada,Failed
+372,-33.4094637,-70.5697326,Las Condes,Barrio: manquehue
+373,,,No Especificada,Failed
+374,,,No Especificada,Failed
+375,,,No Especificada,Failed
+377,,,No Especificada,Failed
+378,,,No Especificada,Failed
+379,,,No Especificada,Failed
+380,,,No Especificada,Failed
+381,,,No Especificada,Failed
+382,,,No Especificada,Failed
+383,,,No Especificada,Failed
+384,-33.4778167,-70.6222636,Macul,Barrio: rodrigo de araya
+386,,,No Especificada,Failed
+387,,,No Especificada,Failed
+388,,,No Especificada,Failed
+389,,,No Especificada,Failed
+390,,,No Especificada,Failed
+394,-33.5024728,-70.6625889,San Miguel,"primera avenida, Santiago, Chile"
+396,,,No Especificada,Failed
+415,,,No Especificada,Failed
+420,,,No Especificada,Failed
+424,,,No Especificada,Failed
+432,,,No Especificada,Failed
+433,,,No Especificada,Failed
+434,,,No Especificada,Failed
+435,,,No Especificada,Failed
+436,-33.4208223,-70.6581819,Independencia,"cnel, Santiago, Chile"
+437,,,No Especificada,Failed
+438,,,No Especificada,Failed
+439,,,No Especificada,Failed
+440,-33.3658584,-70.757788,Quilicura,"calle san ignacio de loyola, Santiago, Chile"
+441,,,No Especificada,Failed
+442,,,No Especificada,Failed
+443,,,No Especificada,Failed
+444,-33.3963626,-70.5470679,Las Condes,"gral, Santiago, Chile"
+445,,,No Especificada,Failed
+446,,,No Especificada,Failed
+447,-33.4463153,-70.6708333,Santiago,"garcía reyes, Santiago, Chile"
+448,-33.5064374,-70.6526678,San Miguel,"carmen mena, Santiago, Chile"
+449,,,No Especificada,Failed
+451,,,No Especificada,Failed
+452,,,No Especificada,Failed
+453,-33.4909902,-70.6460403,San Miguel,"alvarez de toledo, Santiago, Chile"
+454,42.8717659,-8.5502729,Santiago De Compostela,"la coruña, Santiago, Chile"
+455,,,No Especificada,Failed
+456,,,No Especificada,Failed
+457,,,No Especificada,Failed
+458,-33.4482812,-70.6513624,Santiago,Barrio: santa isabel
+459,,,No Especificada,Failed
+460,,,No Especificada,Failed
+461,,,No Especificada,Failed
+462,,,No Especificada,Failed
+463,,,No Especificada,Failed
+464,,,No Especificada,Failed
+465,,,No Especificada,Failed
+466,-33.5237733,-70.6624838,La Cisterna,"paulina, Santiago, Chile"
+467,,,No Especificada,Failed
+468,,,No Especificada,Failed
+469,-33.4603748,-70.6879531,Estación Central,"nicasio retamales, Santiago, Chile"
+470,,,No Especificada,Failed
+471,,,No Especificada,Failed
+472,,,No Especificada,Failed
+473,-33.5216882,-70.6618856,La Cisterna,"paulina, Santiago, Chile"
+474,-33.4603748,-70.6879531,Estación Central,"nicasio retamales, Santiago, Chile"
+475,-33.4786282,-70.5962956,Macul,"gregorio de la fuente, Santiago, Chile"
+476,,,No Especificada,Failed
+477,,,No Especificada,Failed
+478,,,No Especificada,Failed
+479,-33.4932292,-70.7450308,Maipú,"rivera, Santiago, Chile"
+480,,,No Especificada,Failed
+481,,,No Especificada,Failed
+482,,,No Especificada,Failed
+483,,,No Especificada,Failed
+484,-33.4343074,-70.6793311,Quinta Normal,"chacabuco, Santiago, Chile"
+485,,,No Especificada,Failed
+486,,,No Especificada,Failed
+487,,,No Especificada,Failed
+488,,,No Especificada,Failed
+489,-33.4682343,-70.645493,San Miguel,"chiloé, Santiago, Chile"
+490,,,No Especificada,Failed
+491,,,No Especificada,Failed
+492,-33.5159004,-70.5979233,La Florida,"froilán roa, Santiago, Chile"
+493,,,No Especificada,Failed
+494,,,No Especificada,Failed
+495,-33.4801357,-70.7337421,Maipú,"inglaterra, Santiago, Chile"
+496,-33.5618032,-70.5963214,La Florida,"unión, Santiago, Chile"
+497,-33.5229552,-70.6080092,La Florida,"lía aguirre, Santiago, Chile"
+498,-33.5167016,-70.6073034,La Florida,"millalongo, Santiago, Chile"
+499,,,No Especificada,Failed
+500,,,No Especificada,Failed
+501,,,No Especificada,Failed
+502,,,No Especificada,Failed
+503,-33.4231663,-70.6608042,Independencia,"escanilla, Santiago, Chile"
+504,,,No Especificada,Failed
+505,,,No Especificada,Failed
+506,-33.4665245,-70.6549059,Estación Central,"san ignacio de loyola, Santiago, Chile"
+507,,,No Especificada,Failed
+508,,,No Especificada,Failed
+509,,,No Especificada,Failed
+510,,,No Especificada,Failed
+511,,,No Especificada,Failed
+512,,,No Especificada,Failed
+513,-33.4216706,-70.6763731,Renca,"juana atala de hirmas, Santiago, Chile"
+514,,,No Especificada,Failed
+515,,,No Especificada,Failed
+516,,,No Especificada,Failed
+517,-33.4058285,-70.6731466,Independencia,"las enredaderas, Santiago, Chile"
+518,,,No Especificada,Failed
+519,,,No Especificada,Failed
+520,,,No Especificada,Failed
+522,,,No Especificada,Failed
+523,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+524,,,No Especificada,Failed
+525,,,No Especificada,Failed
+526,,,No Especificada,Failed
+527,-33.4361968,-70.6505168,Santiago,"domingo sta, Santiago, Chile"
+528,,,No Especificada,Failed
+529,,,No Especificada,Failed
+530,,,No Especificada,Failed
+531,-33.4498901,-70.6368428,Santiago,"argomedo, Santiago, Chile"
+532,,,No Especificada,Failed
+533,-33.4382904,-70.5434367,La Reina,"carlos silva vildósola, Santiago, Chile"
+535,-33.4343074,-70.6793311,Quinta Normal,"chacabuco, Santiago, Chile"
+536,,,No Especificada,Failed
+537,-33.5216882,-70.6618856,La Cisterna,"paulina, Santiago, Chile"
+539,,,No Especificada,Failed
+540,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+541,-33.4192924,-70.658891,Independencia,"carrión, Santiago, Chile"
+542,,,No Especificada,Failed
+543,,,No Especificada,Failed
+544,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+545,-33.4547511,-70.699381,Estación Central,"conde del maule, Santiago, Chile"
+546,,,No Especificada,Failed
+547,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+548,,,No Especificada,Failed
+549,-33.4778167,-70.6222636,Macul,Barrio: rodrigo de araya
+550,-33.4668389,-70.6003934,Ñuñoa,"exequiel fernández, Santiago, Chile"
+551,,,No Especificada,Failed
+552,,,No Especificada,Failed
+553,-33.4557596,-70.7030551,Estación Central,"carlos pezoa véliz, Santiago, Chile"
+554,,,No Especificada,Failed
+555,,,No Especificada,Failed
+556,,,No Especificada,Failed
+557,,,No Especificada,Failed
+558,,,No Especificada,Failed
+559,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+560,,,No Especificada,Failed
+561,,,No Especificada,Failed
+562,,,No Especificada,Failed
+563,,,No Especificada,Failed
+564,-33.4801357,-70.7337421,Maipú,"inglaterra, Santiago, Chile"
+565,,,No Especificada,Failed
+566,,,No Especificada,Failed
+567,-33.4446413,-70.6429413,Santiago,"carmen, Santiago, Chile"
+568,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+569,,,No Especificada,Failed
+570,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+571,,,No Especificada,Failed
+572,-33.4460924,-70.6513055,Santiago,"san diego, Santiago, Chile"
+573,,,No Especificada,Failed
+574,,,No Especificada,Failed
+575,,,No Especificada,Failed
+576,,,No Especificada,Failed
+577,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+578,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+579,,,No Especificada,Failed
+580,,,No Especificada,Failed
+581,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+582,,,No Especificada,Failed
+583,,,No Especificada,Failed
+584,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+585,,,No Especificada,Failed
+586,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+587,,,No Especificada,Failed
+588,,,No Especificada,Failed
+589,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+590,,,No Especificada,Failed
+591,,,No Especificada,Failed
+592,-33.4786282,-70.5962956,Macul,"gregorio de la fuente, Santiago, Chile"
+593,-33.4932292,-70.7450308,Maipú,"rivera, Santiago, Chile"
+594,,,No Especificada,Failed
+595,,,No Especificada,Failed
+596,,,No Especificada,Failed
+597,,,No Especificada,Failed
+598,,,No Especificada,Failed
+599,-33.4540333,-70.6420286,Santiago,"san isidro, Santiago, Chile"
+600,,,No Especificada,Failed
+601,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+602,,,No Especificada,Failed
+603,-33.4197428,-70.6597337,Independencia,"leonor cepeda, Santiago, Chile"
+604,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+605,-33.5123318,-70.6831837,Lo Espejo,"cruz, Santiago, Chile"
+606,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+607,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+608,,,No Especificada,Failed
+609,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+610,,,No Especificada,Failed
+611,-33.4735391,-70.6122794,Ñuñoa,"francisco de paula, Santiago, Chile"
+612,-33.4552101,-70.7013694,Estación Central,"radal, Santiago, Chile"
+613,,,No Especificada,Failed
+614,,,No Especificada,Failed
+615,,,No Especificada,Failed
+616,,,No Especificada,Failed
+617,,,No Especificada,Failed
+618,,,No Especificada,Failed
+619,,,No Especificada,Failed
+620,,,No Especificada,Failed
+621,,,No Especificada,Failed
+622,-33.426524,-70.5985999,Providencia,"edificio eyzaguirre piso 4, Santiago, Chile"
+623,,,No Especificada,Failed
+624,,,No Especificada,Failed
+626,-33.4585227,-70.6955389,Estación Central,"recreo, Santiago, Chile"
+627,,,No Especificada,Failed
+628,,,No Especificada,Failed
+629,,,No Especificada,Failed
+630,-33.4361968,-70.6505168,Santiago,"domingo sta, Santiago, Chile"
+631,,,No Especificada,Failed
+632,-33.4665245,-70.6549059,Estación Central,"san ignacio de loyola, Santiago, Chile"
+633,-33.4665245,-70.6549059,Estación Central,"san ignacio de loyola, Santiago, Chile"
+634,-33.4585227,-70.6955389,Estación Central,"recreo, Santiago, Chile"
+635,,,No Especificada,Failed
+636,,,No Especificada,Failed
+637,,,No Especificada,Failed
+638,,,No Especificada,Failed
+639,-33.4801357,-70.7337421,Maipú,"inglaterra, Santiago, Chile"
+640,,,No Especificada,Failed
+641,-33.4216706,-70.6763731,Renca,"juana atala de hirmas, Santiago, Chile"
+642,-33.4723657,-70.642503,Santiago,Barrio: santa isabel
+643,,,No Especificada,Failed
+644,-33.4216706,-70.6763731,Renca,"juana atala de hirmas, Santiago, Chile"
+645,,,No Especificada,Failed
+646,-33.4085741,-70.6558672,Independencia,"pintor cicarelli, Santiago, Chile"
+647,,,No Especificada,Failed
+648,,,No Especificada,Failed
+649,,,No Especificada,Failed
+650,,,No Especificada,Failed
+651,,,No Especificada,Failed
+652,,,No Especificada,Failed
+653,,,No Especificada,Failed
+654,,,No Especificada,Failed
+655,,,No Especificada,Failed
+656,,,No Especificada,Failed
+657,,,No Especificada,Failed
+658,,,No Especificada,Failed
+659,-33.4382904,-70.5434367,La Reina,"carlos silva vildósola, Santiago, Chile"
+660,,,No Especificada,Failed
+663,,,No Especificada,Failed
+664,,,No Especificada,Failed
+667,,,No Especificada,Failed
+668,,,No Especificada,Failed
+669,,,No Especificada,Failed
+670,-33.4463492,-70.6216454,Providencia,Barrio: barrio italia
+671,,,No Especificada,Failed
+686,,,No Especificada,Failed
+688,,,No Especificada,Failed
+692,,,No Especificada,Failed
+694,,,No Especificada,Failed
+695,,,No Especificada,Failed
+697,,,No Especificada,Failed
+698,,,No Especificada,Failed
+699,,,No Especificada,Failed
+700,,,No Especificada,Failed
+702,-33.4534937,-70.570823,Ñuñoa,Barrio: plaza egaña
+703,-33.4534937,-70.570823,Ñuñoa,Barrio: plaza egaña
+706,,,No Especificada,Failed
+710,,,No Especificada,Failed
+711,,,No Especificada,Failed
+712,-33.3811415,-70.5221011,Las Condes,Barrio: san damián
+713,,,No Especificada,Failed
+720,,,No Especificada,Failed
+722,,,No Especificada,Failed
+723,,,No Especificada,Failed
+724,,,No Especificada,Failed
+725,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+726,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+727,,,No Especificada,Failed
+728,,,No Especificada,Failed
+729,,,No Especificada,Failed
+730,-33.3802002,-70.5340927,Vitacura,Barrio: tabancura
+731,,,No Especificada,Failed
+732,-33.3802002,-70.5340927,Vitacura,Barrio: tabancura
+733,,,No Especificada,Failed
+734,-33.4134817,-70.5826796,Las Condes,Barrio: escuela militar
+736,,,No Especificada,Failed
+737,,,No Especificada,Failed
+738,,,No Especificada,Failed
+739,,,No Especificada,Failed
+740,,,No Especificada,Failed
+741,,,No Especificada,Failed
+744,,,No Especificada,Failed
+745,-33.4723657,-70.642503,Santiago,Barrio: santa isabel
+746,,,No Especificada,Failed
+747,,,No Especificada,Failed
+749,,,No Especificada,Failed
+750,,,No Especificada,Failed
+751,,,No Especificada,Failed
+752,,,No Especificada,Failed
+754,,,No Especificada,Failed
+755,-33.4394513,-70.6614881,Santiago,"compañia de jesus 1737, Santiago, Chile"
+756,,,No Especificada,Failed
+757,,,No Especificada,Failed
+760,,,No Especificada,Failed
+761,,,No Especificada,Failed
+763,-33.3811415,-70.5221011,Las Condes,Barrio: san damián
+764,,,No Especificada,Failed
+767,,,No Especificada,Failed
+770,,,No Especificada,Failed
+772,-33.3811415,-70.5221011,Las Condes,Barrio: san damián
+776,,,No Especificada,Failed
+777,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+779,-33.4326356,-70.6484238,Recoleta,"avenida santa maría, Santiago, Chile"
+780,-33.4325362,-70.6517009,Santiago,"avenida la paz, Santiago, Chile"
+781,-33.457215,-70.6537333,Santiago,"lord cochrane, Santiago, Chile"
+782,-33.4446413,-70.6429413,Santiago,"carmen, Santiago, Chile"
+783,,,No Especificada,Failed
+784,-33.4682343,-70.645493,San Miguel,"chiloé, Santiago, Chile"
+785,-33.5180127,-70.6018667,Providencia,Barrio: bellavista
+786,-33.4124062,-70.6587264,Independencia,"avenida inglaterra, Santiago, Chile"
+787,,,No Especificada,Failed
+788,-33.4375801,-70.6533366,Santiago,"catedral, Santiago, Chile"
+789,-33.5150119,-70.6471846,San Miguel,"san petersburgo, Santiago, Chile"
+791,,,No Especificada,Failed
+792,-33.4557596,-70.7030551,Estación Central,"carlos pezoa véliz, Santiago, Chile"
+793,-33.4547511,-70.699381,Estación Central,"conde del maule, Santiago, Chile"
+794,,,No Especificada,Failed
+795,-33.4410746,-70.6701548,Santiago,"general bulnes, Santiago, Chile"
+796,-33.498019,-70.6449256,San Miguel,"frankfort, Santiago, Chile"
+797,-33.5206381,-70.6262873,La Granja,"parque juan pablo, Santiago, Chile"
+798,,,No Especificada,Failed
+799,,,No Especificada,Failed
+802,,,No Especificada,Failed
+803,,,No Especificada,Failed
+804,,,No Especificada,Failed
+805,,,No Especificada,Failed
+808,,,No Especificada,Failed
+809,,,No Especificada,Failed
+826,-33.4265077,-70.587976,Las Condes,"marco polo vaticano, Santiago, Chile"
+830,,,No Especificada,Failed
+832,,,No Especificada,Failed
+834,,,No Especificada,Failed
+836,,,No Especificada,Failed
+837,,,No Especificada,Failed
+838,,,No Especificada,Failed
+841,-33.4546521,-70.6126675,Ñuñoa,"con jardin, Santiago, Chile"
+842,,,No Especificada,Failed
+843,,,No Especificada,Failed
+844,-33.5453378,-70.5913169,La Florida,"semi, Santiago, Chile"
+845,,,No Especificada,Failed
+846,,,No Especificada,Failed
+847,,,No Especificada,Failed
+848,,,No Especificada,Failed
+849,,,No Especificada,Failed
+850,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+853,,,No Especificada,Failed
+854,,,No Especificada,Failed
+855,,,No Especificada,Failed
+857,,,No Especificada,Failed
+858,,,No Especificada,Failed
+859,-33.5068179,-70.6622648,San Miguel,"quinta avenida, Santiago, Chile"
+861,-33.3811415,-70.5221011,Las Condes,Barrio: san damián
+862,-33.5068179,-70.6622648,San Miguel,"quinta avenida, Santiago, Chile"
+863,,,No Especificada,Failed
+864,-33.440684,-70.6614475,Santiago,"huérfanos, Santiago, Chile"
+865,,,No Especificada,Failed
+866,-33.4723657,-70.642503,Santiago,Barrio: santa isabel
+867,-33.3811415,-70.5221011,Las Condes,Barrio: san damián
+868,-33.5229552,-70.6080092,La Florida,"lía aguirre, Santiago, Chile"
+869,,,No Especificada,Failed
+870,-33.4829328,-70.745509,Maipú,"avenida los pajaritos, Santiago, Chile"
+871,-33.4829328,-70.745509,Maipú,"avenida los pajaritos, Santiago, Chile"
+872,-33.4602222,-70.6285925,Santiago,"avenida vicuña mackenna, Santiago, Chile"
+873,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+874,-33.4516464,-70.6514119,Santiago,"diego de almagro, Santiago, Chile"
+875,-33.4371473,-70.6600494,Santiago,"santo domingo, Santiago, Chile"
+876,-33.4557596,-70.7030551,Estación Central,"carlos pezoa véliz, Santiago, Chile"
+877,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+878,-33.5158561,-70.6622086,La Cisterna,"carvajal, Santiago, Chile"
+879,-33.4652283,-70.7375008,Pudahuel,"avenida teniente cruz, Santiago, Chile"
+880,-33.4207819,-70.6576277,Independencia,"gamero, Santiago, Chile"
+881,-33.445503,-70.6277165,Providencia,"emilio vaisse, Santiago, Chile"
+882,-33.4041507,-70.6665003,Independencia,"hipódromo chile, Santiago, Chile"
+883,-33.4557596,-70.7030551,Estación Central,"carlos pezoa véliz, Santiago, Chile"
+884,,,No Especificada,Failed
+886,-33.5211653,-70.6515834,La Cisterna,"santa clara, Santiago, Chile"
+887,-33.4829328,-70.745509,Maipú,"avenida los pajaritos, Santiago, Chile"
+888,-33.4602222,-70.6285925,Santiago,"avenida vicuña mackenna, Santiago, Chile"
+889,-33.4602222,-70.6285925,Santiago,"avenida vicuña mackenna, Santiago, Chile"
+890,-33.4303351,-70.668607,Independencia,"san nicolás, Santiago, Chile"
+891,-33.4602222,-70.6285925,Santiago,"avenida vicuña mackenna, Santiago, Chile"
+892,-33.4496078,-70.6519976,Santiago,"eleuterio ramírez, Santiago, Chile"
+893,-33.5054563,-70.7057682,Cerrillos,"bombero hugo olguín, Santiago, Chile"
+894,-33.4389754,-70.6560578,Santiago,"compañía de jesús, Santiago, Chile"
+895,-33.355385,-70.6725289,Huechuraba,"abraham ovalle, Santiago, Chile"
+896,-33.4044509,-70.6713219,Independencia,"coronel alvarado, Santiago, Chile"
+897,-33.4393407,-70.6583691,Santiago,"zañartu, Santiago, Chile"
+898,-33.4250427,-70.6392104,Recoleta,"la virgen, Santiago, Chile"
+899,-33.4519112,-70.6457137,Santiago,"eyzaguirre, Santiago, Chile"
+900,-33.4909902,-70.6460403,San Miguel,"álvarez de toledo, Santiago, Chile"
+901,-33.4602222,-70.6285925,Santiago,"avenida vicuña mackenna, Santiago, Chile"
+902,-33.5422557,-70.6545215,La Cisterna,"avenida goycolea, Santiago, Chile"
+903,-33.4716935,-70.6237636,Ñuñoa,"guillermo mann, Santiago, Chile"
+904,-33.4829328,-70.745509,Maipú,"avenida los pajaritos, Santiago, Chile"
+905,-33.5092358,-70.6553797,San Miguel,"varas mena, Santiago, Chile"
+906,-33.4829328,-70.745509,Maipú,"avenida los pajaritos, Santiago, Chile"
+907,-33.4393407,-70.6583691,Santiago,"zañartu, Santiago, Chile"
+908,-33.3664076,-70.6952616,Conchalí,"américo vespucio norte, Santiago, Chile"
+909,-33.4446097,-70.6457527,Santiago,"avenida santa rosa, Santiago, Chile"
+910,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+911,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+912,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+913,-33.4001526,-70.5782445,Vitacura,"los abetos sur, Santiago, Chile"
+914,-33.3691151,-70.7496505,Quilicura,"los flamencos, Santiago, Chile"
+915,-33.4829328,-70.745509,Maipú,"avenida los pajaritos, Santiago, Chile"
+916,,,No Especificada,Failed
+917,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+918,-33.4322001,-70.6707816,Independencia,"avenida mapocho, Santiago, Chile"
+919,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+920,-33.4983216,-70.677471,Pedro Aguirre Cerda,"vecinal, Santiago, Chile"
+921,-33.5229552,-70.6080092,La Florida,"lía aguirre, Santiago, Chile"
+922,-33.517997,-70.6518792,La Cisterna,"fuenzalida urrejola, Santiago, Chile"
+923,-33.4700759,-70.6585311,Estación Central,"avenida rondizzoni, Santiago, Chile"
+924,-33.4547511,-70.699381,Estación Central,"conde del maule, Santiago, Chile"
+925,,,No Especificada,Failed
+926,-33.5197638,-70.5962095,La Florida,"vicuña mackenna, Santiago, Chile"
+927,-33.5204777,-70.6525452,La Cisterna,"avenida maría, Santiago, Chile"
+928,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+929,-33.4393407,-70.6583691,Santiago,"zañartu, Santiago, Chile"
+930,-33.4671076,-70.6469026,Santiago,"arturo prat, Santiago, Chile"
+931,-33.498019,-70.6449256,San Miguel,"frankfort, Santiago, Chile"
+932,-33.4713213,-70.6649053,Estación Central,"club hípico, Santiago, Chile"
+933,-33.4041507,-70.6665003,Independencia,"hipódromo chile, Santiago, Chile"
+934,-33.4234607,-70.6418473,Recoleta,"maestra lidia torres, Santiago, Chile"
+935,-33.5334593,-70.6360165,San Ramón,"colombia, Santiago, Chile"
+936,-33.4322001,-70.6707816,Independencia,"avenida mapocho, Santiago, Chile"
+937,-33.4602222,-70.6285925,Santiago,"avenida vicuña mackenna, Santiago, Chile"
+938,-33.4602222,-70.6285925,Santiago,"avenida vicuña mackenna, Santiago, Chile"
+939,-33.5102047,-70.74536,Maipú,"avenida 5 de abril, Santiago, Chile"
+940,-33.457215,-70.6537333,Santiago,"lord cochrane, Santiago, Chile"
+941,-33.5152221,-70.6040641,La Florida,"avenida vicuña mackenna oriente, Santiago, Chile"
+942,-33.4704112,-70.6229017,Ñuñoa,"san eugenio, Santiago, Chile"
+943,-33.4197329,-70.5699355,Las Condes,"mujica, Santiago, Chile"
+944,-33.4085741,-70.6558672,Independencia,"pintor cicarelli, Santiago, Chile"
+945,-33.4910672,-70.6124036,Macul,"avenida escuela agrícola, Santiago, Chile"
+946,-33.4557596,-70.7030551,Estación Central,"carlos pezoa véliz, Santiago, Chile"
+947,-33.4715982,-70.6118262,Ñuñoa,"gaspar villarroel, Santiago, Chile"
+948,-33.4472711,-70.6383979,Santiago,"angamos, Santiago, Chile"
+949,-33.4314139,-70.6857818,Quinta Normal,"juan de barros, Santiago, Chile"
+950,-33.4375801,-70.6533366,Santiago,"catedral, Santiago, Chile"
+951,-33.4557596,-70.7030551,Estación Central,"carlos pezoa véliz, Santiago, Chile"
+952,-33.4547511,-70.699381,Estación Central,"conde del maule, Santiago, Chile"
+953,-33.4547511,-70.699381,Estación Central,"conde del maule, Santiago, Chile"
+954,-33.4322001,-70.6707816,Independencia,"avenida mapocho, Santiago, Chile"
+955,-33.4557596,-70.7030551,Estación Central,"carlos pezoa véliz, Santiago, Chile"
+956,-33.4459775,-70.6526785,Santiago,"zenteno, Santiago, Chile"
+957,-33.517997,-70.6518792,La Cisterna,"fuenzalida urrejola, Santiago, Chile"
+958,-33.5084516,-70.7084657,Cerrillos,"avenida fernández albano, Santiago, Chile"
+959,-33.5126493,-70.6612056,San Miguel,"décima avenida, Santiago, Chile"
+960,-33.4423495,-70.6532902,Santiago,"morandé, Santiago, Chile"
+961,-33.4528746,-70.6070386,Ñuñoa,"capitán orella, Santiago, Chile"
+962,-33.3434985,-70.6770404,Huechuraba,"camino de cintura, Santiago, Chile"
+963,-33.4600701,-70.6355209,Santiago,"lira, Santiago, Chile"
+964,-33.5058267,-70.6618977,San Miguel,"cuarta avenida, Santiago, Chile"
+965,-33.5024728,-70.6625889,San Miguel,"primera avenida, Santiago, Chile"
+966,-33.4512804,-70.6530052,Santiago,"nataniel cox, Santiago, Chile"
+967,-33.4802833,-70.6897217,Cerrillos,"avenida buzeta, Santiago, Chile"
+968,-33.4407085,-70.6500881,Santiago,"agustinas, Santiago, Chile"
+969,-33.4351225,-70.6586573,Santiago,"san martín, Santiago, Chile"
+970,-33.5136383,-70.6086672,La Florida,"avenida vicuña mackenna poniente, Santiago, Chile"
+971,-33.4393407,-70.6583691,Santiago,"zañartu, Santiago, Chile"
+972,-33.5150119,-70.6471846,San Miguel,"san petersburgo, Santiago, Chile"
+973,-33.4641065,-70.6318972,Santiago,"pedro león ugalde, Santiago, Chile"
+974,-33.4790937,-70.6629964,Pedro Aguirre Cerda,"avenida carlos valdovinos, Santiago, Chile"
+975,-33.4216661,-70.6478065,Recoleta,"santos dumont, Santiago, Chile"
+976,-33.4840866,-70.6004889,Macul,"los clarines, Santiago, Chile"
+977,-33.5068179,-70.6622648,San Miguel,"quinta avenida, Santiago, Chile"
+978,-33.5333869,-70.6957144,Lo Espejo,"centenario, Santiago, Chile"
+979,-33.4216706,-70.6763731,Renca,"juana atala de hirmas, Santiago, Chile"
+981,-33.4348906,-70.6681523,Santiago,"san pablo, Santiago, Chile"
+982,-33.4491243,-70.7069735,Estación Central,"avenida maría rozas velásquez, Santiago, Chile"
+983,-33.4085741,-70.6558672,Independencia,"pintor cicarelli, Santiago, Chile"
+984,-33.4368963,-70.6471765,Santiago,"monjitas, Santiago, Chile"
+985,-33.5215441,-70.6754195,La Cisterna,"avenida el parrón, Santiago, Chile"
+986,-33.4460924,-70.6513055,Santiago,"san diego, Santiago, Chile"
+987,-33.5215441,-70.6754195,La Cisterna,"avenida el parrón, Santiago, Chile"
+988,-33.4420638,-70.6456647,Santiago,"avenida alameda libertador bernardo o'higgins, Santiago, Chile"
+989,-33.4094637,-70.5697326,Las Condes,Barrio: manquehue
+990,-33.4314533,-70.7653481,Pudahuel,"en condominio ., Santiago, Chile"
+991,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+992,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+993,,,No Especificada,Failed
+994,-33.4602222,-70.6285925,Santiago,"avenida vicuña mackenna, Santiago, Chile"
+995,,,No Especificada,Failed
+996,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+997,,,No Especificada,Failed
+998,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+999,-33.4217552,-70.5875268,Las Condes,Barrio: alcántara
+1000,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1001,-33.4094637,-70.5697326,Las Condes,Barrio: manquehue
+1002,-33.5199915,-70.6593051,La Cisterna,", opción ., Santiago, Chile"
+1003,,,No Especificada,Failed
+1004,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1005,,,No Especificada,Failed
+1006,,,No Especificada,Failed
+1007,,,No Especificada,Failed
+1010,-33.4363406,-70.6586168,Santiago,"boutique, Santiago, Chile"
+1011,-33.4513929,-70.6505616,Santiago,Barrio: parque almagro
+1012,,,No Especificada,Failed
+1013,,,No Especificada,Failed
+1014,,,No Especificada,Failed
+1015,,,No Especificada,Failed
+1016,,,No Especificada,Failed
+1017,-33.4177535,-70.5682651,Las Condes,"domingo bondi / colon, Santiago, Chile"
+1018,,,No Especificada,Failed
+1021,,,No Especificada,Failed
+1023,-33.4366322,-70.6441329,Santiago,Barrio: bellas artes
+1025,,,No Especificada,Failed
+1030,,,No Especificada,Failed
+1031,,,No Especificada,Failed
+1033,,,No Especificada,Failed
+1034,-33.4094637,-70.5697326,Las Condes,Barrio: manquehue
+1036,,,No Especificada,Failed
+1038,,,No Especificada,Failed
+1039,,,No Especificada,Failed
+1040,,,No Especificada,Failed
+1041,,,No Especificada,Failed
+1042,-33.4134817,-70.5826796,Las Condes,Barrio: escuela militar
+1048,,,No Especificada,Failed
+1050,-33.3634153,-70.76328,Santiago,"lo maitenes, Santiago, Chile"
+1053,,,No Especificada,Failed
+1054,,,No Especificada,Failed
+1055,,,No Especificada,Failed
+1056,-33.4094637,-70.5697326,Las Condes,Barrio: manquehue
+1057,,,No Especificada,Failed
+1059,-33.4402618,-70.6413884,Santiago,Barrio: lastarria
+1060,-33.4402618,-70.6413884,Santiago,Barrio: lastarria
+1061,,,No Especificada,Failed
+1062,,,No Especificada,Failed
+1063,,,No Especificada,Failed
+1064,,,No Especificada,Failed
+1074,,,No Especificada,Failed
+1076,,,No Especificada,Failed
+1080,,,No Especificada,Failed
+1081,,,No Especificada,Failed
+1082,,,No Especificada,Failed
+1084,,,No Especificada,Failed
+1086,,,No Especificada,Failed
+1087,,,No Especificada,Failed
+1089,,,No Especificada,Failed
+1090,,,No Especificada,Failed
+1094,-33.4366322,-70.6441329,Santiago,Barrio: bellas artes
+1095,,,No Especificada,Failed
+1096,,,No Especificada,Failed
+1097,-33.4402618,-70.6413884,Santiago,Barrio: lastarria
+1098,-33.4534937,-70.570823,Ñuñoa,Barrio: plaza egaña
+1099,-33.4094637,-70.5697326,Las Condes,Barrio: manquehue
+1101,-33.4366322,-70.6441329,Santiago,Barrio: bellas artes
+1105,-33.4366322,-70.6441329,Santiago,Barrio: bellas artes
+1106,,,No Especificada,Failed
+1107,,,No Especificada,Failed
+1108,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1109,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1111,,,No Especificada,Failed
+1112,,,No Especificada,Failed
+1113,,,No Especificada,Failed
+1114,-33.4094637,-70.5697326,Las Condes,Barrio: manquehue
+1115,,,No Especificada,Failed
+1116,,,No Especificada,Failed
+1117,-33.4055623,-70.5698175,Las Condes,"los militares, Santiago, Chile"
+1118,,,No Especificada,Failed
+1119,,,No Especificada,Failed
+1120,,,No Especificada,Failed
+1121,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1122,,,No Especificada,Failed
+1123,,,No Especificada,Failed
+1125,-33.4723657,-70.642503,Santiago,Barrio: santa isabel
+1128,,,No Especificada,Failed
+1130,-33.4134817,-70.5826796,Las Condes,Barrio: escuela militar
+1131,,,No Especificada,Failed
+1134,,,No Especificada,Failed
+1136,,,No Especificada,Failed
+1137,,,No Especificada,Failed
+1138,,,No Especificada,Failed
+1140,-33.4357195,-70.6402139,Santiago,"parque forestal, Santiago, Chile"
+1141,,,No Especificada,Failed
+1142,-33.4366322,-70.6441329,Santiago,Barrio: bellas artes
+1144,,,No Especificada,Failed
+1145,,,No Especificada,Failed
+1147,-33.4474861,-70.6536679,Santiago,"tarapaca/nataniel, Santiago, Chile"
+1148,-33.4041507,-70.6665003,Independencia,"hipódromo chile, Santiago, Chile"
+1149,,,No Especificada,Failed
+1150,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1151,,,No Especificada,Failed
+1154,,,No Especificada,Failed
+1156,,,No Especificada,Failed
+1158,,,No Especificada,Failed
+1160,,,No Especificada,Failed
+1162,,,No Especificada,Failed
+1165,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1166,,,No Especificada,Failed
+1169,-33.422019,-70.6085607,Providencia,Barrio: los leones
+1173,,,No Especificada,Failed
+1174,,,No Especificada,Failed
+1177,,,No Especificada,Failed
+1179,,,No Especificada,Failed
+1180,,,No Especificada,Failed
+1181,,,No Especificada,Failed
+1182,,,No Especificada,Failed
+1184,,,No Especificada,Failed
+1185,,,No Especificada,Failed
+1186,,,No Especificada,Failed
+1187,-33.422019,-70.6085607,Providencia,Barrio: los leones
+1188,,,No Especificada,Failed
+1189,,,No Especificada,Failed
+1190,,,No Especificada,Failed
+1191,,,No Especificada,Failed
+1193,,,No Especificada,Failed
+1194,,,No Especificada,Failed
+1195,,,No Especificada,Failed
+1196,,,No Especificada,Failed
+1198,,,No Especificada,Failed
+1199,,,No Especificada,Failed
+1201,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1202,,,No Especificada,Failed
+1203,,,No Especificada,Failed
+1204,-33.4366322,-70.6441329,Santiago,Barrio: bellas artes
+1205,,,No Especificada,Failed
+1206,,,No Especificada,Failed
+1207,,,No Especificada,Failed
+1209,,,No Especificada,Failed
+1210,,,No Especificada,Failed
+1212,-33.4134817,-70.5826796,Las Condes,Barrio: escuela militar
+1213,,,No Especificada,Failed
+1214,,,No Especificada,Failed
+1215,,,No Especificada,Failed
+1219,,,No Especificada,Failed
+1220,-33.4314533,-70.7653481,Pudahuel,"en condominio ..., Santiago, Chile"
+1221,,,No Especificada,Failed
+1222,-33.3811415,-70.5221011,Las Condes,Barrio: san damián
+1227,-33.4314533,-70.7653481,Pudahuel,"en condominio, Santiago, Chile"
+1228,,,No Especificada,Failed
+1229,,,No Especificada,Failed
+1230,,,No Especificada,Failed
+1231,,,No Especificada,Failed
+1232,-33.417597,-70.5747168,Las Condes,"martin de zamora, Santiago, Chile"
+1234,,,No Especificada,Failed
+1237,,,No Especificada,Failed
+1239,,,No Especificada,Failed
+1241,,,No Especificada,Failed
+1242,-33.4258555,-70.652762,Independencia,"| residencial | 4to piso, Santiago, Chile"
+1243,,,No Especificada,Failed
+1244,,,No Especificada,Failed
+1247,,,No Especificada,Failed
+1248,,,No Especificada,Failed
+1250,,,No Especificada,Failed
+1251,,,No Especificada,Failed
+1252,,,No Especificada,Failed
+1253,-33.4723657,-70.642503,Santiago,Barrio: santa isabel
+1258,,,No Especificada,Failed
+1263,,,No Especificada,Failed
+1264,,,No Especificada,Failed
+1266,,,No Especificada,Failed
+1269,,,No Especificada,Failed
+1273,,,No Especificada,Failed
+1279,,,No Especificada,Failed
+1281,,,No Especificada,Failed
+1282,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1283,,,No Especificada,Failed
+1284,,,No Especificada,Failed
+1285,-33.422019,-70.6085607,Providencia,Barrio: los leones
+1287,,,No Especificada,Failed
+1288,,,No Especificada,Failed
+1289,-33.4682633,-70.6513996,San Miguel,"roberto espinoza, Santiago, Chile"
+1290,-33.4682633,-70.6513996,San Miguel,"roberto espinoza, Santiago, Chile"
+1291,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1292,,,No Especificada,Failed
+1293,-33.4829328,-70.745509,Maipú,"avenida los pajaritos, Santiago, Chile"
+1294,-33.4829328,-70.745509,Maipú,"avenida los pajaritos, Santiago, Chile"
+1295,-33.4829328,-70.745509,Maipú,"avenida los pajaritos, Santiago, Chile"
+1296,-33.4343074,-70.6793311,Quinta Normal,"chacabuco, Santiago, Chile"
+1297,-33.5253495,-70.6706992,La Cisterna,"colón, Santiago, Chile"
+1299,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1300,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1301,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+1302,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1304,-33.4802833,-70.6897217,Cerrillos,"avenida buzeta, Santiago, Chile"
+1305,-33.4766603,-70.6494774,San Miguel,"franklin, Santiago, Chile"
+1307,,,No Especificada,Failed
+1308,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1309,,,No Especificada,Failed
+1310,-33.45781,-70.6938796,Estación Central,"coronel souper, Santiago, Chile"
+1311,-33.4041507,-70.6665003,Independencia,"hipódromo chile, Santiago, Chile"
+1312,-33.5068179,-70.6622648,San Miguel,"quinta avenida, Santiago, Chile"
+1313,-33.4228881,-70.6848407,Quinta Normal,"nueva andrés bello, Santiago, Chile"
+1314,-33.4491243,-70.7069735,Estación Central,"avenida maría rozas velásquez, Santiago, Chile"
+1317,,,No Especificada,Failed
+1318,-33.4552101,-70.7013694,Estación Central,"radal del obispo francisco anabalón duarte, Santiago, Chile"
+1320,,,No Especificada,Failed
+1321,-33.5006793,-70.7856215,Maipú,"santa petronila, Santiago, Chile"
+1322,-33.4302523,-70.6881196,Quinta Normal,"villasana, Santiago, Chile"
+1323,-33.4256121,-70.6562497,Independencia,"maruri, Santiago, Chile"
+1325,,,No Especificada,Failed
+1326,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1327,-33.4462446,-70.66074,Santiago,"avenida manuel rodríguez, Santiago, Chile"
+1328,-33.4508543,-70.7057134,Estación Central,"buzo sobenes, Santiago, Chile"
+1329,-33.4508543,-70.7057134,Estación Central,"buzo sobenes, Santiago, Chile"
+1330,-33.5215441,-70.6754195,La Cisterna,"avenida el parrón, Santiago, Chile"
+1332,-33.4697115,-70.6297388,San Joaquín,"portugal, Santiago, Chile"
+1333,-33.4488661,-70.6309098,Providencia,"almirante riveros, Santiago, Chile"
+1335,-33.4534937,-70.570823,Ñuñoa,Barrio: plaza egaña
+1336,-33.4510099,-70.6820429,Estación Central,"avenida ecuador, Santiago, Chile"
+1337,-33.5110128,-70.6989216,Lo Espejo,"avenida padre alberto hurtado, Santiago, Chile"
+1338,,,No Especificada,Failed
+1339,-33.418065,-70.5909985,Las Condes,"gertrudis echeñique/callao, Santiago, Chile"
+1340,,,No Especificada,Failed
+1343,,,No Especificada,Failed
+1344,,,No Especificada,Failed
+1346,-33.4534937,-70.570823,Ñuñoa,Barrio: plaza egaña
+1347,,,No Especificada,Failed
+1348,,,No Especificada,Failed
+1349,,,No Especificada,Failed
+1351,,,No Especificada,Failed
+1353,,,No Especificada,Failed
+1354,,,No Especificada,Failed
+1355,-33.422019,-70.6085607,Providencia,Barrio: los leones
+1356,,,No Especificada,Failed
+1357,-33.4373682,-70.6501011,Providencia,Barrio: pedro de valdivia
+1358,,,No Especificada,Failed
+1360,,,No Especificada,Failed
+1361,,,No Especificada,Failed
+1364,,,No Especificada,Failed
+1365,-33.4094637,-70.5697326,Las Condes,Barrio: manquehue
+1366,,,No Especificada,Failed
+1372,,,No Especificada,Failed
+1375,,,No Especificada,Failed
+1376,,,No Especificada,Failed
+1377,,,No Especificada,Failed
+1378,-33.4286563,-70.6630628,Independencia,"general prieto, Santiago, Chile"
+1379,,,No Especificada,Failed
+1380,-33.4745526,-70.6548194,San Miguel,"avenida centenario, Santiago, Chile"
+1382,-33.3811415,-70.5221011,Las Condes,Barrio: san damián
+1385,,,No Especificada,Failed
+1386,,,No Especificada,Failed
+1387,,,No Especificada,Failed
+1388,,,No Especificada,Failed
+1389,,,No Especificada,Failed
+1391,,,No Especificada,Failed
+1392,,,No Especificada,Failed
+1393,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1394,,,No Especificada,Failed
+1395,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1396,,,No Especificada,Failed
+1397,,,No Especificada,Failed
+1398,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1399,,,No Especificada,Failed
+1400,,,No Especificada,Failed
+1401,-33.5934551,-70.6983602,San Bernardo,"exclusivo, Santiago, Chile"
+1402,,,No Especificada,Failed
+1403,,,No Especificada,Failed
+1404,,,No Especificada,Failed
+1405,,,No Especificada,Failed
+1406,,,No Especificada,Failed
+1407,,,No Especificada,Failed
+1408,,,No Especificada,Failed
+1409,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1410,,,No Especificada,Failed
+1412,,,No Especificada,Failed
+1413,,,No Especificada,Failed
+1414,,,No Especificada,Failed
+1415,,,No Especificada,Failed
+1418,,,No Especificada,Failed
+1419,,,No Especificada,Failed
+1420,-33.3811415,-70.5221011,Las Condes,Barrio: san damián
+1421,,,No Especificada,Failed
+1423,,,No Especificada,Failed
+1425,,,No Especificada,Failed
+1427,,,No Especificada,Failed
+1429,,,No Especificada,Failed
+1430,,,No Especificada,Failed
+1431,,,No Especificada,Failed
+1432,,,No Especificada,Failed
+1435,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1436,,,No Especificada,Failed
+1437,-33.4559575,-70.5800277,Ñuñoa,"ramón cruz montt, Santiago, Chile"
+1438,-33.4124062,-70.6587264,Independencia,"avenida inglaterra, Santiago, Chile"
+1439,,,No Especificada,Failed
+1440,-33.4178861,-70.5802503,Las Condes,"y félix de amesti, Santiago, Chile"
+1441,,,No Especificada,Failed
+1442,,,No Especificada,Failed
+1443,,,No Especificada,Failed
+1444,,,No Especificada,Failed
+1445,,,No Especificada,Failed
+1446,,,No Especificada,Failed
+1447,,,No Especificada,Failed
+1448,,,No Especificada,Failed
+1449,,,No Especificada,Failed
+1450,,,No Especificada,Failed
+1451,,,No Especificada,Failed
+1452,,,No Especificada,Failed
+1453,-33.4443649,-70.6713327,Santiago,"lindo, Santiago, Chile"
+1454,,,No Especificada,Failed
+1455,,,No Especificada,Failed
+1456,,,No Especificada,Failed
+1457,-33.5849274,-70.6280884,La Pintana,"eleuterio ramirez / san ignacio, Santiago, Chile"
+1458,,,No Especificada,Failed
+1459,,,No Especificada,Failed
+1463,,,No Especificada,Failed
+1467,,,No Especificada,Failed
+1469,,,No Especificada,Failed
+1471,,,No Especificada,Failed
+1473,-33.5180127,-70.6018667,Providencia,Barrio: bellavista
+1474,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1478,,,No Especificada,Failed
+1482,,,No Especificada,Failed
+1485,,,No Especificada,Failed
+1491,,,No Especificada,Failed
+1492,,,No Especificada,Failed
+1493,,,No Especificada,Failed
+1494,,,No Especificada,Failed
+1495,,,No Especificada,Failed
+1498,-33.4723657,-70.642503,Santiago,Barrio: santa isabel
+1499,,,No Especificada,Failed
+1502,,,No Especificada,Failed
+1503,,,No Especificada,Failed
+1504,,,No Especificada,Failed
+1505,,,No Especificada,Failed
+1506,,,No Especificada,Failed
+1507,,,No Especificada,Failed
+1508,,,No Especificada,Failed
+1509,-33.4402618,-70.6413884,Santiago,Barrio: lastarria
+1511,,,No Especificada,Failed
+1512,,,No Especificada,Failed
+1513,-33.4366322,-70.6441329,Santiago,Barrio: bellas artes
+1514,,,No Especificada,Failed
+1517,,,No Especificada,Failed
+1518,-33.4457708,-70.6404123,Santiago,"céntrico, Santiago, Chile"
+1520,,,No Especificada,Failed
+1523,,,No Especificada,Failed
+1524,,,No Especificada,Failed
+1525,-33.422019,-70.6085607,Providencia,Barrio: los leones
+1526,-33.4546521,-70.6126675,Ñuñoa,"con jardín, Santiago, Chile"
+1527,,,No Especificada,Failed
+1528,,,No Especificada,Failed
+1529,,,No Especificada,Failed
+1530,,,No Especificada,Failed
+1532,,,No Especificada,Failed
+1533,,,No Especificada,Failed
+1535,,,No Especificada,Failed
+1537,-33.4315446,-70.652991,Independencia,"metro santa ana, Santiago, Chile"
+1538,-33.4012621,-70.5172896,Las Condes,Barrio: san carlos de apoquindo
+1539,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1541,,,No Especificada,Failed
+1544,,,No Especificada,Failed
+1545,,,No Especificada,Failed
+1547,,,No Especificada,Failed
+1553,,,No Especificada,Failed
+1554,,,No Especificada,Failed
+1555,,,No Especificada,Failed
+1556,,,No Especificada,Failed
+1558,,,No Especificada,Failed
+1563,,,No Especificada,Failed
+1565,,,No Especificada,Failed
+1566,-33.3811415,-70.5221011,Las Condes,Barrio: san damián
+1567,,,No Especificada,Failed
+1568,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1569,,,No Especificada,Failed
+1571,,,No Especificada,Failed
+1572,,,No Especificada,Failed
+1573,,,No Especificada,Failed
+1575,,,No Especificada,Failed
+1577,,,No Especificada,Failed
+1579,,,No Especificada,Failed
+1580,,,No Especificada,Failed
+1582,,,No Especificada,Failed
+1584,,,No Especificada,Failed
+1585,,,No Especificada,Failed
+1586,-33.4166189,-70.5957077,Las Condes,Barrio: el golf
+1587,,,No Especificada,Failed
+1590,-33.4094637,-70.5697326,Las Condes,Barrio: manquehue
+1591,,,No Especificada,Failed
+1592,-33.4012621,-70.5172896,Las Condes,Barrio: san carlos de apoquindo
+1593,,,No Especificada,Failed
+1595,,,No Especificada,Failed
+1596,,,No Especificada,Failed
+1598,,,No Especificada,Failed
+1605,-33.4534937,-70.570823,Ñuñoa,Barrio: plaza egaña
+1607,,,No Especificada,Failed
+1608,,,No Especificada,Failed
+1609,,,No Especificada,Failed
+1610,-33.457215,-70.6537333,Santiago,"lord cochrane, Santiago, Chile"
+1611,-33.4829328,-70.745509,Maipú,"avenida los pajaritos, Santiago, Chile"
+1612,-33.5634019,-70.5506969,Puente Alto,"avenida parque del este, Santiago, Chile"
+1613,-33.4547511,-70.699381,Estación Central,"conde del maule, Santiago, Chile"
+1614,-33.4608267,-70.6741492,Estación Central,"millaray, Santiago, Chile"
+1615,-33.4766603,-70.6494774,San Miguel,"franklin, Santiago, Chile"
+1616,-33.4553776,-70.6596744,Santiago,"domeyko, Santiago, Chile"
+1617,-33.498019,-70.6449256,San Miguel,"frankfort, Santiago, Chile"
+1618,,,No Especificada,Failed
+1619,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1620,-33.5153459,-70.6616709,La Cisterna,"briones luco, Santiago, Chile"
+1621,-33.4012621,-70.5172896,Las Condes,Barrio: san carlos de apoquindo
+1622,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1623,-33.4120394,-70.6544568,Independencia,"belisario prats, Santiago, Chile"
+1624,-33.4602222,-70.6285925,Santiago,"avenida vicuña mackenna, Santiago, Chile"
+1625,-33.4602222,-70.6285925,Santiago,"avenida vicuña mackenna, Santiago, Chile"
+1626,-33.3729469,-70.7337065,Quilicura,"pedro riveros, Santiago, Chile"
+1627,-33.457215,-70.6537333,Santiago,"lord cochrane, Santiago, Chile"
+1628,,,No Especificada,Failed
+1629,-33.5110128,-70.6989216,Lo Espejo,"avenida padre alberto hurtado, Santiago, Chile"
+1630,-33.4716935,-70.6237636,Ñuñoa,"guillermo mann, Santiago, Chile"
+1631,-33.4559469,-70.5978049,Ñuñoa,"avenida josé pedro alessandri, Santiago, Chile"
+1632,-33.5136383,-70.6086672,La Florida,"avenida vicuña mackenna poniente, Santiago, Chile"
+1633,-33.5058267,-70.6618977,San Miguel,"cuarta avenida, Santiago, Chile"
+1634,-33.4041507,-70.6665003,Independencia,"hipódromo chile, Santiago, Chile"
+1635,-33.4829328,-70.745509,Maipú,"avenida los pajaritos, Santiago, Chile"
+1636,-33.5159004,-70.5979233,La Florida,"froilán roa, Santiago, Chile"
+1637,-33.4932292,-70.7450308,Maipú,"rivera, Santiago, Chile"
+1638,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1639,-33.4690013,-70.6520994,San Miguel,"sargento aldea, Santiago, Chile"
+1640,-33.4293231,-70.6604938,Independencia,"avenida fermín vivaceta, Santiago, Chile"
+1641,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1642,-33.2463887,-70.721156,Colina,"las catalpas, Santiago, Chile"
+1643,-33.4424173,-70.576214,Ñuñoa,"emilia téllez, Santiago, Chile"
+1644,-33.5069189,-70.6853449,Lo Espejo,"lazo, Santiago, Chile"
+1645,-33.43907,-70.6567359,Santiago,"amunátegui, Santiago, Chile"
+1646,-33.4829328,-70.745509,Maipú,"avenida los pajaritos, Santiago, Chile"
+1647,-33.4680896,-70.6441233,San Miguel,"san francisco, Santiago, Chile"
+1648,-33.4608267,-70.6741492,Estación Central,"millaray, Santiago, Chile"
+1649,-33.4446097,-70.6457527,Santiago,"avenida santa rosa, Santiago, Chile"
+1650,-33.5087142,-70.6044539,Macul,"avenida departamental, Santiago, Chile"
+1651,-33.4829328,-70.745509,Maipú,"avenida los pajaritos, Santiago, Chile"
+1652,-33.4192924,-70.658891,Independencia,"carrión, Santiago, Chile"
+1653,-33.4829328,-70.745509,Maipú,"avenida los pajaritos, Santiago, Chile"
+1654,-33.5189838,-70.6521566,La Cisterna,"josé ureta, Santiago, Chile"
+1655,-33.5199599,-70.6524323,La Cisterna,"santa elisa, Santiago, Chile"
+1656,-33.4446097,-70.6457527,Santiago,"avenida santa rosa, Santiago, Chile"
+1657,-33.4322001,-70.6707816,Independencia,"avenida mapocho, Santiago, Chile"
+1658,-33.4446097,-70.6457527,Santiago,"avenida santa rosa, Santiago, Chile"
+1659,,,No Especificada,Failed
+1660,-33.4671076,-70.6469026,Santiago,"arturo prat, Santiago, Chile"
+1661,-33.5253495,-70.6706992,La Cisterna,"colón, Santiago, Chile"
+1662,-33.4719165,-70.7570491,Maipú,"tierra fértil, Santiago, Chile"
+1663,-33.3729469,-70.7337065,Quilicura,"pedro riveros, Santiago, Chile"
+1664,-33.4491243,-70.7069735,Estación Central,"avenida maría rozas velásquez, Santiago, Chile"
+1665,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1666,-33.4716935,-70.6237636,Ñuñoa,"guillermo mann, Santiago, Chile"
+1667,,,No Especificada,Failed
+1668,-33.4716935,-70.6237636,Ñuñoa,"guillermo mann, Santiago, Chile"
+1669,-33.4293231,-70.6604938,Independencia,"avenida fermín vivaceta, Santiago, Chile"
+1670,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1671,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1672,-33.5204777,-70.6525452,La Cisterna,"avenida maría, Santiago, Chile"
+1673,-33.4603748,-70.6879531,Estación Central,"nicasio retamales, Santiago, Chile"
+1674,,,No Especificada,Failed
+1675,-33.4494299,-70.6577139,Santiago,"dieciocho, Santiago, Chile"
+1676,-33.453753,-70.6266717,Ñuñoa,"seminario, Santiago, Chile"
+1677,-33.5134718,-70.6088102,La Florida,"avenida vicuña mackenna poniente, Santiago, Chile"
+1678,-33.4490624,-70.6557941,Santiago,"padre miguel de olivares, Santiago, Chile"
+1679,-33.5058267,-70.6618977,San Miguel,"cuarta avenida, Santiago, Chile"
+1680,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1681,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1682,-33.4689912,-70.6396919,San Joaquín,"san isidro, Santiago, Chile"
+1683,-33.7015723,-71.2187181,Melipilla,"placilla, Santiago, Chile"
+1684,-33.4601518,-70.6472128,Santiago,"arturo prat, Santiago, Chile"
+1685,-33.4032224,-70.5545427,Las Condes,"leonardo da vinci, Santiago, Chile"
+1686,-33.5106584,-70.608853,La Florida,"avenida vicuña mackenna oriente, Santiago, Chile"
+1687,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1688,-33.4390491,-70.6531176,Santiago,"corte suprema, Santiago, Chile"
+1689,-33.4697458,-70.624665,Ñuñoa,"avenida vicuña mackenna, Santiago, Chile"
+1690,-33.4561993,-70.6327094,Santiago,"avenida manuel antonio matta, Santiago, Chile"
+1691,-33.4428483,-70.6696124,Santiago,"agustinas, Santiago, Chile"
+1692,-33.4715367,-70.6621572,Estación Central,"general gonzález balcarce, Santiago, Chile"
+1693,-33.4250427,-70.6392104,Recoleta,"la virgen, Santiago, Chile"
+1694,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1695,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1696,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1697,-33.4697458,-70.624665,Ñuñoa,"avenida vicuña mackenna, Santiago, Chile"
+1698,-33.4697458,-70.624665,Ñuñoa,"avenida vicuña mackenna, Santiago, Chile"
+1699,-33.4393407,-70.6583691,Santiago,"zañartu, Santiago, Chile"
+1700,-33.5197638,-70.5962095,La Florida,"vicuña mackenna, Santiago, Chile"
+1701,-33.5229053,-70.6093062,La Florida,"lía aguirre, Santiago, Chile"
+1702,-33.4915121,-70.6139615,Macul,"carlos condell, Santiago, Chile"
+1703,-33.523815,-70.6770212,La Cisterna,"avenida josé joaquín prieto, Santiago, Chile"
+1704,-33.4569408,-70.646752,Santiago,"serrano, Santiago, Chile"
+1705,-33.4446413,-70.6429413,Santiago,"carmen, Santiago, Chile"
+1706,-33.5134718,-70.6088102,La Florida,"avenida vicuña mackenna poniente, Santiago, Chile"
+1707,-33.4587971,-70.6976991,Estación Central,"coronel souper, Santiago, Chile"
+1708,-33.4547511,-70.699381,Estación Central,"conde del maule, Santiago, Chile"
+1709,-33.5024728,-70.6625889,San Miguel,"primera avenida, Santiago, Chile"
+1710,-33.4534319,-70.6629722,Santiago,"josé miguel carrera, Santiago, Chile"
+1711,-33.4496078,-70.6519976,Santiago,"eleuterio ramírez, Santiago, Chile"
+1712,-33.4766603,-70.6494774,San Miguel,"franklin, Santiago, Chile"
+1713,-33.4234607,-70.6418473,Recoleta,"maestra lidia torres, Santiago, Chile"
+1714,-33.4041507,-70.6665003,Independencia,"hipódromo chile, Santiago, Chile"
+1715,-33.4697458,-70.624665,Ñuñoa,"avenida vicuña mackenna, Santiago, Chile"
+1716,-33.4556635,-70.6436404,Santiago,"avenida santa rosa, Santiago, Chile"
+1717,-33.5197638,-70.5962095,La Florida,"vicuña mackenna, Santiago, Chile"
+1718,-33.4682343,-70.645493,San Miguel,"chiloé, Santiago, Chile"
+1719,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1720,-33.5159693,-70.6759007,Lo Espejo,"concón, Santiago, Chile"
+1721,-33.4553876,-70.5918829,Ñuñoa,"avenida irarrázaval, Santiago, Chile"
+1722,-33.4766603,-70.6494774,San Miguel,"franklin, Santiago, Chile"
+1723,-33.4766603,-70.6494774,San Miguel,"franklin, Santiago, Chile"
+1724,-33.5158561,-70.6622086,La Cisterna,"carvajal, Santiago, Chile"
+1725,-33.523815,-70.6770212,La Cisterna,"avenida josé joaquín prieto, Santiago, Chile"
+1726,-33.5229053,-70.6093062,La Florida,"lía aguirre, Santiago, Chile"
+1727,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+1728,-33.4314139,-70.6857818,Quinta Normal,"juan de barros, Santiago, Chile"
+1729,-33.4401216,-70.6777242,Santiago,"catedral, Santiago, Chile"
+1730,-33.3652496,-70.681195,Huechuraba,"avenida los libertadores, Santiago, Chile"
+1731,-33.4697458,-70.624665,Ñuñoa,"avenida vicuña mackenna, Santiago, Chile"
+1732,-33.5156044,-70.5984653,La Florida,"froilán roa, Santiago, Chile"
+1733,-33.4393407,-70.6583691,Santiago,"zañartu, Santiago, Chile"
+1734,-33.5229053,-70.6093062,La Florida,"lía aguirre, Santiago, Chile"
+1735,-33.5842921,-70.7127019,San Bernardo,"pasaje lincoyán, Santiago, Chile"
+1736,-33.437627,-70.6540265,Santiago,"morandé, Santiago, Chile"
+1737,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1738,-33.4597602,-70.7047645,Estación Central,"pasaje titán, Santiago, Chile"
+1739,-33.5129999,-70.663662,San Miguel,"avenida lo ovalle, Santiago, Chile"
+1740,-33.4417456,-70.670743,Santiago,"huérfanos, Santiago, Chile"
+1741,-33.4745526,-70.6548194,San Miguel,"avenida centenario, Santiago, Chile"
+1742,-33.4601518,-70.6472128,Santiago,"arturo prat, Santiago, Chile"
+1743,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1744,-33.4603748,-70.6879531,Estación Central,"nicasio retamales, Santiago, Chile"
+1745,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1746,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1747,-33.4599985,-70.6355416,Santiago,"lira, Santiago, Chile"
+1748,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1749,-33.7349032,-70.6825013,Alto Jahuel,"calle el molino, Santiago, Chile"
+1750,-33.4915121,-70.6139615,Macul,"carlos condell, Santiago, Chile"
+1751,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1752,-33.4697458,-70.624665,Ñuñoa,"avenida vicuña mackenna, Santiago, Chile"
+1753,-33.46888,-70.6736055,Estación Central,"bezanilla, Santiago, Chile"
+1754,-33.4766603,-70.6494774,San Miguel,"franklin, Santiago, Chile"
+1755,-33.5204777,-70.6525452,La Cisterna,"avenida maría, Santiago, Chile"
+1756,-33.4288413,-70.6614703,Independencia,"general prieto, Santiago, Chile"
+1757,-33.5211653,-70.6515834,La Cisterna,"santa clara, Santiago, Chile"
+1758,-33.4494299,-70.6577139,Santiago,"dieciocho, Santiago, Chile"
+1759,-33.4420638,-70.6456647,Santiago,"avenida alameda libertador bernardo o'higgins, Santiago, Chile"
+1760,-33.7015723,-71.2187181,Melipilla,"placilla, Santiago, Chile"
+1761,-33.4543416,-70.7058604,Estación Central,"avenida maría rozas velásquez, Santiago, Chile"
+1762,-33.440979,-70.6744471,Santiago,"compañía de jesús, Santiago, Chile"
+1763,-33.4802833,-70.6897217,Cerrillos,"avenida buzeta, Santiago, Chile"
+1764,-33.4650638,-70.6500144,Santiago,"zenteno, Santiago, Chile"
+1765,-33.5757622,-70.5600464,Puente Alto,"las nieves, Santiago, Chile"
+1766,-33.5134718,-70.6088102,La Florida,"avenida vicuña mackenna poniente, Santiago, Chile"
+1767,-33.4446413,-70.6429413,Santiago,"carmen, Santiago, Chile"
+1768,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1769,-33.263705,-70.8751597,Quilicura,"santa amalia, Santiago, Chile"
+1770,-33.5069186,-70.6556956,San Miguel,"florencia, Santiago, Chile"
+1771,-33.470419,-70.662787,Estación Central,"avenida rondizzoni, Santiago, Chile"
+1772,-33.5189838,-70.6521566,La Cisterna,"josé ureta, Santiago, Chile"
+1773,-33.4697458,-70.624665,Ñuñoa,"avenida vicuña mackenna, Santiago, Chile"
+1774,-33.4529746,-70.6585851,Santiago,"toesca, Santiago, Chile"
+1775,-33.5068179,-70.6622648,San Miguel,"quinta avenida, Santiago, Chile"
+1776,-33.5090147,-70.6031213,La Florida,"avenida departamental, Santiago, Chile"
+1777,-33.4601518,-70.6472128,Santiago,"arturo prat, Santiago, Chile"
+1778,-33.5068179,-70.6622648,San Miguel,"quinta avenida, Santiago, Chile"
+1779,-33.4588135,-70.690699,Estación Central,"toro mazotte, Santiago, Chile"
+1780,-33.3473028,-70.7416568,Santiago,"calle dos, Santiago, Chile"
+1781,-33.4228881,-70.6848407,Quinta Normal,"nueva andrés bello, Santiago, Chile"
+1782,-33.3473028,-70.7416568,Santiago,"calle dos, Santiago, Chile"
+1783,-33.452875,-70.6071427,Ñuñoa,"capitán orella, Santiago, Chile"
+1784,-33.4571848,-70.6657558,Estación Central,"avenida almirante blanco encalada, Santiago, Chile"
+1785,-33.4401216,-70.6777242,Santiago,"catedral, Santiago, Chile"
+1786,-33.5134718,-70.6088102,La Florida,"avenida vicuña mackenna poniente, Santiago, Chile"
+1787,-33.5197638,-70.5962095,La Florida,"vicuña mackenna, Santiago, Chile"
+1788,-33.4123746,-70.6565415,Independencia,"avenida inglaterra, Santiago, Chile"
+1789,-33.4731844,-70.6437907,San Miguel,"san francisco, Santiago, Chile"
+1790,-33.4650638,-70.6500144,Santiago,"zenteno, Santiago, Chile"
+1791,-33.4650638,-70.6500144,Santiago,"zenteno, Santiago, Chile"
+1792,-33.5068179,-70.6622648,San Miguel,"quinta avenida, Santiago, Chile"
+1793,-33.46888,-70.6736055,Estación Central,"bezanilla, Santiago, Chile"
+1794,-33.5068179,-70.6622648,San Miguel,"quinta avenida, Santiago, Chile"
+1795,-33.4519112,-70.6457137,Santiago,"eyzaguirre, Santiago, Chile"
+1796,-33.4587971,-70.6976991,Estación Central,"coronel souper, Santiago, Chile"
+1797,-33.4746729,-70.6482952,San Miguel,"san diego, Santiago, Chile"
+1798,-33.4723657,-70.642503,Santiago,Barrio: santa isabel
+1799,-33.4557596,-70.7030551,Estación Central,"carlos pezoa véliz, Santiago, Chile"
+1800,-33.5144632,-70.7006271,Lo Espejo,"avenida padre alberto hurtado, Santiago, Chile"
+1801,-33.4926964,-70.6502153,San Miguel,"avenida salesianos, Santiago, Chile"
+1802,-33.4603748,-70.6879531,Estación Central,"nicasio retamales, Santiago, Chile"
+1803,-33.506461,-70.5983072,Macul,"ramón toro ibáñez, Santiago, Chile"
+1804,-33.4438988,-70.6575189,Santiago,"san martín, Santiago, Chile"
+1805,-33.440979,-70.6744471,Santiago,"compañía de jesús, Santiago, Chile"
+1806,-33.5068179,-70.6622648,San Miguel,"quinta avenida, Santiago, Chile"
+1807,-33.4603748,-70.6879531,Estación Central,"nicasio retamales, Santiago, Chile"
+1808,,,No Especificada,Failed
+1809,-33.5273149,-70.6098432,La Granja,"avenida punta arenas, Santiago, Chile"
+1811,-33.4715367,-70.6621572,Estación Central,"general gonzález balcarce, Santiago, Chile"
+1812,-33.4543416,-70.7058604,Estación Central,"avenida maría rozas velásquez, Santiago, Chile"
+1813,-33.4462871,-70.6451981,Santiago,"curicó, Santiago, Chile"
+1814,-33.4714807,-70.6118329,Ñuñoa,"gaspar villarroel, Santiago, Chile"
+1815,-33.4537646,-70.6327494,Santiago,"fray camilo henríquez, Santiago, Chile"
+1816,-33.5126493,-70.6612056,San Miguel,"décima avenida, Santiago, Chile"
+1817,-33.5126493,-70.6612056,San Miguel,"décima avenida, Santiago, Chile"
+1818,-33.4446413,-70.6429413,Santiago,"carmen, Santiago, Chile"
+1819,-33.5126493,-70.6612056,San Miguel,"décima avenida, Santiago, Chile"
+1820,-33.4635992,-70.6952702,Estación Central,"general amengual, Santiago, Chile"
+1822,-33.4412098,-70.7073614,Lo Prado,"sergio valdovinos, Santiago, Chile"
+1823,-33.440979,-70.6744471,Santiago,"compañía de jesús, Santiago, Chile"
+1824,-33.4452588,-70.6677206,Santiago,"avenida ricardo cumming, Santiago, Chile"
+1825,-33.5068179,-70.6622648,San Miguel,"quinta avenida, Santiago, Chile"
+1826,-33.4496078,-70.6519976,Santiago,"eleuterio ramírez, Santiago, Chile"
+1828,-33.4246361,-70.7031685,Quinta Normal,"salvador gutiérrez, Santiago, Chile"
+1829,-33.4613218,-70.6523281,Santiago,"roberto espinoza, Santiago, Chile"
+1830,-33.4613257,-70.6372309,Santiago,"manuel antonio tocornal, Santiago, Chile"
+1831,-33.4689912,-70.6396919,San Joaquín,"san isidro, Santiago, Chile"
+1832,-33.54638,-70.790272,Maipú,"el ulmo, Santiago, Chile"
+1833,-33.4557596,-70.7030551,Estación Central,"carlos pezoa véliz, Santiago, Chile"
+1834,-33.4701571,-70.6392365,San Joaquín,"general gana, Santiago, Chile"
+1835,-33.4228881,-70.6848407,Quinta Normal,"nueva andrés bello, Santiago, Chile"
+1836,-33.4519112,-70.6457137,Santiago,"eyzaguirre, Santiago, Chile"
+1837,-33.4505274,-70.6166959,Ñuñoa,"román díaz, Santiago, Chile"
+1838,-33.4745526,-70.6548194,San Miguel,"avenida centenario, Santiago, Chile"
+1839,-33.4510293,-70.669942,Estación Central,"avenida españa, Santiago, Chile"
+1840,-33.4557596,-70.7030551,Estación Central,"carlos pezoa véliz, Santiago, Chile"
+1841,-33.4557596,-70.7030551,Estación Central,"carlos pezoa véliz, Santiago, Chile"
+1842,-33.4557596,-70.7030551,Estación Central,"carlos pezoa véliz, Santiago, Chile"
+1843,-33.4519112,-70.6457137,Santiago,"eyzaguirre, Santiago, Chile"
+1845,-33.4723657,-70.642503,Santiago,Barrio: santa isabel
+1846,-33.4697458,-70.624665,Ñuñoa,"avenida vicuña mackenna, Santiago, Chile"
+1847,,,No Especificada,Failed
+1848,-33.4701571,-70.6392365,San Joaquín,"general gana, Santiago, Chile"
+1849,-33.5478819,-70.5561297,Puente Alto,"avenida trinidad oriente, Santiago, Chile"
+1850,-33.4320062,-70.6594446,Santiago,"avenida mapocho, Santiago, Chile"
+1851,-33.4624161,-70.6552512,Santiago,"san ignacio de loyola, Santiago, Chile"
+1852,-33.4543416,-70.7058604,Estación Central,"avenida maría rozas velásquez, Santiago, Chile"
+1853,-33.4697458,-70.624665,Ñuñoa,"avenida vicuña mackenna, Santiago, Chile"
+1854,-33.4510099,-70.6820429,Estación Central,"avenida ecuador, Santiago, Chile"
+1855,-33.4492079,-70.6334373,Santiago,"argomedo, Santiago, Chile"
+1856,-33.4556635,-70.6436404,Santiago,"avenida santa rosa, Santiago, Chile"
+1857,-33.4587971,-70.6976991,Estación Central,"coronel souper, Santiago, Chile"
+1858,-33.4557596,-70.7030551,Estación Central,"carlos pezoa véliz, Santiago, Chile"
+1859,-33.472313,-70.6100086,Ñuñoa,"castillo urizar, Santiago, Chile"
+1860,-33.4519112,-70.6457137,Santiago,"eyzaguirre, Santiago, Chile"
+1861,-33.4723657,-70.642503,Santiago,Barrio: santa isabel
+1862,-33.4216661,-70.6478065,Recoleta,"santos dumont, Santiago, Chile"
+1864,-33.4510099,-70.6820429,Estación Central,"avenida ecuador, Santiago, Chile"
+1865,-33.4548489,-70.6599794,Santiago,"avenida ejército libertador, Santiago, Chile"
+1866,-33.422019,-70.6085607,Providencia,Barrio: los leones
+1867,-33.4564747,-70.5988163,Ñuñoa,"dublé almeyda, Santiago, Chile"
+1868,-33.4214753,-70.643046,Recoleta,"caliche, Santiago, Chile"
+1869,-33.4969044,-70.5920497,Macul,"cuadro verde, Santiago, Chile"
+1870,-33.4473023,-70.6781835,Estación Central,"chacabuco, Santiago, Chile"
+1871,-33.5284549,-70.7922071,Maipú,"avenida 4 poniente, Santiago, Chile"
+1872,-33.4446413,-70.6429413,Santiago,"carmen, Santiago, Chile"
+1873,-33.4314139,-70.6857818,Quinta Normal,"juan de barros, Santiago, Chile"
+1874,-33.5197638,-70.5962095,La Florida,"vicuña mackenna, Santiago, Chile"
+1875,-33.4361273,-70.6507641,Santiago,"santo domingo, Santiago, Chile"
+1876,-33.3300918,-70.5247635,Lo Barnechea,"teresa vial, Santiago, Chile"
+1877,-33.5207791,-70.6088585,La Florida,"rupanco, Santiago, Chile"
+1878,-33.445503,-70.6277165,Providencia,"emilio vaisse, Santiago, Chile"
+1879,-33.4599985,-70.6355416,Santiago,"lira, Santiago, Chile"
+1880,-33.4571848,-70.6657558,Estación Central,"avenida almirante blanco encalada, Santiago, Chile"
+1881,-33.4689912,-70.6396919,San Joaquín,"san isidro, Santiago, Chile"
+1882,-33.4314139,-70.6857818,Quinta Normal,"juan de barros, Santiago, Chile"
+1883,-33.5158561,-70.6622086,La Cisterna,"carvajal, Santiago, Chile"
+1884,-33.4697458,-70.624665,Ñuñoa,"avenida vicuña mackenna, Santiago, Chile"
+1885,-33.5207791,-70.6088585,La Florida,"rupanco, Santiago, Chile"
+1886,-33.5207791,-70.6088585,La Florida,"rupanco, Santiago, Chile"
+1887,-33.4418453,-70.6558989,Santiago,"salas, Santiago, Chile"
+1889,-33.4393407,-70.6583691,Santiago,"zañartu, Santiago, Chile"
+1890,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1891,-33.5303382,-70.601337,La Florida,"los alerces, Santiago, Chile"
+1892,-33.4123746,-70.6565415,Independencia,"avenida inglaterra, Santiago, Chile"
+1893,-33.4697458,-70.624665,Ñuñoa,"avenida vicuña mackenna, Santiago, Chile"
+1894,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1895,-33.4303351,-70.668607,Independencia,"san nicolás, Santiago, Chile"
+1896,,,No Especificada,Failed
+1897,,,No Especificada,Failed
+1898,-33.5084507,-70.7087255,Cerrillos,"avenida fernández albano, Santiago, Chile"
+1899,,,No Especificada,Failed
+1900,,,No Especificada,Failed
+1901,-33.4326344,-70.6424465,Recoleta,"dardignac, Santiago, Chile"
+1902,-33.4361273,-70.6507641,Santiago,"santo domingo, Santiago, Chile"
+1903,-33.4713507,-70.6904778,Estación Central,"toro mazote, Santiago, Chile"
+1904,-33.4556635,-70.6436404,Santiago,"avenida santa rosa, Santiago, Chile"
+1905,-33.4494299,-70.6577139,Santiago,"dieciocho, Santiago, Chile"
+1906,-33.4393407,-70.6583691,Santiago,"zañartu, Santiago, Chile"
+1907,-33.4510099,-70.6820429,Estación Central,"avenida ecuador, Santiago, Chile"
+1908,-33.472313,-70.6100086,Ñuñoa,"castillo urizar, Santiago, Chile"
+1909,-33.4393407,-70.6583691,Santiago,"zañartu, Santiago, Chile"
+1910,-33.4446413,-70.6429413,Santiago,"carmen, Santiago, Chile"
+1911,-33.5084507,-70.7087255,Cerrillos,"avenida fernández albano, Santiago, Chile"
+1912,-33.4697458,-70.624665,Ñuñoa,"avenida vicuña mackenna, Santiago, Chile"
+1913,-33.4801357,-70.7337421,Maipú,"inglaterra, Santiago, Chile"
+1914,-33.5158561,-70.6622086,La Cisterna,"carvajal, Santiago, Chile"
+1915,-33.4364555,-70.6667238,Santiago,"rosas, Santiago, Chile"
+1916,-33.5199599,-70.6524323,La Cisterna,"santa elisa, Santiago, Chile"
+1917,-33.5142615,-70.6835252,Lo Espejo,"inés de suárez, Santiago, Chile"
+1918,-33.4697458,-70.624665,Ñuñoa,"avenida vicuña mackenna, Santiago, Chile"
+1919,-33.5257668,-70.6964139,Lo Espejo,"rivas, Santiago, Chile"
+1920,-33.4537646,-70.6327494,Santiago,"fray camilo henríquez, Santiago, Chile"
+1921,-33.5006486,-70.7504301,Maipú,"guardia marina riquelme, Santiago, Chile"
+1922,-33.4537646,-70.6327494,Santiago,"fray camilo henríquez, Santiago, Chile"
+1923,-33.4492079,-70.6334373,Santiago,"argomedo, Santiago, Chile"
+1924,-33.5006793,-70.7856215,Maipú,"santa petronila, Santiago, Chile"
+1925,-33.4568727,-70.6675743,Estación Central,"domeyko, Santiago, Chile"
+1926,-33.4704086,-70.6230595,Ñuñoa,"san eugenio, Santiago, Chile"
+1927,-33.5817207,-70.680152,San Bernardo,"diego de rosales, Santiago, Chile"
+1928,-33.4250427,-70.6392104,Recoleta,"la virgen, Santiago, Chile"
+1929,-33.535236,-70.6605235,La Cisterna,"madame adriana bolland, Santiago, Chile"
+1930,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+1931,-33.4508543,-70.7057134,Estación Central,"buzo sobenes, Santiago, Chile"
+1932,-33.4870884,-70.6455188,San Miguel,"alcalde pedro alarcón, Santiago, Chile"
+1933,-33.4587971,-70.6976991,Estación Central,"coronel souper, Santiago, Chile"
+1934,-33.4469856,-70.5722609,Ñuñoa,"pasaje ossa, Santiago, Chile"
+1935,-33.4257693,-70.7146814,Quinta Normal,"samuel izquierdo, Santiago, Chile"
+1936,-33.5673051,-70.8020467,Padre Hurtado,"padre hurtado, Santiago, Chile"
+1937,-33.4536818,-70.6318921,Santiago,"santa elena, Santiago, Chile"
+1938,-33.4503743,-70.654608,Santiago,"lord cochrane, Santiago, Chile"
+1939,-33.4604,-70.637502,Santiago,"santa elvira, Santiago, Chile"
+1940,-33.4601518,-70.6472128,Santiago,"arturo prat, Santiago, Chile"
+1941,-33.4366274,-70.6446819,Santiago,"monjitas, Santiago, Chile"
+1942,-33.5134718,-70.6088102,La Florida,"avenida vicuña mackenna poniente, Santiago, Chile"
+1943,-33.4713507,-70.6904778,Estación Central,"toro mazote, Santiago, Chile"
+1944,-33.4510293,-70.669942,Estación Central,"avenida españa, Santiago, Chile"
+1945,-33.4041507,-70.6665003,Independencia,"hipódromo chile, Santiago, Chile"
+1946,-33.5224991,-70.6585037,La Cisterna,"fernando rioja, Santiago, Chile"
+1947,-33.5180127,-70.6018667,Providencia,Barrio: bellavista
+1948,-33.5159693,-70.6759007,Lo Espejo,"concón, Santiago, Chile"
+1949,-33.5842921,-70.7127019,San Bernardo,"pasaje lincoyán, Santiago, Chile"
+1950,-33.4349176,-70.6663154,Santiago,"general baquedano, Santiago, Chile"
+1951,-33.4418205,-70.6947402,Quinta Normal,"cruchaga montt, Santiago, Chile"
+1952,-33.4804374,-70.6172584,Macul,"til til, Santiago, Chile"
+1953,-33.4556635,-70.6436404,Santiago,"avenida santa rosa, Santiago, Chile"
+1954,-33.4473023,-70.6781835,Estación Central,"chacabuco, Santiago, Chile"
+1955,-33.447602,-70.6523174,Santiago,"tarapacá, Santiago, Chile"
+1956,-33.4266906,-70.6398828,Recoleta,"avenida perú, Santiago, Chile"
+1957,-33.4041507,-70.6665003,Independencia,"hipódromo chile, Santiago, Chile"
+1958,-33.4731844,-70.6437907,San Miguel,"san francisco, Santiago, Chile"
+1959,-33.4328085,-70.6935268,Quinta Normal,"córdova y figueroa, Santiago, Chile"
+1960,-33.4013343,-70.6628989,Independencia,"pablo urzúa, Santiago, Chile"
+1961,-33.4123746,-70.6565415,Independencia,"avenida inglaterra, Santiago, Chile"
+1962,-33.4547511,-70.699381,Estación Central,"conde del maule, Santiago, Chile"
+1963,,,No Especificada,Failed
+1964,-33.4853601,-70.5977795,Macul,"avenida quilín, Santiago, Chile"
+1965,-33.4537646,-70.6327494,Santiago,"fray camilo henríquez, Santiago, Chile"
+1966,-33.5134718,-70.6088102,La Florida,"avenida vicuña mackenna poniente, Santiago, Chile"
+1968,,,No Especificada,Failed
+1969,,,No Especificada,Failed
+1971,,,No Especificada,Failed
+1972,-33.4270143,-70.6186184,Providencia,"cirujano guzman, Santiago, Chile"
+1973,-33.4262777,-70.585109,Las Condes,Barrio: alcántara
+1974,,,No Especificada,Failed
+1975,,,No Especificada,Failed
+1976,,,No Especificada,Failed
+1978,,,No Especificada,Failed
+1979,,,No Especificada,Failed
+1980,,,No Especificada,Failed
+1981,,,No Especificada,Failed
+1982,,,No Especificada,Failed
+1984,-33.4723657,-70.642503,Santiago,Barrio: santa isabel
+1986,,,No Especificada,Failed
+1988,-33.4402618,-70.6413884,Santiago,Barrio: lastarria
+1989,,,No Especificada,Failed
+1990,,,No Especificada,Failed
+1991,-33.4094637,-70.5697326,Las Condes,Barrio: manquehue
+1992,-33.4094637,-70.5697326,Las Condes,Barrio: manquehue
+1993,,,No Especificada,Failed
+1994,,,No Especificada,Failed
+1995,,,No Especificada,Failed
+1996,,,No Especificada,Failed
+1997,,,No Especificada,Failed
+1998,,,No Especificada,Failed
+1999,-33.422019,-70.6085607,Providencia,Barrio: los leones
+2000,,,No Especificada,Failed
+2001,,,No Especificada,Failed
+2002,-33.4482812,-70.6513624,Santiago,Barrio: santa isabel
+2004,,,No Especificada,Failed
+2006,,,No Especificada,Failed
+2013,,,No Especificada,Failed
+2014,,,No Especificada,Failed
+2015,,,No Especificada,Failed
+4,-33.4326356,-70.6484238,Recoleta,"avenida santa maria, Santiago, Chile"
+10,,,No Especificada,Failed
+30,,,No Especificada,Failed
+58,,,No Especificada,Failed
+106,,,No Especificada,Failed
+108,,,No Especificada,Failed
+109,,,No Especificada,Failed
+110,,,No Especificada,Failed
+111,,,No Especificada,Failed
+112,,,No Especificada,Failed
+114,,,No Especificada,Failed
+115,,,No Especificada,Failed
+116,,,No Especificada,Failed
+120,,,No Especificada,Failed
+121,,,No Especificada,Failed
+127,,,No Especificada,Failed
+130,,,No Especificada,Failed
+154,,,No Especificada,Failed
+157,,,No Especificada,Failed
+194,-33.427098,-70.5901237,Providencia,"avenida tobalaba, Santiago, Chile"
+199,,,No Especificada,Failed
+202,,,No Especificada,Failed
+203,,,No Especificada,Failed
+206,,,No Especificada,Failed
+207,,,No Especificada,Failed
+208,,,No Especificada,Failed
+209,,,No Especificada,Failed
+212,,,No Especificada,Failed
+213,,,No Especificada,Failed
+214,,,No Especificada,Failed
+216,,,No Especificada,Failed
+220,,,No Especificada,Failed
+222,,,No Especificada,Failed
+225,,,No Especificada,Failed
+229,,,No Especificada,Failed
+231,,,No Especificada,Failed
+232,,,No Especificada,Failed
+233,,,No Especificada,Failed
+234,,,No Especificada,Failed
+238,,,No Especificada,Failed
+239,,,No Especificada,Failed
+240,,,No Especificada,Failed
+241,,,No Especificada,Failed
+243,,,No Especificada,Failed
+244,,,No Especificada,Failed
+246,,,No Especificada,Failed
+247,,,No Especificada,Failed
+250,,,No Especificada,Failed
+255,28.6811428,-17.766999,Casco Antiguo,"calle luz, Santiago, Chile"
+256,-33.4456626,-70.5693118,La Reina,"avenida echeñique, Santiago, Chile"
+257,-33.4689912,-70.6396919,Santiago,Barrio: san isidro
+258,,,No Especificada,Failed
+259,,,No Especificada,Failed
+263,,,No Especificada,Failed
+264,,,No Especificada,Failed
+268,,,No Especificada,Failed
+269,,,No Especificada,Failed
+270,,,No Especificada,Failed
+271,,,No Especificada,Failed
+272,,,No Especificada,Failed
+273,,,No Especificada,Failed
+274,,,No Especificada,Failed
+275,,,No Especificada,Failed
+276,,,No Especificada,Failed
+277,,,No Especificada,Failed
+283,,,No Especificada,Failed
+284,,,No Especificada,Failed
+290,,,No Especificada,Failed
+291,,,No Especificada,Failed
+292,,,No Especificada,Failed
+295,,,No Especificada,Failed
+296,,,No Especificada,Failed
+303,,,No Especificada,Failed
+305,,,No Especificada,Failed
+306,,,No Especificada,Failed
+309,,,No Especificada,Failed
+310,,,No Especificada,Failed
+312,,,No Especificada,Failed
+315,,,No Especificada,Failed
+316,,,No Especificada,Failed
+317,,,No Especificada,Failed
+319,,,No Especificada,Failed
+323,,,No Especificada,Failed
+324,,,No Especificada,Failed
+325,,,No Especificada,Failed
+326,,,No Especificada,Failed
+327,,,No Especificada,Failed
+330,,,No Especificada,Failed
+332,-33.4519112,-70.6457137,Santiago,Barrio: eyzaguirre
+333,,,No Especificada,Failed
+334,,,No Especificada,Failed
+336,,,No Especificada,Failed
+339,,,No Especificada,Failed
+340,,,No Especificada,Failed
+341,,,No Especificada,Failed
+342,,,No Especificada,Failed
+344,,,No Especificada,Failed
+346,,,No Especificada,Failed
+348,,,No Especificada,Failed
+350,,,No Especificada,Failed
+353,,,No Especificada,Failed
+355,,,No Especificada,Failed
+356,,,No Especificada,Failed
+357,,,No Especificada,Failed
+359,,,No Especificada,Failed
+360,,,No Especificada,Failed
+361,,,No Especificada,Failed
+362,,,No Especificada,Failed
+364,,,No Especificada,Failed
+365,,,No Especificada,Failed
+369,,,No Especificada,Failed
+370,,,No Especificada,Failed
+371,,,No Especificada,Failed
+373,,,No Especificada,Failed
+374,,,No Especificada,Failed
+375,,,No Especificada,Failed
+377,,,No Especificada,Failed
+378,,,No Especificada,Failed
+379,,,No Especificada,Failed
+380,,,No Especificada,Failed
+381,,,No Especificada,Failed
+382,,,No Especificada,Failed
+383,,,No Especificada,Failed
+386,,,No Especificada,Failed
+387,,,No Especificada,Failed
+388,,,No Especificada,Failed
+389,,,No Especificada,Failed
+390,,,No Especificada,Failed
+396,-33.4376338,-70.5474519,La Reina,"carlos silva vildósola, Santiago, Chile"
+415,,,No Especificada,Failed
+420,,,No Especificada,Failed
+424,-33.446556,-70.6735859,Estación Central,"libertad, Santiago, Chile"
+432,,,No Especificada,Failed
+433,-33.4577519,-70.6698633,Santiago,Barrio: blanco encalada
+434,-33.4519112,-70.6457137,Santiago,Barrio: eyzaguirre
+435,-33.4911815,-70.6131042,Macul,"aníbal pinto, Santiago, Chile"
+437,-33.4519112,-70.6457137,Santiago,Barrio: eyzaguirre
+438,-33.4529746,-70.6585851,Santiago,"toesca, Santiago, Chile"
+439,-33.4519112,-70.6457137,Santiago,Barrio: eyzaguirre
+441,-33.4518932,-70.6602444,Santiago,"gorbea, Santiago, Chile"
+442,-33.4322389,-70.6546037,Santiago,"mapocho, Santiago, Chile"
+443,-33.4266906,-70.6398828,Recoleta,"avenida perú, Santiago, Chile"
+445,-33.4801357,-70.7337421,Maipú,"inglaterra, Santiago, Chile"
+446,-33.4488853,-70.6426919,Santiago,Barrio: santa victoria
+449,-33.5153459,-70.6616709,La Cisterna,"briones luco, Santiago, Chile"
+451,-33.4041507,-70.6665003,Independencia,"hipódromo chile, Santiago, Chile"
+452,-33.4697458,-70.624665,Ñuñoa,"avenida vicuña mackenna, Santiago, Chile"
+455,-33.4543416,-70.7058604,Estación Central,"avenida maría rozas velásquez, Santiago, Chile"
+456,-33.4496078,-70.6519976,Santiago,"eleuterio ramirez, Santiago, Chile"
+457,-33.4849805,-70.7468862,Maipú,"avenida los pajaritos, Santiago, Chile"
+459,,,No Especificada,Failed
+460,,,No Especificada,Failed
+461,-33.4577519,-70.6698633,Santiago,Barrio: blanco encalada
+462,-33.263705,-70.8751597,Quilicura,"santa amalia, Santiago, Chile"
+463,-33.4689912,-70.6396919,Santiago,Barrio: san isidro
+464,-33.4520784,-70.6528789,Santiago,"nataniel cox, Santiago, Chile"
+465,-33.4849805,-70.7468862,Maipú,"avenida los pajaritos, Santiago, Chile"
+467,-33.5150119,-70.6471846,San Miguel,"san petersburgo, Santiago, Chile"
+468,-33.4488853,-70.6426919,Santiago,Barrio: santa victoria
+470,-33.4556635,-70.6436404,Santiago,"avenida santa rosa, Santiago, Chile"
+471,-33.4322389,-70.6546037,Santiago,"mapocho, Santiago, Chile"
+472,-33.4488853,-70.6426919,Santiago,Barrio: santa victoria
+476,-33.5197638,-70.5962095,La Florida,"vicuña mackenna, Santiago, Chile"
+477,-33.5034252,-70.6779052,Pedro Aguirre Cerda,"llanquihue, Santiago, Chile"
+478,-33.4441878,-70.6557562,Santiago,"amunátegui, Santiago, Chile"
+480,-33.3969855,-70.6414766,Recoleta,"avenida dorsal, Santiago, Chile"
+481,-33.5145787,-70.6445422,San Miguel,"bermann, Santiago, Chile"
+482,-33.4511131,-70.6855022,Estación Central,"avenida obispo manuel umaña, Santiago, Chile"
+483,-33.4577519,-70.6698633,Santiago,Barrio: blanco encalada
+485,,,No Especificada,Failed
+486,-33.4276141,-70.6786373,Independencia,"avenida carrascal, Santiago, Chile"
+487,-33.4543416,-70.7058604,Estación Central,"avenida maría rozas velásquez, Santiago, Chile"
+488,-33.5199599,-70.6524323,La Cisterna,"santa elisa, Santiago, Chile"
+490,-33.4211038,-70.6597033,Independencia,"gamero, Santiago, Chile"
+491,-33.5048704,-70.5700865,Peñalolén,"david arellano, Santiago, Chile"
+493,-33.4734625,-70.6490526,San Miguel,"el molino, Santiago, Chile"
+494,-33.4446413,-70.6429413,Santiago,"carmen, Santiago, Chile"
+499,-33.4536818,-70.6318921,Santiago,"santa elena, Santiago, Chile"
+500,-33.4520784,-70.6528789,Santiago,"nataniel cox, Santiago, Chile"
+501,-33.449671,-70.6622162,Santiago,"barcelona, Santiago, Chile"
+502,-33.4488853,-70.6426919,Santiago,Barrio: santa victoria
+504,-33.4529746,-70.6585851,Santiago,"toesca, Santiago, Chile"
+505,-33.4910121,-70.62795,San Joaquín,"salomón sumar, Santiago, Chile"
+507,,,No Especificada,Failed
+508,-33.4302523,-70.6881196,Quinta Normal,"villasana, Santiago, Chile"
+509,-33.5153459,-70.6616709,La Cisterna,"briones luco, Santiago, Chile"
+510,-33.5150119,-70.6471846,San Miguel,"san petersburgo, Santiago, Chile"
+511,-33.4488853,-70.6426919,Santiago,Barrio: santa victoria
+512,-33.4601518,-70.6472128,Santiago,"arturo prat, Santiago, Chile"
+514,-33.7015723,-71.2187181,Melipilla,"placilla, Santiago, Chile"
+515,-33.4689912,-70.6396919,Santiago,Barrio: san isidro
+516,-33.4303351,-70.668607,Independencia,"san nicolás, Santiago, Chile"
+518,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+519,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+520,-33.4801357,-70.7337421,Maipú,"inglaterra, Santiago, Chile"
+522,-33.4496078,-70.6519976,Santiago,"eleuterio ramírez, Santiago, Chile"
+524,-33.4911815,-70.6131042,Macul,"aníbal pinto, Santiago, Chile"
+525,-33.446556,-70.6735859,Estación Central,"libertad, Santiago, Chile"
+526,-33.4519112,-70.6457137,Santiago,Barrio: eyzaguirre
+528,-33.4587971,-70.6976991,Estación Central,"coronel souper, Santiago, Chile"
+529,-33.4731844,-70.6437907,San Miguel,"san francisco, Santiago, Chile"
+530,-33.4510099,-70.6820429,Estación Central,"avenida ecuador, Santiago, Chile"
+532,,,No Especificada,Failed
+536,-33.4547511,-70.699381,Estación Central,"conde del maule, Santiago, Chile"
+539,,,No Especificada,Failed
+542,-33.4482132,-70.6975554,Estación Central,"blanco garcés, Santiago, Chile"
+543,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+546,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+548,,,No Especificada,Failed
+551,-33.450632,-70.6352431,Santiago,"antonio ricaurte, Santiago, Chile"
+552,-33.5253495,-70.6706992,La Cisterna,"colón, Santiago, Chile"
+554,-33.5253495,-70.6706992,La Cisterna,"colón, Santiago, Chile"
+555,,,No Especificada,Failed
+556,-33.5150119,-70.6471846,San Miguel,"san petersburgo, Santiago, Chile"
+557,-33.4849805,-70.7468862,Maipú,"avenida los pajaritos, Santiago, Chile"
+558,-33.4801357,-70.7337421,Maipú,"inglaterra, Santiago, Chile"
+560,-33.4266906,-70.6398828,Recoleta,"avenida perú, Santiago, Chile"
+561,,,No Especificada,Failed
+562,-33.4510099,-70.6820429,Estación Central,"avenida ecuador, Santiago, Chile"
+563,-33.4044264,-70.6602463,Independencia,"huánuco, Santiago, Chile"
+565,-33.4488853,-70.6426919,Santiago,Barrio: santa victoria
+566,-33.5189838,-70.6521566,La Cisterna,"josé ureta, Santiago, Chile"
+569,-33.4682343,-70.645493,San Miguel,"chiloé, Santiago, Chile"
+571,-33.4766603,-70.6494774,San Miguel,"franklin, Santiago, Chile"
+573,-33.4961668,-70.6538971,San Miguel,"ventura blanco viel, Santiago, Chile"
+574,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+575,42.8717659,-8.5502729,Santiago De Compostela,"la coruña, Santiago, Chile"
+576,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+579,-33.4462446,-70.66074,Santiago,"avenida manuel rodríguez, Santiago, Chile"
+580,-33.4536818,-70.6318921,Santiago,"santa elena, Santiago, Chile"
+582,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+583,-33.4446413,-70.6429413,Santiago,"carmen, Santiago, Chile"
+585,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+587,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+588,-33.4849805,-70.7468862,Maipú,"avenida los pajaritos, Santiago, Chile"
+590,-33.5129999,-70.663662,San Miguel,"avenida lo ovalle, Santiago, Chile"
+591,-33.4548572,-70.6387396,Santiago,"coquimbo, Santiago, Chile"
+594,-33.4510099,-70.6820429,Estación Central,"avenida ecuador, Santiago, Chile"
+595,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+596,,,No Especificada,Failed
+597,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+598,,,No Especificada,Failed
+600,-33.4013343,-70.6628989,Independencia,"pablo urzúa, Santiago, Chile"
+602,-33.4482132,-70.6975554,Estación Central,"blanco garcés, Santiago, Chile"
+608,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+610,-33.5006793,-70.7856215,Maipú,"sta petronila, Santiago, Chile"
+613,-33.4337574,-70.6649742,Santiago,"avenida brasil, Santiago, Chile"
+614,-33.4587971,-70.6976991,Estación Central,"coronel souper, Santiago, Chile"
+615,-33.4276141,-70.6786373,Independencia,"avenida carrascal, Santiago, Chile"
+616,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+617,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+618,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+619,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+620,-33.4532212,-70.6938818,Estación Central,"coronel godoy, Santiago, Chile"
+621,-33.4822613,-70.6911279,Cerrillos,"martín de solier, Santiago, Chile"
+623,-33.5197638,-70.5962095,La Florida,"vicuña mackenna, Santiago, Chile"
+624,-33.4466221,-70.6661647,Santiago,"maturana, Santiago, Chile"
+627,-33.4013343,-70.6628989,Independencia,"pablo urzúa, Santiago, Chile"
+628,-33.4766603,-70.6494774,San Miguel,"franklin, Santiago, Chile"
+629,-33.4601518,-70.6472128,Santiago,"arturo prat, Santiago, Chile"
+631,,,No Especificada,Failed
+635,-33.4801357,-70.7337421,Maipú,"inglaterra, Santiago, Chile"
+636,-33.5123318,-70.6831837,Lo Espejo,"cruz, Santiago, Chile"
+637,,,No Especificada,Failed
+638,-33.4801357,-70.7337421,Maipú,"inglaterra, Santiago, Chile"
+640,-33.4801357,-70.7337421,Maipú,"inglaterra, Santiago, Chile"
+643,,,No Especificada,Failed
+645,-33.5389858,-70.682341,La Cisterna,"trinidad ramírez, Santiago, Chile"
+647,,,No Especificada,Failed
+648,-33.4508543,-70.7057134,Estación Central,"buzo sobenes, Santiago, Chile"
+649,-33.4556635,-70.6436404,Santiago,"avenida santa rosa, Santiago, Chile"
+650,-33.4734625,-70.6490526,San Miguel,"el molino, Santiago, Chile"
+651,-33.4556635,-70.6436404,Santiago,"avenida santa rosa, Santiago, Chile"
+652,,,No Especificada,Failed
+653,,,No Especificada,Failed
+654,-33.4672937,-70.6412582,San Joaquín,"víctor manuel, Santiago, Chile"
+655,-33.4446413,-70.6429413,Santiago,"carmen, Santiago, Chile"
+656,-33.4543416,-70.7058604,Estación Central,"maría rozas velásquez, Santiago, Chile"
+657,-33.4482132,-70.6975554,Estación Central,"blanco garcés, Santiago, Chile"
+658,-33.4519112,-70.6457137,Santiago,Barrio: eyzaguirre
+660,-33.4556635,-70.6436404,Santiago,"avenida santa rosa, Santiago, Chile"
+663,-33.4731844,-70.6437907,San Miguel,"san francisco, Santiago, Chile"
+664,,,No Especificada,Failed
+667,,,No Especificada,Failed
+668,-33.4519112,-70.6457137,Santiago,Barrio: eyzaguirre
+669,,,No Especificada,Failed
+671,,,No Especificada,Failed
+686,,,No Especificada,Failed
+688,,,No Especificada,Failed
+692,,,No Especificada,Failed
+694,,,No Especificada,Failed
+695,,,No Especificada,Failed
+697,,,No Especificada,Failed
+698,,,No Especificada,Failed
+699,,,No Especificada,Failed
+700,,,No Especificada,Failed
+706,,,No Especificada,Failed
+710,,,No Especificada,Failed
+711,,,No Especificada,Failed
+713,,,No Especificada,Failed
+720,,,No Especificada,Failed
+722,,,No Especificada,Failed
+723,,,No Especificada,Failed
+724,,,No Especificada,Failed
+727,,,No Especificada,Failed
+728,,,No Especificada,Failed
+729,,,No Especificada,Failed
+731,,,No Especificada,Failed
+733,,,No Especificada,Failed
+736,,,No Especificada,Failed
+737,,,No Especificada,Failed
+738,,,No Especificada,Failed
+739,,,No Especificada,Failed
+740,,,No Especificada,Failed
+741,,,No Especificada,Failed
+744,,,No Especificada,Failed
+746,,,No Especificada,Failed
+747,,,No Especificada,Failed
+749,,,No Especificada,Failed
+750,,,No Especificada,Failed
+751,,,No Especificada,Failed
+752,,,No Especificada,Failed
+754,,,No Especificada,Failed
+756,,,No Especificada,Failed
+757,,,No Especificada,Failed
+760,,,No Especificada,Failed
+761,,,No Especificada,Failed
+764,,,No Especificada,Failed
+767,,,No Especificada,Failed
+770,,,No Especificada,Failed
+776,,,No Especificada,Failed
+783,,,No Especificada,Failed
+787,,,No Especificada,Failed
+791,,,No Especificada,Failed
+794,,,No Especificada,Failed
+798,-33.3675281,-70.5124674,Lo Barnechea,"avenida la dehesa, Santiago, Chile"
+799,,,No Especificada,Failed
+802,,,No Especificada,Failed
+803,,,No Especificada,Failed
+804,,,No Especificada,Failed
+805,,,No Especificada,Failed
+808,,,No Especificada,Failed
+809,,,No Especificada,Failed
+830,,,No Especificada,Failed
+832,,,No Especificada,Failed
+834,,,No Especificada,Failed
+836,,,No Especificada,Failed
+837,,,No Especificada,Failed
+838,,,No Especificada,Failed
+842,,,No Especificada,Failed
+843,,,No Especificada,Failed
+845,,,No Especificada,Failed
+846,,,No Especificada,Failed
+847,28.6811428,-17.766999,Casco Antiguo,"calle luz, Santiago, Chile"
+848,,,No Especificada,Failed
+849,,,No Especificada,Failed
+853,,,No Especificada,Failed
+854,,,No Especificada,Failed
+855,,,No Especificada,Failed
+857,,,No Especificada,Failed
+858,,,No Especificada,Failed
+863,,,No Especificada,Failed
+865,,,No Especificada,Failed
+869,,,No Especificada,Failed
+884,,,No Especificada,Failed
+916,,,No Especificada,Failed
+925,,,No Especificada,Failed
+993,,,No Especificada,Failed
+995,,,No Especificada,Failed
+997,,,No Especificada,Failed
+1003,,,No Especificada,Failed
+1005,,,No Especificada,Failed
+1006,,,No Especificada,Failed
+1007,,,No Especificada,Failed
+1012,,,No Especificada,Failed
+1013,,,No Especificada,Failed
+1014,,,No Especificada,Failed
+1015,,,No Especificada,Failed
+1016,,,No Especificada,Failed
+1018,,,No Especificada,Failed
+1021,,,No Especificada,Failed
+1025,,,No Especificada,Failed
+1030,,,No Especificada,Failed
+1031,,,No Especificada,Failed
+1033,,,No Especificada,Failed
+1036,,,No Especificada,Failed
+1038,,,No Especificada,Failed
+1039,,,No Especificada,Failed
+1040,,,No Especificada,Failed
+1041,,,No Especificada,Failed
+1048,-32.9648328,-70.832146,Tiltil,"calle til til, Santiago, Chile"
+1053,,,No Especificada,Failed
+1054,,,No Especificada,Failed
+1055,,,No Especificada,Failed
+1057,,,No Especificada,Failed
+1061,,,No Especificada,Failed
+1062,,,No Especificada,Failed
+1063,,,No Especificada,Failed
+1064,,,No Especificada,Failed
+1074,,,No Especificada,Failed
+1076,,,No Especificada,Failed
+1080,,,No Especificada,Failed
+1081,,,No Especificada,Failed
+1082,,,No Especificada,Failed
+1084,-33.5739214,-70.6296246,La Pintana,"metro padre hurtado, Santiago, Chile"
+1086,,,No Especificada,Failed
+1087,,,No Especificada,Failed
+1089,,,No Especificada,Failed
+1090,,,No Especificada,Failed
+1095,,,No Especificada,Failed
+1096,,,No Especificada,Failed
+1106,,,No Especificada,Failed
+1107,,,No Especificada,Failed
+1111,,,No Especificada,Failed
+1112,,,No Especificada,Failed
+1113,,,No Especificada,Failed
+1115,,,No Especificada,Failed
+1116,,,No Especificada,Failed
+1118,,,No Especificada,Failed
+1119,,,No Especificada,Failed
+1120,,,No Especificada,Failed
+1122,,,No Especificada,Failed
+1123,,,No Especificada,Failed
+1128,,,No Especificada,Failed
+1131,,,No Especificada,Failed
+1134,,,No Especificada,Failed
+1136,,,No Especificada,Failed
+1137,,,No Especificada,Failed
+1138,,,No Especificada,Failed
+1141,,,No Especificada,Failed
+1144,,,No Especificada,Failed
+1145,,,No Especificada,Failed
+1149,,,No Especificada,Failed
+1151,,,No Especificada,Failed
+1154,,,No Especificada,Failed
+1156,,,No Especificada,Failed
+1158,,,No Especificada,Failed
+1160,-33.4483483,-70.643165,Santiago,Barrio: san isidro
+1162,,,No Especificada,Failed
+1166,,,No Especificada,Failed
+1173,,,No Especificada,Failed
+1174,,,No Especificada,Failed
+1177,,,No Especificada,Failed
+1179,,,No Especificada,Failed
+1180,,,No Especificada,Failed
+1181,-33.4583194,-70.6565147,Santiago,"avenida viel, Santiago, Chile"
+1182,,,No Especificada,Failed
+1184,,,No Especificada,Failed
+1185,,,No Especificada,Failed
+1186,,,No Especificada,Failed
+1188,,,No Especificada,Failed
+1189,,,No Especificada,Failed
+1190,,,No Especificada,Failed
+1191,,,No Especificada,Failed
+1193,,,No Especificada,Failed
+1194,,,No Especificada,Failed
+1195,,,No Especificada,Failed
+1196,,,No Especificada,Failed
+1198,,,No Especificada,Failed
+1199,,,No Especificada,Failed
+1202,,,No Especificada,Failed
+1203,,,No Especificada,Failed
+1205,,,No Especificada,Failed
+1206,,,No Especificada,Failed
+1207,,,No Especificada,Failed
+1209,,,No Especificada,Failed
+1210,,,No Especificada,Failed
+1213,,,No Especificada,Failed
+1214,,,No Especificada,Failed
+1215,,,No Especificada,Failed
+1219,,,No Especificada,Failed
+1221,,,No Especificada,Failed
+1228,,,No Especificada,Failed
+1229,,,No Especificada,Failed
+1230,,,No Especificada,Failed
+1231,,,No Especificada,Failed
+1234,,,No Especificada,Failed
+1237,,,No Especificada,Failed
+1239,,,No Especificada,Failed
+1241,,,No Especificada,Failed
+1243,,,No Especificada,Failed
+1244,,,No Especificada,Failed
+1247,,,No Especificada,Failed
+1248,,,No Especificada,Failed
+1250,,,No Especificada,Failed
+1251,,,No Especificada,Failed
+1252,,,No Especificada,Failed
+1258,,,No Especificada,Failed
+1263,,,No Especificada,Failed
+1264,,,No Especificada,Failed
+1266,,,No Especificada,Failed
+1269,,,No Especificada,Failed
+1273,,,No Especificada,Failed
+1279,,,No Especificada,Failed
+1281,,,No Especificada,Failed
+1283,,,No Especificada,Failed
+1284,,,No Especificada,Failed
+1287,,,No Especificada,Failed
+1288,,,No Especificada,Failed
+1292,,,No Especificada,Failed
+1307,,,No Especificada,Failed
+1309,,,No Especificada,Failed
+1317,,,No Especificada,Failed
+1320,,,No Especificada,Failed
+1325,,,No Especificada,Failed
+1338,,,No Especificada,Failed
+1340,,,No Especificada,Failed
+1343,,,No Especificada,Failed
+1344,,,No Especificada,Failed
+1347,,,No Especificada,Failed
+1348,,,No Especificada,Failed
+1349,,,No Especificada,Failed
+1351,,,No Especificada,Failed
+1353,,,No Especificada,Failed
+1354,,,No Especificada,Failed
+1356,,,No Especificada,Failed
+1358,,,No Especificada,Failed
+1360,,,No Especificada,Failed
+1361,,,No Especificada,Failed
+1364,,,No Especificada,Failed
+1366,,,No Especificada,Failed
+1372,,,No Especificada,Failed
+1375,,,No Especificada,Failed
+1376,,,No Especificada,Failed
+1377,,,No Especificada,Failed
+1379,,,No Especificada,Failed
+1385,,,No Especificada,Failed
+1386,,,No Especificada,Failed
+1387,,,No Especificada,Failed
+1388,,,No Especificada,Failed
+1389,,,No Especificada,Failed
+1391,,,No Especificada,Failed
+1392,,,No Especificada,Failed
+1394,,,No Especificada,Failed
+1396,,,No Especificada,Failed
+1397,,,No Especificada,Failed
+1399,,,No Especificada,Failed
+1400,,,No Especificada,Failed
+1402,,,No Especificada,Failed
+1403,,,No Especificada,Failed
+1404,,,No Especificada,Failed
+1405,,,No Especificada,Failed
+1406,,,No Especificada,Failed
+1407,,,No Especificada,Failed
+1408,,,No Especificada,Failed
+1410,,,No Especificada,Failed
+1412,,,No Especificada,Failed
+1413,,,No Especificada,Failed
+1414,,,No Especificada,Failed
+1415,,,No Especificada,Failed
+1418,,,No Especificada,Failed
+1419,,,No Especificada,Failed
+1421,,,No Especificada,Failed
+1423,,,No Especificada,Failed
+1425,,,No Especificada,Failed
+1427,,,No Especificada,Failed
+1429,,,No Especificada,Failed
+1430,,,No Especificada,Failed
+1431,,,No Especificada,Failed
+1432,,,No Especificada,Failed
+1436,,,No Especificada,Failed
+1439,,,No Especificada,Failed
+1441,,,No Especificada,Failed
+1442,,,No Especificada,Failed
+1443,,,No Especificada,Failed
+1444,,,No Especificada,Failed
+1445,,,No Especificada,Failed
+1446,,,No Especificada,Failed
+1447,,,No Especificada,Failed
+1448,,,No Especificada,Failed
+1449,,,No Especificada,Failed
+1450,,,No Especificada,Failed
+1451,,,No Especificada,Failed
+1452,,,No Especificada,Failed
+1454,,,No Especificada,Failed
+1455,,,No Especificada,Failed
+1456,,,No Especificada,Failed
+1458,,,No Especificada,Failed
+1459,,,No Especificada,Failed
+1463,,,No Especificada,Failed
+1467,,,No Especificada,Failed
+1469,,,No Especificada,Failed
+1471,,,No Especificada,Failed
+1478,,,No Especificada,Failed
+1482,,,No Especificada,Failed
+1485,,,No Especificada,Failed
+1491,,,No Especificada,Failed
+1492,,,No Especificada,Failed
+1493,,,No Especificada,Failed
+1494,,,No Especificada,Failed
+1495,,,No Especificada,Failed
+1499,,,No Especificada,Failed
+1502,,,No Especificada,Failed
+1503,,,No Especificada,Failed
+1504,,,No Especificada,Failed
+1505,,,No Especificada,Failed
+1506,,,No Especificada,Failed
+1507,,,No Especificada,Failed
+1508,,,No Especificada,Failed
+1511,,,No Especificada,Failed
+1512,,,No Especificada,Failed
+1514,,,No Especificada,Failed
+1517,,,No Especificada,Failed
+1520,,,No Especificada,Failed
+1523,-33.4581423,-70.6418814,Santiago,"avenida matta  e, Santiago, Chile"
+1524,,,No Especificada,Failed
+1527,,,No Especificada,Failed
+1528,,,No Especificada,Failed
+1529,,,No Especificada,Failed
+1530,,,No Especificada,Failed
+1532,,,No Especificada,Failed
+1533,,,No Especificada,Failed
+1535,,,No Especificada,Failed
+1541,,,No Especificada,Failed
+1544,,,No Especificada,Failed
+1545,,,No Especificada,Failed
+1547,,,No Especificada,Failed
+1553,,,No Especificada,Failed
+1554,,,No Especificada,Failed
+1555,,,No Especificada,Failed
+1556,,,No Especificada,Failed
+1558,,,No Especificada,Failed
+1563,,,No Especificada,Failed
+1565,,,No Especificada,Failed
+1567,,,No Especificada,Failed
+1569,,,No Especificada,Failed
+1571,,,No Especificada,Failed
+1572,,,No Especificada,Failed
+1573,,,No Especificada,Failed
+1575,,,No Especificada,Failed
+1577,,,No Especificada,Failed
+1579,,,No Especificada,Failed
+1580,,,No Especificada,Failed
+1582,,,No Especificada,Failed
+1584,,,No Especificada,Failed
+1585,,,No Especificada,Failed
+1587,,,No Especificada,Failed
+1591,,,No Especificada,Failed
+1593,,,No Especificada,Failed
+1595,,,No Especificada,Failed
+1596,,,No Especificada,Failed
+1598,-33.4337574,-70.6649742,Santiago,"avenida brasil, Santiago, Chile"
+1607,,,No Especificada,Failed
+1608,,,No Especificada,Failed
+1609,,,No Especificada,Failed
+1618,,,No Especificada,Failed
+1628,,,No Especificada,Failed
+1659,,,No Especificada,Failed
+1667,,,No Especificada,Failed
+1674,,,No Especificada,Failed
+1808,,,No Especificada,Failed
+1847,,,No Especificada,Failed
+1896,,,No Especificada,Failed
+1897,,,No Especificada,Failed
+1899,,,No Especificada,Failed
+1900,,,No Especificada,Failed
+1963,,,No Especificada,Failed
+1968,,,No Especificada,Failed
+1969,,,No Especificada,Failed
+1971,,,No Especificada,Failed
+1974,,,No Especificada,Failed
+1975,,,No Especificada,Failed
+1976,,,No Especificada,Failed
+1978,,,No Especificada,Failed
+1979,,,No Especificada,Failed
+1980,,,No Especificada,Failed
+1981,,,No Especificada,Failed
+1982,,,No Especificada,Failed
+1986,,,No Especificada,Failed
+1989,,,No Especificada,Failed
+1990,,,No Especificada,Failed
+1993,,,No Especificada,Failed
+1994,,,No Especificada,Failed
+1995,,,No Especificada,Failed
+1996,,,No Especificada,Failed
+1997,,,No Especificada,Failed
+1998,,,No Especificada,Failed
+2000,,,No Especificada,Failed
+2001,-33.4577519,-70.6698633,Santiago,Barrio: blanco encalada
+2004,,,No Especificada,Failed
+2006,,,No Especificada,Failed
+2013,,,No Especificada,Failed
+2014,,,No Especificada,Failed
+2015,,,No Especificada,Failed
+10,,,No Especificada,Failed
+30,-33.4203642,-70.5887829,Las Condes,"Avenida presidente errazuriz, Santiago, Chile"
+58,,,No Especificada,Failed
+106,,,No Especificada,Failed
+108,,,No Especificada,Failed
+109,,,No Especificada,Failed
+110,,,No Especificada,Failed
+111,,,No Especificada,Failed
+112,,,No Especificada,Failed
+114,,,No Especificada,Failed
+115,,,No Especificada,Failed
+116,-33.458934,-70.6393561,San Joaquín,"departamento, Santiago, Chile"
+120,,,No Especificada,Failed
+121,,,No Especificada,Failed
+127,28.6811428,-17.766999,Casco Antiguo,"Calle la dehesa, Santiago, Chile"
+130,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+154,,,No Especificada,Failed
+157,,,No Especificada,Failed
+199,-33.441378,-70.645761,Santiago,"Calle san diego, Santiago, Chile"
+202,-33.4075185,-70.5607405,Las Condes,"Avenida apoquindo, Santiago, Chile"
+203,,,No Especificada,Failed
+206,,,No Especificada,Failed
+207,-33.5142519,-70.657118,San Miguel,"Avenida gran avenida, Santiago, Chile"
+208,-33.4472429,-70.5969623,Ñuñoa,"Avenida holanda, Santiago, Chile"
+209,,,No Especificada,Failed
+212,,,No Especificada,Failed
+213,,,No Especificada,Failed
+214,,,No Especificada,Failed
+216,,,No Especificada,Failed
+220,,,No Especificada,Failed
+222,,,No Especificada,Failed
+225,,,No Especificada,Failed
+229,,,No Especificada,Failed
+231,,,No Especificada,Failed
+232,,,No Especificada,Failed
+233,,,No Especificada,Failed
+234,28.6811428,-17.766999,Casco Antiguo,"Calle la dehesa, Santiago, Chile"
+238,,,No Especificada,Failed
+239,,,No Especificada,Failed
+240,,,No Especificada,Failed
+241,-33.4443649,-70.6713327,Santiago,"lindo, Santiago, Chile"
+243,,,No Especificada,Failed
+244,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+246,,,No Especificada,Failed
+247,,,No Especificada,Failed
+250,-33.6269119,-70.6200287,Puente Alto,"Calle lira, Santiago, Chile"
+258,,,No Especificada,Failed
+259,-33.5866104,-70.5512995,Puente Alto,"hermoso, Santiago, Chile"
+263,,,No Especificada,Failed
+264,,,No Especificada,Failed
+268,,,No Especificada,Failed
+269,,,No Especificada,Failed
+270,,,No Especificada,Failed
+271,,,No Especificada,Failed
+272,,,No Especificada,Failed
+273,,,No Especificada,Failed
+274,,,No Especificada,Failed
+275,,,No Especificada,Failed
+276,,,No Especificada,Failed
+277,-33.3851805,-70.6335544,Huechuraba,"vespucio, Santiago, Chile"
+283,-33.4665798,-70.6305726,San Joaquín,"Avenida portugal, Santiago, Chile"
+284,-33.4712179,-70.6357522,San Miguel,Barrio: el llano
+290,,,No Especificada,Failed
+291,,,No Especificada,Failed
+292,28.6811428,-17.766999,Casco Antiguo,"Calle la dehesa, Santiago, Chile"
+295,,,No Especificada,Failed
+296,,,No Especificada,Failed
+303,,,No Especificada,Failed
+305,,,No Especificada,Failed
+306,,,No Especificada,Failed
+309,,,No Especificada,Failed
+310,-33.4579912,-70.6421168,Santiago,"Avenida matta, Santiago, Chile"
+312,,,No Especificada,Failed
+315,28.6811428,-17.766999,Casco Antiguo,"Calle la dehesa, Santiago, Chile"
+316,,,No Especificada,Failed
+317,,,No Especificada,Failed
+319,-33.4917907,-70.6175195,San Joaquín,"camino agrícola, Santiago, Chile"
+323,,,No Especificada,Failed
+324,,,No Especificada,Failed
+325,,,No Especificada,Failed
+326,,,No Especificada,Failed
+327,-33.4683054,-70.592559,Ñuñoa,"maravilloso, Santiago, Chile"
+330,,,No Especificada,Failed
+333,,,No Especificada,Failed
+334,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+336,,,No Especificada,Failed
+339,,,No Especificada,Failed
+340,,,No Especificada,Failed
+341,,,No Especificada,Failed
+342,,,No Especificada,Failed
+344,,,No Especificada,Failed
+346,,,No Especificada,Failed
+348,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+350,,,No Especificada,Failed
+353,,,No Especificada,Failed
+355,,,No Especificada,Failed
+356,,,No Especificada,Failed
+357,,,No Especificada,Failed
+359,,,No Especificada,Failed
+360,,,No Especificada,Failed
+361,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+362,,,No Especificada,Failed
+364,,,No Especificada,Failed
+365,,,No Especificada,Failed
+369,,,No Especificada,Failed
+370,,,No Especificada,Failed
+371,,,No Especificada,Failed
+373,,,No Especificada,Failed
+374,,,No Especificada,Failed
+375,-33.441378,-70.645761,Santiago,"Calle moneda, Santiago, Chile"
+377,-33.4443649,-70.6713327,Santiago,"lindo, Santiago, Chile"
+378,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+379,,,No Especificada,Failed
+380,,,No Especificada,Failed
+381,,,No Especificada,Failed
+382,,,No Especificada,Failed
+383,-33.4853601,-70.5977795,Macul,"Avenida quilin, Santiago, Chile"
+386,,,No Especificada,Failed
+387,,,No Especificada,Failed
+388,,,No Especificada,Failed
+389,,,No Especificada,Failed
+390,-33.4665798,-70.6305726,San Joaquín,"Avenida portugal, Santiago, Chile"
+415,,,No Especificada,Failed
+420,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+432,,,No Especificada,Failed
+459,,,No Especificada,Failed
+460,,,No Especificada,Failed
+485,,,No Especificada,Failed
+507,,,No Especificada,Failed
+532,,,No Especificada,Failed
+539,,,No Especificada,Failed
+548,,,No Especificada,Failed
+555,,,No Especificada,Failed
+561,,,No Especificada,Failed
+596,,,No Especificada,Failed
+598,,,No Especificada,Failed
+631,,,No Especificada,Failed
+637,-33.6312054,-70.6086659,Puente Alto,"Calle san francisco, Santiago, Chile"
+643,-33.4311902,-70.5879992,Providencia,"Avenida pocuro, Santiago, Chile"
+647,,,No Especificada,Failed
+652,,,No Especificada,Failed
+653,-33.4119527,-70.7078411,Quinta Normal,"Calle carmen, Santiago, Chile"
+664,,,No Especificada,Failed
+667,,,No Especificada,Failed
+669,,,No Especificada,Failed
+671,,,No Especificada,Failed
+686,,,No Especificada,Failed
+688,,,No Especificada,Failed
+692,,,No Especificada,Failed
+694,-48.4685225,-72.5565295,O’Higgins,"(adm), Santiago, Chile"
+695,,,No Especificada,Failed
+697,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+698,,,No Especificada,Failed
+699,-33.4379948,-70.6312871,Providencia,"seminario a, Santiago, Chile"
+700,-33.4379948,-70.6312871,Providencia,"seminario a, Santiago, Chile"
+706,,,No Especificada,Failed
+710,-33.4712179,-70.6357522,San Miguel,Barrio: el llano
+711,,,No Especificada,Failed
+713,-33.6195136,-70.6039955,Puente Alto,"luminoso, Santiago, Chile"
+720,,,No Especificada,Failed
+722,,,No Especificada,Failed
+723,-33.5259299,-70.5614905,La Florida,"luis carrera, Santiago, Chile"
+724,-33.4450864,-70.6389751,Santiago,"arriendo de, Santiago, Chile"
+727,,,No Especificada,Failed
+728,-33.458934,-70.6393561,San Joaquín,"departamento, Santiago, Chile"
+729,,,No Especificada,Failed
+731,,,No Especificada,Failed
+733,,,No Especificada,Failed
+736,,,No Especificada,Failed
+737,,,No Especificada,Failed
+738,28.6811428,-17.766999,Casco Antiguo,"Calle la dehesa, Santiago, Chile"
+739,,,No Especificada,Failed
+740,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+741,,,No Especificada,Failed
+744,,,No Especificada,Failed
+746,,,No Especificada,Failed
+747,-33.4119527,-70.7078411,Quinta Normal,"Calle carmen, Santiago, Chile"
+749,,,No Especificada,Failed
+750,,,No Especificada,Failed
+751,,,No Especificada,Failed
+752,,,No Especificada,Failed
+754,,,No Especificada,Failed
+756,,,No Especificada,Failed
+757,,,No Especificada,Failed
+760,,,No Especificada,Failed
+761,,,No Especificada,Failed
+764,,,No Especificada,Failed
+767,,,No Especificada,Failed
+770,,,No Especificada,Failed
+776,,,No Especificada,Failed
+783,,,No Especificada,Failed
+787,,,No Especificada,Failed
+791,,,No Especificada,Failed
+794,,,No Especificada,Failed
+799,,,No Especificada,Failed
+802,,,No Especificada,Failed
+803,,,No Especificada,Failed
+804,,,No Especificada,Failed
+805,,,No Especificada,Failed
+808,,,No Especificada,Failed
+809,,,No Especificada,Failed
+830,,,No Especificada,Failed
+832,,,No Especificada,Failed
+834,28.6811428,-17.766999,Casco Antiguo,"Calle la dehesa, Santiago, Chile"
+836,,,No Especificada,Failed
+837,,,No Especificada,Failed
+838,,,No Especificada,Failed
+842,,,No Especificada,Failed
+843,,,No Especificada,Failed
+845,,,No Especificada,Failed
+846,,,No Especificada,Failed
+848,,,No Especificada,Failed
+849,,,No Especificada,Failed
+853,28.6811428,-17.766999,Casco Antiguo,"Calle la dehesa, Santiago, Chile"
+854,,,No Especificada,Failed
+855,-33.4456658,-70.6009944,Ñuñoa,"Avenida suecia, Santiago, Chile"
+857,,,No Especificada,Failed
+858,,,No Especificada,Failed
+863,,,No Especificada,Failed
+865,,,No Especificada,Failed
+869,,,No Especificada,Failed
+884,,,No Especificada,Failed
+916,,,No Especificada,Failed
+925,,,No Especificada,Failed
+993,-33.4119527,-70.7078411,Quinta Normal,"Calle carmen, Santiago, Chile"
+995,,,No Especificada,Failed
+997,,,No Especificada,Failed
+1003,,,No Especificada,Failed
+1005,,,No Especificada,Failed
+1006,,,No Especificada,Failed
+1007,,,No Especificada,Failed
+1012,,,No Especificada,Failed
+1013,,,No Especificada,Failed
+1014,-33.4032536,-70.5750786,Las Condes,"parque araucano, Santiago, Chile"
+1015,,,No Especificada,Failed
+10,,,No Especificada,Failed
+58,,,No Especificada,Failed
+106,,,No Especificada,Failed
+108,,,No Especificada,Failed
+109,,,No Especificada,Failed
+110,,,No Especificada,Failed
+111,,,No Especificada,Failed
+112,,,No Especificada,Failed
+114,,,No Especificada,Failed
+115,,,No Especificada,Failed
+120,,,No Especificada,Failed
+121,,,No Especificada,Failed
+154,,,No Especificada,Failed
+157,,,No Especificada,Failed
+203,,,No Especificada,Failed
+206,,,No Especificada,Failed
+209,,,No Especificada,Failed
+212,,,No Especificada,Failed
+213,,,No Especificada,Failed
+214,,,No Especificada,Failed
+216,,,No Especificada,Failed
+220,,,No Especificada,Failed
+222,,,No Especificada,Failed
+225,,,No Especificada,Failed
+229,,,No Especificada,Failed
+231,,,No Especificada,Failed
+232,,,No Especificada,Failed
+233,,,No Especificada,Failed
+238,,,No Especificada,Failed
+239,,,No Especificada,Failed
+240,,,No Especificada,Failed
+243,,,No Especificada,Failed
+246,,,No Especificada,Failed
+247,,,No Especificada,Failed
+258,,,No Especificada,Failed
+263,,,No Especificada,Failed
+264,,,No Especificada,Failed
+268,,,No Especificada,Failed
+269,,,No Especificada,Failed
+270,,,No Especificada,Failed
+271,,,No Especificada,Failed
+272,,,No Especificada,Failed
+273,,,No Especificada,Failed
+274,,,No Especificada,Failed
+275,,,No Especificada,Failed
+276,,,No Especificada,Failed
+290,,,No Especificada,Failed
+291,,,No Especificada,Failed
+295,,,No Especificada,Failed
+296,,,No Especificada,Failed
+303,,,No Especificada,Failed
+305,,,No Especificada,Failed
+306,,,No Especificada,Failed
+309,,,No Especificada,Failed
+312,,,No Especificada,Failed
+316,,,No Especificada,Failed
+317,,,No Especificada,Failed
+323,,,No Especificada,Failed
+324,,,No Especificada,Failed
+325,,,No Especificada,Failed
+326,,,No Especificada,Failed
+330,,,No Especificada,Failed
+333,,,No Especificada,Failed
+336,,,No Especificada,Failed
+339,,,No Especificada,Failed
+340,,,No Especificada,Failed
+341,,,No Especificada,Failed
+342,,,No Especificada,Failed
+344,,,No Especificada,Failed
+346,,,No Especificada,Failed
+350,,,No Especificada,Failed
+353,,,No Especificada,Failed
+355,,,No Especificada,Failed
+356,,,No Especificada,Failed
+357,,,No Especificada,Failed
+359,,,No Especificada,Failed
+360,,,No Especificada,Failed
+362,,,No Especificada,Failed
+364,,,No Especificada,Failed
+365,,,No Especificada,Failed
+369,,,No Especificada,Failed
+370,,,No Especificada,Failed
+371,,,No Especificada,Failed
+373,,,No Especificada,Failed
+374,,,No Especificada,Failed
+379,,,No Especificada,Failed
+380,,,No Especificada,Failed
+381,,,No Especificada,Failed
+382,,,No Especificada,Failed
+386,,,No Especificada,Failed
+387,,,No Especificada,Failed
+388,,,No Especificada,Failed
+389,,,No Especificada,Failed
+415,,,No Especificada,Failed
+432,,,No Especificada,Failed
+459,,,No Especificada,Failed
+460,,,No Especificada,Failed
+485,,,No Especificada,Failed
+507,,,No Especificada,Failed
+532,,,No Especificada,Failed
+539,,,No Especificada,Failed
+548,,,No Especificada,Failed
+555,,,No Especificada,Failed
+561,,,No Especificada,Failed
+596,,,No Especificada,Failed
+598,,,No Especificada,Failed
+631,,,No Especificada,Failed
+647,,,No Especificada,Failed
+652,,,No Especificada,Failed
+664,,,No Especificada,Failed
+667,,,No Especificada,Failed
+669,,,No Especificada,Failed
+671,,,No Especificada,Failed
+686,,,No Especificada,Failed
+688,,,No Especificada,Failed
+692,,,No Especificada,Failed
+695,,,No Especificada,Failed
+698,,,No Especificada,Failed
+706,,,No Especificada,Failed
+711,,,No Especificada,Failed
+720,,,No Especificada,Failed
+722,,,No Especificada,Failed
+727,,,No Especificada,Failed
+729,,,No Especificada,Failed
+731,,,No Especificada,Failed
+733,,,No Especificada,Failed
+736,,,No Especificada,Failed
+737,,,No Especificada,Failed
+739,,,No Especificada,Failed
+741,,,No Especificada,Failed
+744,,,No Especificada,Failed
+746,,,No Especificada,Failed
+749,,,No Especificada,Failed
+750,,,No Especificada,Failed
+751,,,No Especificada,Failed
+752,,,No Especificada,Failed
+754,,,No Especificada,Failed
+756,,,No Especificada,Failed
+757,,,No Especificada,Failed
+760,,,No Especificada,Failed
+761,,,No Especificada,Failed
+764,,,No Especificada,Failed
+767,,,No Especificada,Failed
+770,,,No Especificada,Failed
+776,,,No Especificada,Failed
+783,,,No Especificada,Failed
+787,,,No Especificada,Failed
+791,,,No Especificada,Failed
+794,,,No Especificada,Failed
+799,,,No Especificada,Failed
+802,,,No Especificada,Failed
+803,,,No Especificada,Failed
+804,,,No Especificada,Failed
+805,,,No Especificada,Failed
+808,,,No Especificada,Failed
+809,,,No Especificada,Failed
+830,,,No Especificada,Failed
+832,,,No Especificada,Failed
+836,,,No Especificada,Failed
+837,,,No Especificada,Failed
+838,,,No Especificada,Failed
+842,,,No Especificada,Failed
+843,,,No Especificada,Failed
+845,,,No Especificada,Failed
+846,,,No Especificada,Failed
+848,,,No Especificada,Failed
+849,,,No Especificada,Failed
+854,,,No Especificada,Failed
+857,,,No Especificada,Failed
+858,,,No Especificada,Failed
+863,,,No Especificada,Failed
+865,,,No Especificada,Failed
+869,,,No Especificada,Failed
+884,,,No Especificada,Failed
+916,,,No Especificada,Failed
+925,,,No Especificada,Failed
+995,,,No Especificada,Failed
+997,,,No Especificada,Failed
+1003,,,No Especificada,Failed
+1005,,,No Especificada,Failed
+1006,,,No Especificada,Failed
+1007,,,No Especificada,Failed
+1012,,,No Especificada,Failed
+1013,,,No Especificada,Failed
+1015,,,No Especificada,Failed
+1016,,,No Especificada,Failed
+1018,-33.4151936,-70.5617447,Las Condes,"bello horizonte /, Santiago, Chile"
+1021,,,No Especificada,Failed
+1025,,,No Especificada,Failed
+1030,,,No Especificada,Failed
+1031,,,No Especificada,Failed
+1033,,,No Especificada,Failed
+1036,-33.4475907,-70.8506318,Pudahuel,"tranquilo, Santiago, Chile"
+1038,,,No Especificada,Failed
+1039,,,No Especificada,Failed
+1040,,,No Especificada,Failed
+1041,,,No Especificada,Failed
+1053,,,No Especificada,Failed
+1054,,,No Especificada,Failed
+1055,-33.5782792,-70.6683609,El Bosque,"Calle san pablo, Santiago, Chile"
+1057,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+1061,-33.4147728,-70.5984844,Las Condes,"plaza perú, Santiago, Chile"
+1062,-33.4697458,-70.624665,Ñuñoa,"Avenida vicuña mackenna, Santiago, Chile"
+1063,-33.5778131,-71.0085329,Melipilla,"$380.000, Santiago, Chile"
+1064,,,No Especificada,Failed
+1074,,,No Especificada,Failed
+1076,-33.4553876,-70.5918829,Ñuñoa,"Avenida irarrazaval, Santiago, Chile"
+1080,-33.5934551,-70.6983602,San Bernardo,"exclusivo, Santiago, Chile"
+1081,,,No Especificada,Failed
+1082,,,No Especificada,Failed
+1086,,,No Especificada,Failed
+1087,,,No Especificada,Failed
+1089,,,No Especificada,Failed
+1090,,,No Especificada,Failed
+1095,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+1096,28.6811428,-17.766999,Casco Antiguo,"Calle la dehesa, Santiago, Chile"
+1106,,,No Especificada,Failed
+1107,-33.441378,-70.645761,Santiago,"Calle moneda, Santiago, Chile"
+1111,,,No Especificada,Failed
+1112,-33.6195136,-70.6039955,Puente Alto,"luminoso, Santiago, Chile"
+1113,,,No Especificada,Failed
+1115,-33.570612,-71.2018757,Bollenar,"colegio san esteban, Santiago, Chile"
+1116,,,No Especificada,Failed
+1118,,,No Especificada,Failed
+1119,,,No Especificada,Failed
+1120,,,No Especificada,Failed
+1122,,,No Especificada,Failed
+1123,,,No Especificada,Failed
+1128,,,No Especificada,Failed
+1131,,,No Especificada,Failed
+1134,,,No Especificada,Failed
+1136,,,No Especificada,Failed
+1137,,,No Especificada,Failed
+1138,,,No Especificada,Failed
+1141,,,No Especificada,Failed
+1144,,,No Especificada,Failed
+1145,-33.4853601,-70.5977795,Macul,"Avenida quilin, Santiago, Chile"
+1149,,,No Especificada,Failed
+1151,,,No Especificada,Failed
+1154,,,No Especificada,Failed
+1156,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+1158,-33.5666899,-70.683028,El Bosque,"Calle kennedy, Santiago, Chile"
+1162,,,No Especificada,Failed
+1166,,,No Especificada,Failed
+1173,,,No Especificada,Failed
+1174,,,No Especificada,Failed
+1177,,,No Especificada,Failed
+1179,,,No Especificada,Failed
+1180,,,No Especificada,Failed
+1182,,,No Especificada,Failed
+1184,,,No Especificada,Failed
+1185,,,No Especificada,Failed
+1186,,,No Especificada,Failed
+1188,,,No Especificada,Failed
+1189,-33.4668181,-70.6735018,Estación Central,"oriente, Santiago, Chile"
+1190,,,No Especificada,Failed
+1191,,,No Especificada,Failed
+1193,,,No Especificada,Failed
+1194,-33.4683054,-70.592559,Ñuñoa,"maravilloso, Santiago, Chile"
+1195,-33.7274203,-70.7481087,Buin,"moderno, Santiago, Chile"
+1196,,,No Especificada,Failed
+1198,,,No Especificada,Failed
+1199,,,No Especificada,Failed
+1202,,,No Especificada,Failed
+1203,,,No Especificada,Failed
+1205,,,No Especificada,Failed
+1206,,,No Especificada,Failed
+1207,,,No Especificada,Failed
+1209,-33.5799189,-70.6200394,La Pintana,"Calle rosas, Santiago, Chile"
+1210,-33.4311902,-70.5879992,Providencia,"Avenida pocuro, Santiago, Chile"
+1213,,,No Especificada,Failed
+1214,,,No Especificada,Failed
+1215,,,No Especificada,Failed
+1219,,,No Especificada,Failed
+1221,,,No Especificada,Failed
+1228,,,No Especificada,Failed
+1229,-33.4452723,-70.6841531,Estación Central,"departamento, Santiago, Chile"
+1230,,,No Especificada,Failed
+1231,,,No Especificada,Failed
+1234,-33.6195136,-70.6039955,Puente Alto,"luminoso, Santiago, Chile"
+1237,,,No Especificada,Failed
+1239,,,No Especificada,Failed
+1241,,,No Especificada,Failed
+1243,,,No Especificada,Failed
+1244,,,No Especificada,Failed
+1247,,,No Especificada,Failed
+1248,,,No Especificada,Failed
+1250,,,No Especificada,Failed
+1251,,,No Especificada,Failed
+1252,,,No Especificada,Failed
+1258,,,No Especificada,Failed
+1263,,,No Especificada,Failed
+1264,,,No Especificada,Failed
+1266,,,No Especificada,Failed
+1269,,,No Especificada,Failed
+1273,,,No Especificada,Failed
+1279,-33.4853601,-70.5977795,Macul,"Avenida quilin, Santiago, Chile"
+1281,,,No Especificada,Failed
+1283,,,No Especificada,Failed
+1284,,,No Especificada,Failed
+1287,,,No Especificada,Failed
+1288,,,No Especificada,Failed
+1292,,,No Especificada,Failed
+1307,,,No Especificada,Failed
+1309,,,No Especificada,Failed
+1317,-33.409839,-70.6052122,Las Condes,"costanera sur, Santiago, Chile"
+1320,,,No Especificada,Failed
+1325,-33.5666899,-70.683028,El Bosque,"Calle kennedy, Santiago, Chile"
+1338,,,No Especificada,Failed
+1340,,,No Especificada,Failed
+1343,28.6811428,-17.766999,Casco Antiguo,"Calle la dehesa, Santiago, Chile"
+1344,,,No Especificada,Failed
+1347,,,No Especificada,Failed
+1348,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+1349,,,No Especificada,Failed
+1351,,,No Especificada,Failed
+1353,,,No Especificada,Failed
+1354,,,No Especificada,Failed
+1356,,,No Especificada,Failed
+1358,,,No Especificada,Failed
+1360,,,No Especificada,Failed
+1361,,,No Especificada,Failed
+1364,,,No Especificada,Failed
+1366,,,No Especificada,Failed
+1372,-33.6195136,-70.6039955,Puente Alto,"luminoso, Santiago, Chile"
+1375,,,No Especificada,Failed
+1376,,,No Especificada,Failed
+1377,,,No Especificada,Failed
+1379,,,No Especificada,Failed
+1385,,,No Especificada,Failed
+1386,-33.441378,-70.645761,Santiago,"Calle moneda, Santiago, Chile"
+1387,,,No Especificada,Failed
+1388,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+1389,,,No Especificada,Failed
+1391,,,No Especificada,Failed
+1392,,,No Especificada,Failed
+1394,,,No Especificada,Failed
+1396,,,No Especificada,Failed
+1397,,,No Especificada,Failed
+1399,-33.4443649,-70.6713327,Santiago,"lindo, Santiago, Chile"
+1400,-33.5934551,-70.6983602,San Bernardo,"exclusivo, Santiago, Chile"
+1402,,,No Especificada,Failed
+1403,,,No Especificada,Failed
+1404,,,No Especificada,Failed
+1405,-33.5934551,-70.6983602,San Bernardo,"exclusivo, Santiago, Chile"
+1406,,,No Especificada,Failed
+1407,,,No Especificada,Failed
+1408,,,No Especificada,Failed
+1410,-33.4443649,-70.6713327,Santiago,"lindo, Santiago, Chile"
+1412,,,No Especificada,Failed
+1413,-33.7274203,-70.7481087,Buin,"moderno, Santiago, Chile"
+1414,,,No Especificada,Failed
+1415,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+1418,-33.7274203,-70.7481087,Buin,"moderno, Santiago, Chile"
+1419,,,No Especificada,Failed
+1421,-33.4443649,-70.6713327,Santiago,"lindo, Santiago, Chile"
+1423,-33.7274203,-70.7481087,Buin,"moderno, Santiago, Chile"
+1425,-33.7274203,-70.7481087,Buin,"moderno, Santiago, Chile"
+1427,-33.5259299,-70.5614905,La Florida,"luis carrera, Santiago, Chile"
+1429,,,No Especificada,Failed
+1430,-33.3963626,-70.5470679,Las Condes,"gran, Santiago, Chile"
+1431,,,No Especificada,Failed
+1432,,,No Especificada,Failed
+1436,-33.4697458,-70.624665,Ñuñoa,"Avenida vicuña mackenna, Santiago, Chile"
+1439,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+1441,,,No Especificada,Failed
+1442,,,No Especificada,Failed
+1443,,,No Especificada,Failed
+1444,,,No Especificada,Failed
+1445,,,No Especificada,Failed
+1446,,,No Especificada,Failed
+1447,,,No Especificada,Failed
+1448,,,No Especificada,Failed
+1449,,,No Especificada,Failed
+1450,,,No Especificada,Failed
+1451,,,No Especificada,Failed
+1452,,,No Especificada,Failed
+1454,28.6811428,-17.766999,Casco Antiguo,"Calle la dehesa, Santiago, Chile"
+1455,,,No Especificada,Failed
+1456,,,No Especificada,Failed
+1458,,,No Especificada,Failed
+1459,,,No Especificada,Failed
+1463,,,No Especificada,Failed
+1467,,,No Especificada,Failed
+1469,,,No Especificada,Failed
+1471,,,No Especificada,Failed
+1478,,,No Especificada,Failed
+1482,,,No Especificada,Failed
+1485,,,No Especificada,Failed
+1491,,,No Especificada,Failed
+1492,,,No Especificada,Failed
+1493,-33.5866104,-70.5512995,Puente Alto,"hermoso, Santiago, Chile"
+1494,,,No Especificada,Failed
+1495,,,No Especificada,Failed
+1499,28.6811428,-17.766999,Casco Antiguo,"Calle la dehesa, Santiago, Chile"
+1502,-33.4796436,-70.7165252,Cerrillos,"costanera norte, Santiago, Chile"
+1503,,,No Especificada,Failed
+1504,,,No Especificada,Failed
+1505,,,No Especificada,Failed
+1506,,,No Especificada,Failed
+1507,-33.5866104,-70.5512995,Puente Alto,"hermoso, Santiago, Chile"
+1508,,,No Especificada,Failed
+1511,,,No Especificada,Failed
+1512,,,No Especificada,Failed
+1514,-33.4452723,-70.6841531,Estación Central,"departamento, Santiago, Chile"
+1517,,,No Especificada,Failed
+1520,,,No Especificada,Failed
+1524,,,No Especificada,Failed
+1527,,,No Especificada,Failed
+1528,,,No Especificada,Failed
+1529,,,No Especificada,Failed
+1530,-33.7274203,-70.7481087,Buin,"moderno, Santiago, Chile"
+1532,,,No Especificada,Failed
+1533,,,No Especificada,Failed
+1535,,,No Especificada,Failed
+1541,,,No Especificada,Failed
+1544,-33.4452723,-70.6841531,Estación Central,"departamento, Santiago, Chile"
+1545,-33.4075185,-70.5607405,Las Condes,"Avenida apoquindo, Santiago, Chile"
+1547,,,No Especificada,Failed
+1553,,,No Especificada,Failed
+1554,,,No Especificada,Failed
+1555,,,No Especificada,Failed
+1556,-33.4519079,-70.646931,Santiago,"vive, Santiago, Chile"
+1558,,,No Especificada,Failed
+1563,-33.407135,-70.6017677,Vitacura,"nuevo!!, Santiago, Chile"
+1565,,,No Especificada,Failed
+1567,,,No Especificada,Failed
+1569,,,No Especificada,Failed
+1571,,,No Especificada,Failed
+1572,-33.5934551,-70.6983602,San Bernardo,"exclusivo, Santiago, Chile"
+1573,,,No Especificada,Failed
+1575,,,No Especificada,Failed
+1577,-33.4597701,-70.6513378,Santiago,"Avenida matta, Santiago, Chile"
+1579,-33.4174953,-70.6047464,Providencia,"sanhattan, Santiago, Chile"
+1580,,,No Especificada,Failed
+1582,-33.4311902,-70.5879992,Providencia,"Avenida pocuro, Santiago, Chile"
+1584,,,No Especificada,Failed
+1585,,,No Especificada,Failed
+1587,,,No Especificada,Failed
+1591,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+1593,,,No Especificada,Failed
+1595,,,No Especificada,Failed
+1596,,,No Especificada,Failed
+1607,,,No Especificada,Failed
+1608,,,No Especificada,Failed
+1609,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+1618,,,No Especificada,Failed
+1628,,,No Especificada,Failed
+1659,,,No Especificada,Failed
+1667,,,No Especificada,Failed
+1674,,,No Especificada,Failed
+1808,,,No Especificada,Failed
+1847,,,No Especificada,Failed
+1896,,,No Especificada,Failed
+1897,-33.4266906,-70.6398828,Recoleta,"avenida perú, Santiago, Chile"
+1899,,,No Especificada,Failed
+1900,,,No Especificada,Failed
+1963,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+1968,,,No Especificada,Failed
+1969,,,No Especificada,Failed
+1971,,,No Especificada,Failed
+1974,-33.5866104,-70.5512995,Puente Alto,"hermoso, Santiago, Chile"
+1975,,,No Especificada,Failed
+1976,,,No Especificada,Failed
+1978,,,No Especificada,Failed
+1979,,,No Especificada,Failed
+1980,,,No Especificada,Failed
+1981,,,No Especificada,Failed
+1982,,,No Especificada,Failed
+1986,,,No Especificada,Failed
+1989,-33.7380573,-70.7478237,Buin,"Calle santa rosa, Santiago, Chile"
+1990,,,No Especificada,Failed
+1993,,,No Especificada,Failed
+1994,-33.5866104,-70.5512995,Puente Alto,"hermoso, Santiago, Chile"
+1995,,,No Especificada,Failed
+1996,,,No Especificada,Failed
+1997,,,No Especificada,Failed
+1998,,,No Especificada,Failed
+2000,,,No Especificada,Failed
+2004,,,No Especificada,Failed
+2006,-33.4450864,-70.6389751,Santiago,"arriendo, Santiago, Chile"
+2013,,,No Especificada,Failed
+2014,,,No Especificada,Failed
+2015,,,No Especificada,Failed
+10,,,No Especificada,Failed
+58,,,No Especificada,Failed
+106,,,No Especificada,Failed
+108,,,No Especificada,Failed
+109,,,No Especificada,Failed
+110,,,No Especificada,Failed
+111,,,No Especificada,Failed
+112,,,No Especificada,Failed
+114,,,No Especificada,Failed
+115,,,No Especificada,Failed
+120,,,No Especificada,Failed
+121,,,No Especificada,Failed
+154,,,No Especificada,Failed
+157,,,No Especificada,Failed
+203,,,No Especificada,Failed
+206,,,No Especificada,Failed
+209,,,No Especificada,Failed
+212,,,No Especificada,Failed
+213,,,No Especificada,Failed
+214,,,No Especificada,Failed
+216,,,No Especificada,Failed
+220,-33.5390184,-70.5571125,La Florida,"san damian, Santiago, Chile"
+222,,,No Especificada,Failed
+225,,,No Especificada,Failed
+229,,,No Especificada,Failed
+231,,,No Especificada,Failed
+232,,,No Especificada,Failed
+233,-33.4312967,-70.6244069,Providencia,"parque prager, Santiago, Chile"
+238,,,No Especificada,Failed
+239,,,No Especificada,Failed
+240,,,No Especificada,Failed
+243,,,No Especificada,Failed
+246,,,No Especificada,Failed
+247,,,No Especificada,Failed
+258,,,No Especificada,Failed
+263,,,No Especificada,Failed
+264,,,No Especificada,Failed
+268,,,No Especificada,Failed
+269,,,No Especificada,Failed
+270,,,No Especificada,Failed
+271,,,No Especificada,Failed
+272,,,No Especificada,Failed
+273,,,No Especificada,Failed
+274,,,No Especificada,Failed
+275,,,No Especificada,Failed
+276,,,No Especificada,Failed
+290,,,No Especificada,Failed
+291,,,No Especificada,Failed
+295,,,No Especificada,Failed
+296,,,No Especificada,Failed
+303,,,No Especificada,Failed
+305,,,No Especificada,Failed
+306,,,No Especificada,Failed
+309,,,No Especificada,Failed
+312,,,No Especificada,Failed
+316,,,No Especificada,Failed
+317,,,No Especificada,Failed
+323,,,No Especificada,Failed
+10,,,No Especificada,Failed
+58,,,No Especificada,Failed
+106,,,No Especificada,Failed
+108,,,No Especificada,Failed
+109,,,No Especificada,Failed
+110,,,No Especificada,Failed
+111,,,No Especificada,Failed
+112,,,No Especificada,Failed
+114,,,No Especificada,Failed
+115,,,No Especificada,Failed
+120,,,No Especificada,Failed
+121,,,No Especificada,Failed
+154,,,No Especificada,Failed
+157,,,No Especificada,Failed
+203,,,No Especificada,Failed
+206,-33.4383,-70.605,Providencia,Metro Fijo: Inés de Suárez
+209,,,No Especificada,Failed
+212,-33.45,-70.6583,Santiago,Metro Fijo: Toesca
+213,,,No Especificada,Failed
+214,,,No Especificada,Failed
+216,,,No Especificada,Failed
+222,-33.5333,-70.65,La Cisterna,Metro Fijo: Lo Ovalle
+225,-33.4667,-70.61,Ñuñoa,Metro Fijo: Ñuble
+229,,,No Especificada,Failed
+231,,,No Especificada,Failed
+232,,,No Especificada,Failed
+238,,,No Especificada,Failed
+239,,,No Especificada,Failed
+240,,,No Especificada,Failed
+243,,,No Especificada,Failed
+246,-33.4417,-70.645,Santiago,Metro Fijo: Santa Lucía
+247,,,No Especificada,Failed
+258,,,No Especificada,Failed
+263,-33.5333,-70.65,La Cisterna,Metro Fijo: Lo Ovalle
+264,,,No Especificada,Failed
+268,,,No Especificada,Failed
+269,,,No Especificada,Failed
+270,,,No Especificada,Failed
+271,,,No Especificada,Failed
+272,,,No Especificada,Failed
+273,-33.4667,-70.61,Ñuñoa,Metro Fijo: Ñuble
+274,,,No Especificada,Failed
+275,-33.4917,-70.5967,Macul,Metro Fijo: Las Torres
+276,-33.5333,-70.65,La Cisterna,Metro Fijo: Lo Ovalle
+290,-33.5333,-70.65,La Cisterna,Metro Fijo: Lo Ovalle
+291,,,No Especificada,Failed
+295,,,No Especificada,Failed
+296,,,No Especificada,Failed
+303,,,No Especificada,Failed
+305,,,No Especificada,Failed
+306,,,No Especificada,Failed
+309,-33.4417,-70.645,Santiago,Metro Fijo: Santa Lucía
+312,,,No Especificada,Failed
+316,,,No Especificada,Failed
+317,,,No Especificada,Failed
+323,,,No Especificada,Failed
+324,-33.4542,-70.6275,Ñuñoa,Metro Fijo: Irarrázaval
+325,,,No Especificada,Failed
+326,,,No Especificada,Failed
+330,-33.4542,-70.6275,Ñuñoa,Metro Fijo: Irarrázaval
+333,,,No Especificada,Failed
+336,,,No Especificada,Failed
+339,,,No Especificada,Failed
+340,-33.4217,-70.6533,Independencia,Metro Fijo: Hospitales
+341,-33.4217,-70.6533,Independencia,Metro Fijo: Hospitales
+342,-33.4217,-70.6533,Independencia,Metro Fijo: Hospitales
+344,,,No Especificada,Failed
+346,,,No Especificada,Failed
+350,,,No Especificada,Failed
+353,,,No Especificada,Failed
+355,,,No Especificada,Failed
+356,,,No Especificada,Failed
+357,,,No Especificada,Failed
+359,,,No Especificada,Failed
+360,,,No Especificada,Failed
+362,,,No Especificada,Failed
+364,,,No Especificada,Failed
+365,,,No Especificada,Failed
+369,,,No Especificada,Failed
+370,,,No Especificada,Failed
+371,,,No Especificada,Failed
+373,-33.3867,-70.6533,Conchalí,Metro Fijo: Vivaceta
+374,,,No Especificada,Failed
+379,,,No Especificada,Failed
+380,,,No Especificada,Failed
+381,,,No Especificada,Failed
+382,-33.4667,-70.61,Ñuñoa,Metro Fijo: Ñuble
+386,,,No Especificada,Failed
+387,,,No Especificada,Failed
+388,,,No Especificada,Failed
+389,,,No Especificada,Failed
+415,,,No Especificada,Failed
+432,-33.4667,-70.61,Ñuñoa,Metro Fijo: Ñuble
+459,,,No Especificada,Failed
+460,,,No Especificada,Failed
+485,,,No Especificada,Failed
+507,,,No Especificada,Failed
+532,,,No Especificada,Failed
+539,,,No Especificada,Failed
+548,,,No Especificada,Failed
+555,,,No Especificada,Failed
+561,,,No Especificada,Failed
+596,,,No Especificada,Failed
+598,,,No Especificada,Failed
+631,,,No Especificada,Failed
+647,,,No Especificada,Failed
+652,,,No Especificada,Failed
+664,-33.4383,-70.605,Providencia,Metro Fijo: Inés de Suárez
+667,,,No Especificada,Failed
+669,,,No Especificada,Failed
+671,,,No Especificada,Failed
+686,-33.4667,-70.61,Ñuñoa,Metro Fijo: Ñuble
+688,,,No Especificada,Failed
+692,,,No Especificada,Failed
+695,,,No Especificada,Failed
+698,,,No Especificada,Failed
+706,,,No Especificada,Failed
+711,,,No Especificada,Failed
+720,,,No Especificada,Failed
+722,,,No Especificada,Failed
+727,,,No Especificada,Failed
+729,,,No Especificada,Failed
+731,,,No Especificada,Failed
+733,,,No Especificada,Failed
+736,,,No Especificada,Failed
+737,,,No Especificada,Failed
+739,,,No Especificada,Failed
+741,,,No Especificada,Failed
+744,-33.5333,-70.65,La Cisterna,Metro Fijo: Lo Ovalle
+746,,,No Especificada,Failed
+749,,,No Especificada,Failed
+750,,,No Especificada,Failed
+751,,,No Especificada,Failed
+752,,,No Especificada,Failed
+754,,,No Especificada,Failed
+756,,,No Especificada,Failed
+757,,,No Especificada,Failed
+760,,,No Especificada,Failed
+761,,,No Especificada,Failed
+764,,,No Especificada,Failed
+767,,,No Especificada,Failed
+770,,,No Especificada,Failed
+776,-33.4833,-70.6067,San Joaquín,Metro Fijo: Carlos Valdovinos
+783,,,No Especificada,Failed
+787,,,No Especificada,Failed
+791,-33.5333,-70.65,La Cisterna,Metro Fijo: Lo Ovalle
+794,,,No Especificada,Failed
+799,,,No Especificada,Failed
+802,,,No Especificada,Failed
+803,,,No Especificada,Failed
+804,,,No Especificada,Failed
+805,,,No Especificada,Failed
+808,,,No Especificada,Failed
+809,,,No Especificada,Failed
+830,,,No Especificada,Failed
+832,,,No Especificada,Failed
+836,,,No Especificada,Failed
+837,,,No Especificada,Failed
+838,,,No Especificada,Failed
+842,-33.4147728,-70.5984844,Las Condes,"plaza perú, Santiago, Chile"
+843,,,No Especificada,Failed
+845,,,No Especificada,Failed
+846,,,No Especificada,Failed
+848,,,No Especificada,Failed
+849,,,No Especificada,Failed
+854,-33.4417,-70.6317,Providencia,Metro Fijo: Parque Bustamante
+857,-33.4554808,-70.6527912,Santiago,"familiar, Santiago, Chile"
+858,,,No Especificada,Failed
+863,,,No Especificada,Failed
+865,-33.45,-70.6583,Santiago,Metro Fijo: Toesca
+869,,,No Especificada,Failed
+884,,,No Especificada,Failed
+916,,,No Especificada,Failed
+925,,,No Especificada,Failed
+995,,,No Especificada,Failed
+997,,,No Especificada,Failed
+1003,,,No Especificada,Failed
+1005,-33.4888588,-70.7502262,Maipú,"pte errazuriz, Santiago, Chile"
+1006,,,No Especificada,Failed
+1007,,,No Especificada,Failed
+1012,-33.4583,-70.7117,Estación Central,Metro Fijo: Las Rejas
+1013,,,No Especificada,Failed
+1015,,,No Especificada,Failed
+1016,,,No Especificada,Failed
+1021,,,No Especificada,Failed
+1025,,,No Especificada,Failed
+1030,-33.3472764,-70.4904493,Lo Barnechea,"valle escondido, Santiago, Chile"
+1031,-33.3472764,-70.4904493,Lo Barnechea,"valle escondido, Santiago, Chile"
+1033,,,No Especificada,Failed
+1038,,,No Especificada,Failed
+1039,,,No Especificada,Failed
+1040,,,No Especificada,Failed
+1041,,,No Especificada,Failed
+1053,,,No Especificada,Failed
+1054,,,No Especificada,Failed
+1064,,,No Especificada,Failed
+1074,,,No Especificada,Failed
+1081,,,No Especificada,Failed
+1082,,,No Especificada,Failed
+1086,,,No Especificada,Failed
+1087,,,No Especificada,Failed
+1089,,,No Especificada,Failed
+1090,,,No Especificada,Failed
+1106,-33.4542,-70.6275,Ñuñoa,Metro Fijo: Irarrázaval
+1111,-33.4417,-70.645,Santiago,Metro Fijo: Santa Lucía
+1113,,,No Especificada,Failed
+1116,,,No Especificada,Failed
+1118,-33.4567,-70.7033,Estación Central,Metro Fijo: Ecuador
+1119,,,No Especificada,Failed
+1120,,,No Especificada,Failed
+1122,,,No Especificada,Failed
+1123,,,No Especificada,Failed
+1128,,,No Especificada,Failed
+1131,,,No Especificada,Failed
+1134,,,No Especificada,Failed
+1136,,,No Especificada,Failed
+1137,,,No Especificada,Failed
+1138,,,No Especificada,Failed
+1141,,,No Especificada,Failed
+1144,,,No Especificada,Failed
+1149,,,No Especificada,Failed
+1151,,,No Especificada,Failed
+1154,,,No Especificada,Failed
+1162,-33.4217,-70.6533,Independencia,Metro Fijo: Hospitales
+1166,,,No Especificada,Failed
+1173,-33.45,-70.6583,Santiago,Metro Fijo: Toesca
+1174,-33.5167,-70.65,San Miguel,Metro Fijo: Ciudad del Niño
+1177,,,No Especificada,Failed
+1179,,,No Especificada,Failed
+1180,,,No Especificada,Failed
+1182,,,No Especificada,Failed
+1184,-33.4392,-70.6567,Santiago,Metro Fijo: Santa Ana
+1185,,,No Especificada,Failed
+1186,,,No Especificada,Failed
+1188,,,No Especificada,Failed
+1190,,,No Especificada,Failed
+1191,,,No Especificada,Failed
+1193,,,No Especificada,Failed
+1196,,,No Especificada,Failed
+1198,,,No Especificada,Failed
+1199,,,No Especificada,Failed
+1202,,,No Especificada,Failed
+1203,,,No Especificada,Failed
+1205,,,No Especificada,Failed
+1206,,,No Especificada,Failed
+1207,,,No Especificada,Failed
+1213,,,No Especificada,Failed
+1214,,,No Especificada,Failed
+1215,-33.4833,-70.5967,Peñalolén,Metro Fijo: Quilín
+1219,,,No Especificada,Failed
+1221,,,No Especificada,Failed
+1228,,,No Especificada,Failed
+1230,,,No Especificada,Failed
+1231,-33.4439,-70.6508,Santiago,Metro Fijo: Universidad de Chile
+1237,-33.4392,-70.6567,Santiago,Metro Fijo: Santa Ana
+1239,,,No Especificada,Failed
+1241,,,No Especificada,Failed
+1243,,,No Especificada,Failed
+1244,,,No Especificada,Failed
+1247,,,No Especificada,Failed
+1248,,,No Especificada,Failed
+1250,,,No Especificada,Failed
+1251,,,No Especificada,Failed
+1252,,,No Especificada,Failed
+1258,,,No Especificada,Failed
+1263,,,No Especificada,Failed
+1264,,,No Especificada,Failed
+1266,,,No Especificada,Failed
+1269,,,No Especificada,Failed
+1273,,,No Especificada,Failed
+1281,,,No Especificada,Failed
+1283,,,No Especificada,Failed
+1284,,,No Especificada,Failed
+1287,,,No Especificada,Failed
+1288,-33.4567,-70.7033,Estación Central,Metro Fijo: Ecuador
+1292,,,No Especificada,Failed
+1307,,,No Especificada,Failed
+1309,,,No Especificada,Failed
+1320,-33.5934551,-70.6983602,San Bernardo,"exclusivo, Santiago, Chile"
+1338,,,No Especificada,Failed
+1340,,,No Especificada,Failed
+1344,,,No Especificada,Failed
+1347,,,No Especificada,Failed
+1349,,,No Especificada,Failed
+1351,,,No Especificada,Failed
+1353,,,No Especificada,Failed
+1354,-33.4456,-70.66,Santiago,Metro Fijo: Los Héroes
+1356,,,No Especificada,Failed
+1358,,,No Especificada,Failed
+1360,,,No Especificada,Failed
+1361,-33.4417,-70.645,Santiago,Metro Fijo: Santa Lucía
+1364,,,No Especificada,Failed
+1366,-33.4357195,-70.6402139,Santiago,"parque forestal, Santiago, Chile"
+1375,,,No Especificada,Failed
+1376,,,No Especificada,Failed
+1377,-33.4667,-70.61,Ñuñoa,Metro Fijo: Ñuble
+1379,,,No Especificada,Failed
+1385,,,No Especificada,Failed
+1387,,,No Especificada,Failed
+1389,,,No Especificada,Failed
+1391,,,No Especificada,Failed
+1392,-33.5273529,-70.665918,La Cisterna,"plaza, Santiago, Chile"
+1394,,,No Especificada,Failed
+1396,,,No Especificada,Failed
+1397,,,No Especificada,Failed
+1402,-33.4143437,-70.5945249,Las Condes,Barrio: isidora goyenechea
+1403,,,No Especificada,Failed
+1404,,,No Especificada,Failed
+1406,,,No Especificada,Failed
+1407,,,No Especificada,Failed
+1408,,,No Especificada,Failed
+1412,,,No Especificada,Failed
+1414,,,No Especificada,Failed
+1419,,,No Especificada,Failed
+1429,,,No Especificada,Failed
+1431,,,No Especificada,Failed
+1432,,,No Especificada,Failed
+1441,,,No Especificada,Failed
+1442,,,No Especificada,Failed
+1443,,,No Especificada,Failed
+1444,,,No Especificada,Failed
+1445,,,No Especificada,Failed
+1446,,,No Especificada,Failed
+1447,,,No Especificada,Failed
+1448,,,No Especificada,Failed
+1449,,,No Especificada,Failed
+1450,,,No Especificada,Failed
+1451,,,No Especificada,Failed
+1452,,,No Especificada,Failed
+1455,,,No Especificada,Failed
+1456,,,No Especificada,Failed
+1458,-33.4542,-70.6275,Ñuñoa,Metro Fijo: Irarrázaval
+1459,,,No Especificada,Failed
+1463,-33.4419782,-70.6530983,Santiago,"seguro, Santiago, Chile"
+1467,,,No Especificada,Failed
+1469,,,No Especificada,Failed
+1471,-33.41,-70.6533,Independencia,Metro Fijo: Plaza Chacabuco
+1478,,,No Especificada,Failed
+1482,,,No Especificada,Failed
+1485,-33.45,-70.6583,Santiago,Metro Fijo: Toesca
+1491,-33.5167,-70.6,La Florida,Metro Fijo: Mirador
+1492,,,No Especificada,Failed
+1494,-33.452344,-70.6790609,Estación Central,"estación de, Santiago, Chile"
+1495,,,No Especificada,Failed
+1503,,,No Especificada,Failed
+1504,,,No Especificada,Failed
+1505,-33.5853536,-70.8082277,Padre Hurtado,"Calle san ignacio, Santiago, Chile"
+1506,,,No Especificada,Failed
+1508,-33.4531512,-70.6439666,Santiago,"metro, Santiago, Chile"
+1511,,,No Especificada,Failed
+1512,,,No Especificada,Failed
+1517,-33.4378,-70.6503,Santiago,Metro Fijo: Plaza de Armas
+1520,,,No Especificada,Failed
+1524,-33.4392,-70.6567,Santiago,Metro Fijo: Santa Ana
+1527,,,No Especificada,Failed
+1528,,,No Especificada,Failed
+1529,-33.4392,-70.6567,Santiago,Metro Fijo: Santa Ana
+1532,,,No Especificada,Failed
+1533,-33.4617,-70.6083,Ñuñoa,Metro Fijo: Estadio Nacional
+1535,,,No Especificada,Failed
+1541,-33.4383,-70.605,Providencia,Metro Fijo: Inés de Suárez
+1547,,,No Especificada,Failed
+1553,,,No Especificada,Failed
+1554,,,No Especificada,Failed
+1555,,,No Especificada,Failed
+1558,,,No Especificada,Failed
+1565,,,No Especificada,Failed
+1567,,,No Especificada,Failed
+1569,,,No Especificada,Failed
+1571,,,No Especificada,Failed
+1573,,,No Especificada,Failed
+1575,-33.5167,-70.6,La Florida,Metro Fijo: Mirador
+1580,,,No Especificada,Failed
+1584,,,No Especificada,Failed
+1585,,,No Especificada,Failed
+1587,,,No Especificada,Failed
+1593,,,No Especificada,Failed
+1595,,,No Especificada,Failed
+1596,,,No Especificada,Failed
+1607,-33.5333,-70.65,La Cisterna,Metro Fijo: Lo Ovalle
+1608,-33.5333,-70.65,La Cisterna,Metro Fijo: Lo Ovalle
+1618,,,No Especificada,Failed
+1628,,,No Especificada,Failed
+1659,,,No Especificada,Failed
+1667,,,No Especificada,Failed
+1674,,,No Especificada,Failed
+1808,,,No Especificada,Failed
+1847,-33.4567,-70.7033,Estación Central,Metro Fijo: Ecuador
+1896,-33.45,-70.6583,Santiago,Metro Fijo: Toesca
+1899,,,No Especificada,Failed
+1900,,,No Especificada,Failed
+1968,-33.4542,-70.6275,Ñuñoa,Metro Fijo: Irarrázaval
+1969,-33.4392,-70.6567,Santiago,Metro Fijo: Santa Ana
+1971,,,No Especificada,Failed
+1975,-33.4531512,-70.6439666,Santiago,"metro, Santiago, Chile"
+1976,,,No Especificada,Failed
+1978,,,No Especificada,Failed
+1979,-33.4367,-70.6344,Providencia,Metro Fijo: Baquedano
+1980,,,No Especificada,Failed
+1981,-33.45,-70.6583,Santiago,Metro Fijo: Toesca
+1982,,,No Especificada,Failed
+1986,-33.4217,-70.6533,Independencia,Metro Fijo: Hospitales
+1990,,,No Especificada,Failed
+1993,,,No Especificada,Failed
+1995,,,No Especificada,Failed
+1996,,,No Especificada,Failed
+1997,,,No Especificada,Failed
+1998,,,No Especificada,Failed
+2000,,,No Especificada,Failed
+2004,,,No Especificada,Failed
+2013,,,No Especificada,Failed
+2014,-33.4392,-70.6567,Santiago,Metro Fijo: Santa Ana
+2015,,,No Especificada,Failed
